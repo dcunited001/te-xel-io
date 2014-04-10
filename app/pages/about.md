@@ -2,7 +2,7 @@
 title: ""
 ---
 
-<h1 class="text-center font-lobster">About Me</h1>
+<h1 class="text-center font-title">About Me</h1>
 
 <img src="/img/rayban_hax_boi.gif" alt="Rayban Hax Boi" class="img-circle center-block" />
 

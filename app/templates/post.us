@@ -12,16 +12,16 @@
       <% } %>
 
       <span class="pull-right">
-        <a class="share-icon" href="https://twitter.com/intent/tweet?text=<%= site.title %>&url=<%= encodeURIComponent(site.url + '/' + post.htmlPath()) %>" target="_blank">
+        <a class="share-icon" href="http://twitter.com/intent/tweet?text=<%= site.title %>&url=<%= encodeURIComponent(site.url + '/' + post.htmlPath()) %>" target="_blank">
           <i class="fa fa-twitter fa-2x text-primary"></i>
         </a>
-        <a class="share-icon" href="https://plus.google.com/share?hl=en&url=<%= encodeURIComponent(site.url + '/' + post.htmlPath()) %>" target="_blank">
+        <a class="share-icon" href="http://plus.google.com/share?hl=en&url=<%= encodeURIComponent(site.url + '/' + post.htmlPath()) %>" target="_blank">
           <i class="fa fa-plus fa-2x text-primary"></i>
         </a>
-        <a class="share-icon" href="https://www.facebook.com/sharer/sharer.php?u=<%= encodeURIComponent(site.url + '/' + post.htmlPath()) %>" target="_blank">
+        <a class="share-icon" href="http://www.facebook.com/sharer/sharer.php?u=<%= encodeURIComponent(site.url + '/' + post.htmlPath()) %>" target="_blank">
           <i class="fa fa-facebook-square fa-2x text-primary"></i>
         </a>
-        <a class="share-icon" href="https://www.linkedin.com/shareArticle?title=<%= site.title %>&url=<%= encodeURIComponent(site.url + '/' + post.htmlPath()) %>" target="_blank">
+        <a class="share-icon" href="http://www.linkedin.com/shareArticle?title=<%= site.title %>&url=<%= encodeURIComponent(site.url + '/' + post.htmlPath()) %>" target="_blank">
           <i class="fa fa-linkedin fa-2x  text-primary"></i>
         </a>
         <span class="text-primary">Share</span>

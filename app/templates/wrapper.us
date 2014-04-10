@@ -3,7 +3,7 @@
   <head>
     <link rel="stylesheet" type="text/css" href="<%= css %>" media="all" />
     <link rel="alternate" type="application/rss+xml" title="<%= site.title %> - feed" href="/index.xml" />
-    <title><%= site.title %><%= post ? ' - '+post.title() : '' %></title>
+    <title><%= site.title.toUpperCase() %><%= post ? ' - '+post.title() : '' %></title>
   </head>
   <body>
 
@@ -17,7 +17,7 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand font-lobster" href="/"><%= site.title %></a>
+            <a class="navbar-brand font-lobster" href="/"><%= site.title.toUpperCase() %></a>
           </div>
 
           <div class="collapse navbar-collapse" id="blog-navbar-collapse">

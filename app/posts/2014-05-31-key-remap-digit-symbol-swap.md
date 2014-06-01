@@ -12,6 +12,8 @@ yet encumbered by that pesky shift key.  How are you supposed to throw down that
 to strain your fingers with alternate shift strokes?  Want to exit VIM using **q!** without hitting shift?
 What to type in any strong password without hitting shift?
 
+> ... Well, i guess you do need shift to type caps ... But who types passwords anymore?
+
 # Map your FN Keys to Digits
 
 And now you have an extra row of keys for text entry!  It's *almost* like having **extra fingers**.  Don't

@@ -10,7 +10,7 @@ tags: "keyboard keyremap keyremap4macbook osx xkb xmodmap protips"
 If you've spent a lot of time in the shell, you may find yourself wishing to move at the **Speed of Thought**,
 yet encumbered by that pesky shift key.  How are you supposed to throw down that *regex*, when you've got
 to strain your fingers with alternate shift strokes?  Want to exit VIM using **q!** without hitting shift?
-What to type in any strong password without hitting shift?
+Want to type any strong password without hitting shift?
 
 > ... Well, i guess you do need shift to type caps ... But who types passwords anymore?
 

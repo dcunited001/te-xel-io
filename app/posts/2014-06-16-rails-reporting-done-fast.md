@@ -12,10 +12,16 @@ I've been doing a lot of reporting for a client lately. Since 2011, I've been ma
 what the concept was when I started, what I've created is a **gem** for **containerizing**
 SQL DDL Statements.  
 
-In other words, if you have a something like a multi-database application, 
-you can use my gem to containerize it.  This means that you can keep the SQL DDL 
-in source control **and** *easily* deploy your views, functions, stored procedures
-to multiple environments.
+In other words, if you have a multi-database application, you can use Skiima to containerize an application 
+that references these databases.  Say your project has service-oriented architecture and has 3 API's: a
+Authentication API with Users/Profiles, an Events API and a Donations API, each with their own database.  Then
+you can create a Reports API with it's own database and use Skiima to create reports using views, functions and 
+stored procedures that refer to the Auth, Events and Donations databases.  
+
+You can use ActiveRecord to create view-backed report models and use Mongo to cache the data results
+of those reports.  Or you can use view-backed models and scheduled Resque jobs to distill and retrieve data for 
+a dashboard.  With Skiima, you can keep these SQL DDL objects in source control **and** *easily* deploy your views, 
+functions, stored procedures to multiple environments.  
 
 > Yep, this is where some Rails devs start throwing tomatoes.
 
@@ -57,4 +63,3 @@ while building reports without breaking a sweat.
 
 Coming Soon...
 
- 

@@ -17,6 +17,8 @@ I should be writing this paragraph now...
 
 ## TODO:
 - change archive.html to posts.html?
+- add a configurable image for each post (including a default image)
+  - a la star-rb blog: <img src="<%= (post.get('author') && post.get('author').pic) || '/img/star-rb-logo.png' %>"
 
 ## Getting Started
 

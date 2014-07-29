@@ -29,7 +29,7 @@ functions, stored procedures to multiple environments.
 
 I get this every time I suggest using my gem and view-backed models for reporting.
 
-> But David ORM and ActiveRecord is supposed to *save* you from the evils of SQL!
+> But David - ORM and ActiveRecord to *saves you* from the *evils* of **SQL**!
 
 But the truth is - SQL is simple and it just works!  Queue up the ** *SQL Doesn't Scale* **
 arguments here.  But really - SQL does scale - to a point.  My strategy for **Reporting** in *early* 

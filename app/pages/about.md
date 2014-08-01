@@ -13,3 +13,8 @@ Notice the responsive layout that bootstrap provides.
 Play around with different window sizes: phone, tablet, desktop.
 
 </div>
+
+Notes:
+- originally from Roanoke, VA
+- Started coding Ruby in 2007
+- Yada yada

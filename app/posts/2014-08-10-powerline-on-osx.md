@@ -119,3 +119,7 @@ Also check out the [plugins](http://powerline.readthedocs.org/en/latest/usage.ht
 how to configure `vim` and `tmux` with a status bar.  Take a look at [this protip](https://coderwall.com/p/trgyrq) to make your 
 tmux status bar responsive.  For `emacs`, check out [emacs-powerline](https://github.com/jonathanchu/emacs-powerline) 
 and [powerline.el](https://github.com/milkypostman/powerline), which may be available on MELPA.
+
+Richard Guay does a great job of explaining 
+[Powerline customizations](http://computers.tutsplus.com/tutorials/getting-spiffy-with-powerline--cms-20740)
+for vim/macvim, fish, and zsh.  His blog includes tons of screenshots.  Great resource!

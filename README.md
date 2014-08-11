@@ -21,6 +21,11 @@ I should be writing this paragraph now...
   - a la star-rb blog: <img src="<%= (post.get('author') && post.get('author').pic) || '/img/star-rb-logo.png' %>"
 - change archive.html to posts.html?
 
+## Updates to posts:
+
+mention my dc.files.powerline and customizations in the powerline article
+- or create a new blog for this
+
 ## Getting Started
 
 Here's how to publish a new blog to the web in minutes:

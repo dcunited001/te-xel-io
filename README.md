@@ -16,9 +16,10 @@ without affecting SEO, but it's complicated.  this is a blog, which is where
 I should be writing this paragraph now...
 
 ## TODO:
-- change archive.html to posts.html?
+- configure syntax highlighting for code blocks
 - add a configurable image for each post (including a default image)
   - a la star-rb blog: <img src="<%= (post.get('author') && post.get('author').pic) || '/img/star-rb-logo.png' %>"
+- change archive.html to posts.html?
 
 ## Getting Started
 

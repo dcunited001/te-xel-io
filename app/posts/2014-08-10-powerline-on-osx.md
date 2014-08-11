@@ -109,7 +109,13 @@ Now, navigate to a git repository and you can see the branch on the right, like 
 
 ### Great! Powerline on OSX! 
  
-You should now have both Python and Powerline rarin' to go.  
+You should now have both Python and Powerline rarin' to go.  I've added a git submodule for my 
+[powerline config](https://github.com/dcunited001/dc.files.powerline)
+in [dc.files](https://github.com/dcunited001/dc.files) and I'm linking my `~/.config/powerline` here.  In the
+powerline submodule, I've set up a custom powerline theme for zsh.  My custom theme includes a battery level indicator
+that reads out in hearts.  As in, hearts like Legend of Zelda.  Check it out!
+
+![Legend of Zelda Battery Indicator](/img/posts/2014-08-10-powerline-on-osx/loz-battery-readout.png)
 
 Check the [Configuration](http://powerline.readthedocs.org/en/latest/configuration.html#references) section of the 
 Powerline docs.  Specifically, the References pages, which detail themes, colorschemes and how to tweak each option!

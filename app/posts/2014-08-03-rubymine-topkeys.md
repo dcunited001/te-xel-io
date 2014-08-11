@@ -6,12 +6,23 @@ tags: "rubymine intellij top topkey key keyboardshortcut keyboard hotkey product
 # TODO: add tips on using features.
 # TODO: look for patterns in hotkeys (e.g. F7 is usually for Usages & F3 is usually for Bookmarks)
 # TODO: also update with the useful hotkeys that i blacked out because i already knew them
+# - like navigate to tests
 # TODO: review actions available in preferences and update blog
 ---
 
 ### The Top Hotkeys to Learn
 
 I'll be updating this article from time to time with tips on how to use RubyMine's hotkeys.
+
+#### Contenders for Topkeys:
+
+- &#x2318;&#x2303;&#x2191; - Navigate to Rails model/view/controller etc.
+- &#x2325;F1 - Does everything with a file.  Every thing.
+- &#x2318;&#x21e7;T - Navigate to test, using Ruby conventions.
+- &#x2318;J - Definitely something to learn later in the game, but Live 
+  Templates and Snippets are amazing.  However, I have to admit, I don't haven't
+  ever gotten to the point where I feel comfortable with them and the amount
+  of configuration, memorization, overhead and forethought is intimidating.
 
 ### *By Far* THE #1 Key You **Must** Learn
 
@@ -99,7 +110,7 @@ F6 == Move
 
 ### Rails
 
-&#x2303;&#x21e7;&#x2191; == Navigate to Rails model/view/controller etc.
+&#x2318;&#x2303;&#x2191; == Navigate to Rails model/view/controller etc.
 
 &#x2318;&#x2325;G == Run Rails generator
 
@@ -108,6 +119,8 @@ F6 == Move
 &#x2318;&#x2325;R == Ruby/Rails quick list
 
 ### Navigation
+
+&#x2318;&#x21e7;T - Navigate to test, using Ruby conventions.
 
 &#x2318;E == Recent files popup
 
@@ -131,7 +144,10 @@ F2 / &#x21e7;F2 == Next/previous highlighted error
 
 F4 / &#x2318;&#x2193; == Edit source/View source
 
-&#x2325;F1 == Go anywhere
+&#x2325;F1 == Using as input the current file or feature with focus, 
+opens a popup to perform various functions, such as revealing the file in the 
+ `Project` tool window, reveal in Finder, show changes and more.  **Massively Useful!**
+ I didn't get this at all.  Then, I tried it.  Whoa!
 
 ### Search/Replace
 

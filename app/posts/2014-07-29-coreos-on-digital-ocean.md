@@ -31,7 +31,6 @@ So, I looked into several other projects
 ### TODO: So how can I get started?
 ### TODO: So how do I load it on Digital Ocean
 
-
 ### Using the [coreos-on-do](https://github.com/ibuildthecloud/coreos-on-do) script
 
 Intructions can be found in the github repo for the script, but I've included my experience here as well.
@@ -62,15 +61,9 @@ questions would result in a zero.  Clearly, I failed these assignments. Anyways,
 
 - Tried `sudo shutdown -h now`, but machine.won't.stay.dead!
 - The machine seems to restart as soon as I turn it off.
-- Need to create a Github issue for this.  Oh well.  Snapshots aren't a huge deal.
-
-### CoreOS Testing TODO
-
-Test Creating new CoreOS Droplets
-- from snapshot (doesn't work)
-- from backup
-
-Get CoreOS Version
+- Need to create a Github issue for this.  Oh well.  Snapshots aren't a huge deal, but it would be nice to be able to 
+  *automate* deployment of new CoreOS nodes on DigitalOcean.
+  
 
 
 

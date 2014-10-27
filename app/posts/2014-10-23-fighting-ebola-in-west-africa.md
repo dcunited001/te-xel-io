@@ -7,7 +7,7 @@ tags: "ideas ebola health savingtheworld africa"
 
 ### In a response to [Ban Ki-moon's post](https://www.linkedin.com/pulse/article/20141023150016-204317422-how-we-can-stop-ebola) on LinkedIn...
 
-Yes, I know. It's silly to reach out to these unreachable people on the internets, but hey -- isn't the internet the great equalizer?  
+Yes, I know. It's silly to reach out to these unreachable people on the internets, but hey -- isn't the internet the great equalizer? 
 Ideas are contagious and what if my words really had an effect?  I feel like I've raised a few concerns that few others 
 have thought of, especially regarding the effect of mutations on the efficacy of the promising ebola vaccine in development. 
 And three days later on October 26th, the vaccine is announced as delayed until 2016.  The chances that it has anything
@@ -26,49 +26,49 @@ What's certain is that we truly are all one at this point.  Our connectedness ha
 
 ### Here's my response to the U.N. Secretary General
 
-As someone who seriously considered volunteering in West Africa less than a month ago, I’ve got a few suggestions for policies that may reduce the impact of this outbreak. I wanted to go
- to West Africa to volunteer because I’m a pacifist and it’s one of the few situations where I can prove that I’m willing to give my life protecting others. However, as I began to fear 
- the virus would inevitably spread to America, I changed my mind. Also, it’s important to note that I’m not medically trained, so I’m not sure I’d be accepted as a volunteer. 
+As someone who seriously considered volunteering in West Africa less than a month ago, I've got a few suggestions for policies that may reduce the impact of this outbreak. I wanted to go
+ to West Africa to volunteer because I'm a pacifist and it's one of the few situations where I can prove that I'm willing to give my life protecting others. However, as I began to fear 
+ the virus would inevitably spread to America, I changed my mind. Also, it's important to note that I'm not medically trained, so I'm not sure I'd be accepted as a volunteer. 
  Additionally, as a prospective volunteer in mid-September, I found it very difficult and confusing to find where to volunteer.  
 
 ### 1) The West African economies cannot collapse! 
 
 The price of food is already skyrocketing in a place where many people barely make it day to day. When people get hungry, you have 
-problems. Unrest will develop and who knows what will happen, but it won’t help contain the virus. This is a region that only recently recovered from civil war.  
+problems. Unrest will develop and who knows what will happen, but it won't help contain the virus. This is a region that only recently recovered from civil war.  
 
 ### 2) Disease detection for Ebola is terrible and completely unscalable! 
 
-Most tests take entirely too long and require people to run the tests manually, AFAIK. I’ve heard about an automated 
+Most tests take entirely too long and require people to run the tests manually, AFAIK. I've heard about an automated 
 one-hour process using a FilmArray machine, produced by BioFire. This would help, but even still a one-hour process is not scalable! Producing a 5-minute test for Ebola that can be run 
 by untrained volunteers should be considered the TOP priority for all research at the moment. Vaccines and treatments are important, but not nearly as important as detection.  
 
 ### 3) Data, Data, Data. 
 
-It’s important to streamline communications and data collection across these countries, many of which do not have infrastructure in place! This is data that can be 
+It's important to streamline communications and data collection across these countries, many of which do not have infrastructure in place! This is data that can be 
 used to effectively utilize resources or prepare response in areas which are predicted to be effected next. This could tell you the best places to use vaccines to curb the outbreak, 
 which will be extremely limited in supply. Fitbit-like devices should be worn by medical volunteers to measure and indicate symptoms of fever, in an automated fashion. This is similar to 
 the photographs worn by nuclear employees which quickly indicate exposure to radiation. Doing so can limit outbreaks within medical facilities, preventing ebola from limiting an 
-invaluable resource. I’m sure there’s much more that can be done here, some of it will be incredibly valuable and some of it frivolous, but it’s urgent to have the communication and data
+invaluable resource. I'm sure there's much more that can be done here, some of it will be incredibly valuable and some of it frivolous, but it's urgent to have the communication and data
  collection infrastructure in place.  
 
 ### 4) The vaccine is promising, but may not be permanent. 
 
-And it has a lead time of 6-12 months. About ~10K doses in 3 months, AFAIK. If the outbreak is still a problem by then, there’s no 
-chance that we’ll have enough doses prepared, unfortunately. Also, a warning about the vaccine and disease mutation: the vaccine may NOT be permanent!! Ebola is a virus with an extremely
- limited genome — 8 genes - which implicitly indicates that any mutation will have a higher effect on the genome. It’s possible for the virus to mutate after the virus is developed, 
- rendering it as useless as last year’s flu vaccine. DO NOT put all your eggs in one basket: research needs to be focused on multiple treatments.  
+And it has a lead time of 6-12 months. About ~10K doses in 3 months, AFAIK. If the outbreak is still a problem by then, there's no 
+chance that we'll have enough doses prepared, unfortunately. Also, a warning about the vaccine and disease mutation: the vaccine may NOT be permanent!! Ebola is a virus with an extremely
+ limited genome — 8 genes - which implicitly indicates that any mutation will have a higher effect on the genome. It's possible for the virus to mutate after the vaccine is developed, 
+ rendering it as useless as last year's flu vaccine. DO NOT put all your eggs in one basket: research needs to be focused on multiple treatments.  
 
 ### 5) Prevent disease mutation. 
 
 There are some policies that will slow the rate disease mutation and should be pursued. These include travel restrictions, quarantine policies, locality 
 isolation policies and more. Similarly to how factory farming breeds resistance to antibiotics, mass quarantine/isolation in a small area will result in various versions of the disease 
-spreading much faster. Travel retractions between localities, regions and definitely between countries in West Africa. I don’t mean a full quarantine on Africa, i mean travel 
+spreading much faster. Travel retractions between localities, regions and definitely between countries in West Africa. I don't mean a full quarantine on Africa, i mean travel 
 restrictions, which would have an effect on the economy. These travel restrictions need to be imposed by the countries themselves or they will not work.   
 
 ### 6) Conscription of some ebola survivors. 
 
-Ebola survivors are an incredibly valuable resource in this fight and it’s not because they have antibodies in their plasma. Ebola survivors are 
-very likely to be immune to the virus and thus MAY be able to safely take on risks that others can’t. They are also able to interface with the local population much more effectively than
+Ebola survivors are an incredibly valuable resource in this fight and it's not because they have antibodies in their plasma. Ebola survivors are 
+very likely to be immune to the virus and thus MAY be able to safely take on risks that others can't. They are also able to interface with the local population much more effectively than
  foreigners.  
 
 ### 7) Effective strategy to inform the local population
@@ -77,7 +77,7 @@ To counter any fear and distrust among them.
 
 ### 8) Prepare responses in neighboring countries. 
 
-Ensure countries worldwide are prepared to deal with this. It may be in West Africa now, but this could pop up anywhere and one country’s 
+Ensure countries worldwide are prepared to deal with this. It may be in West Africa now, but this could pop up anywhere and one country's 
 bad policies could really screw it up for the world. If we do a great job containing 90% of the outbreak in West Africa and one country somewhere else screws it all up, that would be 
 incredibly unfortunate.   
 
@@ -91,9 +91,9 @@ for an effective and permanent vaccine.
 Long term volunteers should be strongly preferred. Additionally, there must be need for non-
 medical volunteers. Identify the needs and roles for volunteers and communicate them effectively to those 
 who are likely to apply. Market the need for volunteers and make it appealing. 
-Ensure that policies are instituted to reduce personal risk and risk to volunteers’ home countries.  
+Ensure that policies are instituted to reduce personal risk and risk to volunteers' home countries.  
 
-That’s about all I can think of. 
+That's about all I can think of. 
 
 **Peace!** 
 

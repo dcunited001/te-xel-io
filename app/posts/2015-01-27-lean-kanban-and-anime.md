@@ -121,6 +121,6 @@ I'm starting to get very interested in Cosplay as well.  It seems like a great h
 
 ![Maridah Cosplay](/img/posts/2015-01-27-lean-kanban-and-anime/maridah-cosplay.jpg)
 
-WCW: [Maridah Cosplay](https://www.facebook.com/MaridahCosplay) as Asuna from [Horizon in the Middle of Nowhere](http://www.hulu.com/horizon-in-the-middle-of-nowhere), this creative anime about a future society that must reenact history.  Seriously, where do they come up with this stuff?
+WCW: [Maridah Cosplay](https://www.facebook.com/MaridahCosplay) as Asuna from [Horizon in the Middle of Nowhere](http://www.hulu.com/horizon-in-the-middle-of-nowhere), this creative anime about a future society that must reenact history.  Seriously, where do they come up with this stuff?  [Correction: It's actually Asuna from SAO and not Horizon]
 
 

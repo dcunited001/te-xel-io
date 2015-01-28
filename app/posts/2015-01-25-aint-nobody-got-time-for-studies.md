@@ -61,7 +61,7 @@ However, if this doesn't change, **we will never progress as a society**.  We mi
 
 And **RIGHT NOW!** we need that money to help clean up the problems we've created.  I mean RIGHT NOW!  **THE FUCKING HOUSE IS ON FIRE AND WE ARE ALL GOING TO DIE.** But we'll probably be OK, as long as a few greedy fucks stop screwing it up for the rest of us. 
 
-And I'm not hating on capitalism here because that's not the problem.  
+And I'm not hating on capitalism here because that's not the problem.  This is closer to the economics you see in oligarchies than in capitalism.
 
 ### If you look just close enough, you'll find that we have what we need.
 

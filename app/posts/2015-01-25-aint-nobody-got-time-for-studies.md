@@ -67,7 +67,7 @@ And I'm not hating on capitalism here because that's not the problem.  This is c
 
 Anyways, getting back to the unexplored problems that I'm trying to prove exist.  I really can't be bothered to find a study right now.  Most of the information is there if you look for it.  I'm reviewing information that has already been vetted and I'm not doing this professionionally.  I'm just interested in learning about the world around me. 
 
-Besides, short-sighted myopics created most of the problems we see around us **by operating with a very narrow understanding of the world around them**. And these are the same people we're going to trust with producing information that shows they were detrimentally wrong the whole time? They only know their about what they learned in those 4 to 8 years of school.  And I think you'll find that most people stop learning after they graduate.  Doctors.  Engineers.  Business Majors.  I'm kidding, business majors mostly partied through school, remember? And now all they do is count the money.  
+Besides, short-sighted myopics created most of the problems we see around us **by operating with a very narrow understanding of the world around them**. And these are the same people we're going to trust with producing information that shows they were detrimentally wrong the whole time? They only know about what they learned in those 4 to 8 years of school.  And I think you'll find that most people stop learning after they graduate.  Doctors.  Engineers.  Business Majors.  I'm kidding, business majors mostly partied through school, remember? And now all they do is count the money.  
 
 ### Stop thinking about Q2 2015 and start thinking about 2055.
 

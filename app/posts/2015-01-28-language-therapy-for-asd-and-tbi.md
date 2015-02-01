@@ -5,6 +5,8 @@ author:
   tags: "autism asd neuroscience machinelearning psychology hypothesis"
 ---
 
+**Update:** This is a draft. I need to edit and rework some sections to fully explain some of my ideas.
+
 There are many disorders caused by a disruption of networks in the brain.  In some cases, I believe learning to speak and communication with new languages can help "renormalize" these networks, taking advantage of neuroplasticity to circumvent these disruptions.  In Autism Spectrum Disorder(ASD), these networks of neurons develop differently during early childhood, resulting in a myriad of effects on behavior, perception and communication.  In Traumatic Brain Injury(TBI), an injury either prevents the components of these networks from functioning properly or stifles communication between these networked components.  Unfortunately, while this idea for treatment may be effective for some, it will not be possible in some cases.
 
 > Please note that I'm writing this article without formal training in psychology or medicene. Therefore, the information isn't complete and should be regarded as a general hypothesis only.  One of the problems of lacking formal education is familiarity of concepts without knowledge of the common language used.   Therefore, I may make some mistakes such as using the term disorder in the wrong context. 
@@ -70,7 +72,7 @@ I personally recommend **Japanese, Spanish, Sign Langauge and Hindi.**
 
 Japanese is great because there's tons of free anime and media online to learn from.  However, there isn't a huge community of speakers in the US, so it can be hard to connect with others for IRL conversations.  
 
-Additionally, while the writing system is great to learn, this makes it very difficult.  The basic phonetic Hiragana and Katakana writing systems aren't too bad and have ~100 symbols combined.  But, if you can't read Kanji, then you're basically illiterate to Japanese media.  
+Additionally, while the writing system is great to learn, this makes it very difficult.  The basic phonetic Hiragana and Katakana writing systems aren't too bad and have ~100 symbols combined.  But, if you can't read Kanji, then you're basically illiterate to Japanese media.
 
 ![Hiragana Katakana](/img/posts/2015-01-28-language-therapy-for-asd-and-tbi/hiragana.gif)
 
@@ -81,6 +83,12 @@ Spanish is great because there's a huge community of speakers in the US.  That m
 Hindi is also great because there's a separate writing system and it's less complicated than Kanji.  The Hindi language and writing system are also phonetically unique and captures many more sounds than the Roman alphabet.  In fact, the Sanskrit alphabet employed by Hindi is something of a metalanguage and has unique applications in computer science.
 
 ![Om Mani Padme Hum](/img/posts/2015-01-28-language-therapy-for-asd-and-tbi/om-mani-padme-hum.gif)
+
+#### Update: this is actually Tibetan, not Sanskrit.  Woops.
+
+I'm not really sure why I didn't catch this.  While not very familiar with either language, I do at least recognize the lexigraphic differences.  However, when I posted this, it seems that the Tibetan for "Om Mani Padme Aum" was familiar enough in my mind to prevent me from intellectually discerning that I was wrong.  That's wierd.  Either that, or it's lexigraphically similar enough to sanskrit. Sidenote: each letter in "[Om Mani Padme Aum](https://en.wikipedia.org/wiki/Om_mani_padme_hum)" has a symbolic significance as part of a mantra.
+
+![Om Mani Padme hum](/img/posts/2015-01-28-language-therapy-for-asd-and-tbi/om-mani-padme-aum.png)
 
 ### Getting Started
 

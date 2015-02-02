@@ -51,7 +51,7 @@ I was working at an extremely cool coworking space in Boulder at the time.  [Bou
 
 #### [2013/6/22 - the view from my desk at Boulder Fuse](http://instagram.com/p/a8WCD0y5ah/?modal=true)
 
-So, I adopted a 48-hour sleep schedule.  On alternating nights, I stayed awake at the Boulder Fuse's amazing office, fueling passion on my projects with adderal and countless packs of American Spirit.  
+So, I adopted a 48-hour sleep schedule: this would mean I'd spend only half my days at home.  On alternating nights, I stayed awake at the Boulder Fuse's amazing office, fueling passion on my projects with adderal and countless packs of American Spirit.  
 
 > However, today I'm proud to say that I haven't smoked a single cigarette in 14 months!  
 
@@ -93,7 +93,7 @@ Anyways, so how was I showering?  Luckily, my colleagues had recently suggested 
 
 > So ... there's certain things that happen to me ... and I don't think they happen to other people ...
 
-Anyways, for at least a week, my schedule was the following: 
+Anyways, for at least a week, my schedule was the following:
 
 - **6:00am:** Wake up and walk back into Boulder.
 - **7:00am:** Arrive at the office before anyone else and find some clothes I had stashed in my desk.
@@ -113,7 +113,9 @@ And for the rest of the night, I would desparately search listings on Craigslist
 
 I even had to wear my swim trunks at one point because I hadn't had a chance do laundry.  I used the excuse that I was going tubing with some friends later, which I was.  It was one of the few times I got to see friends from Virginia.  I felt pretty fucked up for not being able to let them crash at my place, but I couldn't bring myself to tell them what was really going on!  I didn't know them too terribly well.
 
-Admittedly, a lot of this is my fault for not taking care of finding a new place earlier.  However, I was seriously overwhelmed by my new job *and* the moral delimma that bedbugs posed.  Fortunately, after about 2 weeks of being homeless, I had found my next place.  I wasn't able to move in just yet, but my new roommate was generous enough to allow me to store my stuff in his garage.  I cannot emphasize enough how this simplified my life at the time. 
+Admittedly, a lot of this is my fault for not taking care of finding a new place earlier.  However, I was seriously overwhelmed by my new job *and* the moral delimma that bedbugs posed.  Fortunately, after about 2 weeks of being homeless, I had found my next place.  I wasn't able to move in just yet, but my new roommate was generous enough to allow me to store my stuff in his garage.  I cannot emphasize enough how this simplified my life at the time.  
+
+> Also, being briefly homeless also cleared my conscience.  My stuff had been outside in my friends pickup truck for several days; it's probably in the clear.  And after a few days of camping, there was no possible way that I could transmit them to my new roommate, right? Phew, what a relief. No longer a pariah!
 
 ![Tibetan Prayer Flags](/img/posts/2015-02-01-bedbugs-the-worst-to-ever-happen-to-me/tibetan-prayer-flags.jpg)
 
@@ -220,13 +222,13 @@ This is not what I was used to, as a talented Rails developer.  I didn't get it,
 
 Software is something I do because I love it.  Working at a business doing software means that I'll spend all day working on what your business needs, which hopefully is something I love working on.  However, when I get home, I'll likely be too mentally exhausted to work on the software and technologies that I want to.  I'll be restricted in what technologies I can invest the time learning and I probably won't have the time or energy to take Coursera classes.  So, you see, there's a major economic opportunity cost to having a job!
 
-And so, after all this, I quickly fell into a pretty bad depression.  I had forsaken my inner peace long ago by this point and it was really tough for me.  I was stressed that I would let my new roommate down by being unable to pay rent and putting him in the awkward position of having to kick me out.  This was a guy who was extremely knowledgeable about Buddhism and taught me a ton.  I really looked up to him -- and he even introduced me to Kendall Musk, Elon Musk's brother, who is changing the world in his own way.  Kendall Musk, who own's Boulder's [The Kitchen](http://thekitchen.com/the-kitchen-boulder/), is working on changing how restaurants source their food, working on making it.
+And so, after all this, I quickly fell into a pretty bad depression.  I had forsaken my inner peace long ago by this point and it was really tough for me.  I was stressed that I would let my new roommate down by being unable to pay rent and putting him in the awkward position of having to kick me out.  This was a guy who was extremely knowledgeable about Buddhism and taught me a ton.  I really looked up to him -- and he even introduced me to Kendall Musk, Elon Musk's brother, who is changing the world in his own way.  Kendall Musk, who own's Boulder's [The Kitchen](http://thekitchen.com/the-kitchen-boulder/), is working on changing how restaurants source their food, working on making it easier to support the local food economy.
 
 My roommate tried to help me out by offering me a job at the business where he worked.  However, I was afraid that it was too far away and, worse, that I would let him down he might look bad. It was a position working with Java, which I don't have too much experience with.  I was just starting to get into Clojure at this point and if I had be smarter, more grounded and more confident, I would have pursued this opportunity and everything probably would have worked out.  After all, Clojure was based on Java and it would have been a great opportunity for me.  However, I was shortsighted and terribly hurt by this point, feeling almost like an abused dog. 
 
-I tried to start working on [Oscillate](http://oscil.io) again -- remember that amazing music startup I was telling you about?  Just one of the best ideas I've had and certainly one of the most fun.  I went to [Denver Startup Week](http://www.denverstartupweek.org/) in September 2013 and tried finding investors, but I didn't have an MVP.  And the business idea was very difficult to describe to people who didn't have very much business experience.  I networked with a lot of business guys and Ruby developers there.
+I tried to start working on [Oscillate](http://oscil.io) again -- remember that amazing music startup I was telling you about?  Just one of the best ideas I've had and certainly one of the most fun.  I went to [Denver Startup Week](http://www.denverstartupweek.org/) in September 2013 and tried finding investors, but I didn't have an MVP.  The business idea was very difficult to articlulate & validate to people who didn't have very much music production experience.  I networked with a lot of business guys and Ruby developers there.
 
-In October 2013, unbeknownst to me, a high profile Ruby developer and the founder of the GroupMe messaging service founded [Splice](http://splice.com).  Splice is pretty much exactly what I wanted Oscillate to be -- so that's a little depressing.  And I didn't hear about it until June 2014 on a Ruby Rogues podcast.  Needless to say, I was not pleased.  However, **some ideas are just fated to be** and I didn't act fast enough.  These are the best ideas by the way -- ideas so good, there's no way that someone's not going to build it.  
+In October 2013, unbeknownst to me, a high profile Ruby developer and the founder of the GroupMe messaging service founded [Splice](http://splice.com).  Splice is pretty much exactly what I wanted Oscillate to be -- so that's a little depressing.  And I didn't hear about it until June 2014 on a Ruby Rogues podcast.  Needless to say, I was not pleased.  However, **some ideas are just fated to be** and I didn't act fast enough.  These are the best ideas by the way -- ideas so good, there's no way that someone's not going to build it. 
 
 I should have started on Oscillate in 2012, immediately!  However, I just didn't have the support around me that I needed at that time.  And I never really have been able to time everything right -- to get the opportunity and resources set to roll at just the right time.  
 

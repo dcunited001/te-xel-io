@@ -137,7 +137,7 @@ Additionally, there are the karmic consequences of selfishly acting on my own be
 
 I spent many nights at home balling my eyes out over this issue.  Partially because it opened my eyes to the possibility of similar problems which cannot be defined in black and white.
 
-### The Toxicity of our City
+### The Toxicity of Our City
 
 Another aspect of the dilemma is that I'm a "chemophobe."  In other words, I do not want to have to live in a home with neurotoxic chemicals.  My roommate brought home bedbug poison and they don't even list the chemicals in that stuff.  If you know that many bugsprays and mosquito repellants contain neurotoxins capable of contributing to Parkinson's disease by interfering with your body's dopaminergic systems, you're going to be pretty wary of unlisted chemicals which are probably neurotoxic or poisonous to humans, too.  
 
@@ -209,6 +209,25 @@ At the time, my friend, who was also working on Nei.ghbor.Net, said his brother 
 #### [2013/6/16](http://instagram.com/p/aosuOfy5TL/?modal=true) My Desk during this time, at Boulder Fuse.  Before I had found out about the bedbugs.
 
 Additionally, he said that he'd be moving in with me in a few weeks and that we'd work on the Nei.ghbor.Net startup there.  I stressed that we need to put together an MVP quickly to get funding.  Otherwise, I'd run out of money.  From May to June, I hung out a lot at the Boulder Hackerspace and saw my friend several times there.  But it didn't look like he was going to move in.  Running out of money and uncertain of the future of our situation, I started looking at jobs and I found one in time.  So, I more or less needed to pull back from Nei.ghbor.Net and start focusing on my new job.
+
+### Started Working at Jumpcloud
+
+### Got Fired From Jumpcloud
+
+When I got fired from Jumpcloud, it was almost a relief.  I had plenty of time to quit, *but I'm not a quitter.*
+
+At least I had a place to stay.  Things had been much worse.  I might have lost my job, but it wasn't so bad.  There were plenty of tech jobs in Boulder.  And when I worked at Jumpcloud, it seemed like people were throwing jobs offers at me.  But, not so much afterwards.  
+
+This is not what I was used to, as a talented Rails developer.  I didn't get it, but for the jobs I was interested in -- like SendGrid and a few others -- I couldn't get past the phone screen.  I'm not sure what the problem was.  There were other opportunities, but I am very, very picky when it comes to finding a place to work.  I would much rather not work at all in most cases.  
+
+Software is something I do because I love it.  Working at a business doing software means that I'll spend all day working on what your business needs, which hopefully is something I love working on.  However, when I get home, I'll likely be too mentally exhausted to work on what I want to do.  I'll be restricted in what technologies I can invest the time learning and I won't have the time or energy to take Coursera classes.  
+
+And so, after all this, I quickly fell into a pretty bad depression.  I had forsaken my inner peace long ago by this point and it was really tough for me.  I was stressed that I would let my new roommate down by being unable to pay rent and putting him in the awkward position of having to kick me out.  This was a guy who was extremely knowledgeable about Buddhism and taught me a ton.  I really looked up to him -- and he even introduced me to Kendall Musk, Elon Musk's brother, who is changing the world in his own way.  Kendall Musk, who own's Boulder's [The Kitchen](http://thekitchen.com/the-kitchen-boulder/), is working on changing how restaurants source their food, working on making it.
+
+My roommate tried to help me out by offering me a job at the business where he worked.  However, I was afraid that it was too far away and, worse, that I would let him down he might look bad. It was a position working with Java, which I don't have too much experience with.  I was just starting to get into Clojure at this point and if I had be smarter, more grounded and more confident, I would have pursued this opportunity and everything probably would have worked out.  After all, Clojure was based on Java and it would have been a great opportunity for me.  However, I was shortsighted and terribly hurt by this point, feeling almost like an abused dog. 
+
+I tried to start working on [Oscillate](http://oscil.io) again -- remember that amazing music startup I was telling you about?  I went to [Denver Startup Week](http://www.denverstartupweek.org/) in September 2013 and tried finding investors, but I didn't have an MVP.  And the business idea was very difficult to describe to people who didn't have very much business experience.  I networked with a lot of business guys and Ruby developers there.
+
 
 
 

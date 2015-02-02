@@ -214,20 +214,27 @@ Additionally, he said that he'd be moving in with me in a few weeks and that we'
 
 ### Got Fired From Jumpcloud
 
-When I got fired from Jumpcloud, it was almost a relief.  I had plenty of time to quit, *but I'm not a quitter.*
+When I got fired from Jumpcloud, it was almost a relief.  I had plenty of time to quit, *but I'm not a quitter.*  And to me, losing one opportunity may just be the beginning of something greater.  So it actually was pretty relieving.
 
-At least I had a place to stay.  Things had been much worse.  I might have lost my job, but it wasn't so bad.  There were plenty of tech jobs in Boulder.  And when I worked at Jumpcloud, it seemed like people were throwing jobs offers at me.  But, not so much afterwards.  
+And at least I had a place to stay.  Things had been much worse and I would be OK -- I had enough fund to survive for two months.  Maybe I lost my job, but it wasn't so bad.  There were plenty of tech jobs in Boulder.  And when I worked at Jumpcloud, it seemed like people were throwing jobs offers at me.  But, not so much afterwards.  
 
 This is not what I was used to, as a talented Rails developer.  I didn't get it, but for the jobs I was interested in -- like SendGrid and a few others -- I couldn't get past the phone screen.  I'm not sure what the problem was.  There were other opportunities, but I am very, very picky when it comes to finding a place to work.  I would much rather not work at all in most cases.  
 
-Software is something I do because I love it.  Working at a business doing software means that I'll spend all day working on what your business needs, which hopefully is something I love working on.  However, when I get home, I'll likely be too mentally exhausted to work on what I want to do.  I'll be restricted in what technologies I can invest the time learning and I won't have the time or energy to take Coursera classes.  
+Software is something I do because I love it.  Working at a business doing software means that I'll spend all day working on what your business needs, which hopefully is something I love working on.  However, when I get home, I'll likely be too mentally exhausted to work on the software and technologies that I want to.  I'll be restricted in what technologies I can invest the time learning and I probably won't have the time or energy to take Coursera classes.  So, you see, there's a major economic opportunity cost to having a job!
 
 And so, after all this, I quickly fell into a pretty bad depression.  I had forsaken my inner peace long ago by this point and it was really tough for me.  I was stressed that I would let my new roommate down by being unable to pay rent and putting him in the awkward position of having to kick me out.  This was a guy who was extremely knowledgeable about Buddhism and taught me a ton.  I really looked up to him -- and he even introduced me to Kendall Musk, Elon Musk's brother, who is changing the world in his own way.  Kendall Musk, who own's Boulder's [The Kitchen](http://thekitchen.com/the-kitchen-boulder/), is working on changing how restaurants source their food, working on making it.
 
 My roommate tried to help me out by offering me a job at the business where he worked.  However, I was afraid that it was too far away and, worse, that I would let him down he might look bad. It was a position working with Java, which I don't have too much experience with.  I was just starting to get into Clojure at this point and if I had be smarter, more grounded and more confident, I would have pursued this opportunity and everything probably would have worked out.  After all, Clojure was based on Java and it would have been a great opportunity for me.  However, I was shortsighted and terribly hurt by this point, feeling almost like an abused dog. 
 
-I tried to start working on [Oscillate](http://oscil.io) again -- remember that amazing music startup I was telling you about?  I went to [Denver Startup Week](http://www.denverstartupweek.org/) in September 2013 and tried finding investors, but I didn't have an MVP.  And the business idea was very difficult to describe to people who didn't have very much business experience.  I networked with a lot of business guys and Ruby developers there.
+I tried to start working on [Oscillate](http://oscil.io) again -- remember that amazing music startup I was telling you about?  Just one of the best ideas I've had and certainly one of the most fun.  I went to [Denver Startup Week](http://www.denverstartupweek.org/) in September 2013 and tried finding investors, but I didn't have an MVP.  And the business idea was very difficult to describe to people who didn't have very much business experience.  I networked with a lot of business guys and Ruby developers there.
 
+In October 2013, unbeknownst to me, a high profile Ruby developer and the founder of the GroupMe messaging service founded [Splice](http://splice.com).  Splice is pretty much exactly what I wanted Oscillate to be -- so that's a little depressing.  And I didn't hear about it until June 2014 on a Ruby Rogues podcast.  Needless to say, I was not pleased.  However, **some ideas are just fated to be** and I didn't act fast enough.  These are the best ideas by the way -- ideas so good, there's no way that someone's not going to build it.  
 
+I should have started on Oscillate in 2012, immediately!  However, I just didn't have the support around me that I needed at that time.  And I never really have been able to time everything right -- to get the opportunity and resources set to roll at just the right time.  
 
+#### I'm seriously being overlooked here.
+
+### There's more to this story
+
+Including what happened after I had to move out of Boulder.  Seriously, it's a bat-shit insane story -- the $#@!'ing craziest thing that EVER happened to me.  It'd be funny if it wasn't true.  But I'll have to include that in another post.
 

@@ -194,7 +194,7 @@ Other great Meshnet applications include: decentralized wikipedias for sharing i
 
 You **will** see widespread meshnet.  It might be 2020, but it's coming.  Or so says professional über-nerd, [Van Jacobson](https://www.youtube.com/watch?v=gqGEMQveoqg), all the way back in 2007.  And he works at Google! 
 
-Also, Apple included Meshnet in iOS 7.  So the capabilities are coming.  But there are some incredibly, incredibly complicated problems to solve.  Some of them are practical problems, some of them are very technical -- like new routing protocols that just aren't there yet.  Some of the problems are in the business models -- todays apps monetize through advertising and by utilizing Big Data.  In meshnet apps, your data never touches central servers -- and IMO that's the best part.  But, whats the incentive to make these apps, if monetizing is going to be incredibly complicated?
+Also, Apple included Meshnet in iOS 7.  So the capabilities are coming.  But there are some incredibly, incredibly complicated problems to solve.  Some of them are practical problems, some of them are very technical -- like new routing protocols that just aren't there yet.  Some of the problems are in the business models -- today's apps monetize through advertising and by utilizing Big Data.  In meshnet apps, your data never touches central servers -- and IMO that's the best part.  But, whats the incentive to make these apps, if monetizing is going to be incredibly complicated?
 
 #### Phew, my point there was to demonstrate why I thought it would be worthwhile to give up development of my own app.
 

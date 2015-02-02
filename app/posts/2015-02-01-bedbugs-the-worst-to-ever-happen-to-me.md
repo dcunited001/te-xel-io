@@ -5,6 +5,12 @@ author:
   tags: "psychology ptsd mylife boulder colorado denver"
 ---
 
+### Now, this is a story all about how my life got flipped-turned upside down! 
+
+And I'd like to take a minute, just sit right there. 
+
+I'll tell you how I became the pariah of a town called #Boulder.
+
 > **Note:** I'm putting this article out a bit early, but still need to add some details.  The overall story is here, but I'm going to add some more details later tonight.
 
 So I'm going to tell you about the worst thing that has ever happened to me in my life, so far.  While it wasn't so bad in itself and could've been much worse, it was moreso the circumstances of my life in which it happened that made it so terrible. This occurred in Boulder, CO in July 2013, *immediately* after I had moved there from Denver. 
@@ -19,7 +25,7 @@ Picture yourself, having just moved to a new area an hour away, though you're 25
 
 Then, three weeks after you arrive, your new roommate, who you barely know, informs you that your new apartment has bedbugs.  At the end of June, he leaves for the [Rainbow Gathering](http://en.wikipedia.org/wiki/Rainbow_Gathering) in Montana, leaving you alone.  You could go if you want.  However, you don't have much desire to hang out with thousands of hippies doing fingerprints of acid until they shit themselves.  Instead, you're interviewing for a new job and need to get your shit straight in preparation.
 
-> So uhh ... there's certain things that happen to me ...  I don't think they happen to other people ...
+> So ... there's certain things that happen to me ... and I don't think they happen to other people ...
 
 You're a fairly quiet person, very introspective.  And you haven't had a chance to make real friends yet.  By real friends, I mean the kind of people you feel comfortable asking to help you deal with some serious problems.  Problems which would would surely mean these true friends would have to be willing take on some pain in order to help you out.  And sometimes you just don't know how to ask for help.
 
@@ -47,7 +53,11 @@ I was working at an extremely cool coworking space in Boulder at the time.  [Bou
 
 #### [2013/6/22 - the view from my desk at Boulder Fuse](http://instagram.com/p/a8WCD0y5ah/?modal=true)
 
-So, I adopted a 48-hour sleep schedule.  On alternating nights, I stayed awake at the Boulder Fuse's amazing office, fueling passion on my projects with adderal and countless packs of American Spirit.  I only made the trek home when it was necessary.  Sometimes, I passed out on the creekbed outside, during the day.  When I returned home, I only reluctantly slept in my bed -- a pretty amazing mattress my friend had left in his place for me.  Instead, I slept outside on the patio!
+So, I adopted a 48-hour sleep schedule.  On alternating nights, I stayed awake at the Boulder Fuse's amazing office, fueling passion on my projects with adderal and countless packs of American Spirit.  
+
+> However, today I'm proud to say that I haven't smoked a single cigarette in 14 months!  
+
+So I only made the trek home when it was necessary.  Sometimes, I passed out on the creekbed outside, during the day.  When I returned home, I only reluctantly slept in my bed -- a pretty amazing mattress my friend had left in his place for me.  Instead, I slept outside on the patio!
 
 > Wow, your place on Craigslist looks great!! You look pretty cool yourself.  We could be great friends.  You don't mind a few bedbugs do you?  All you have to do is burn your furniture and clothes while you pay hundreds of dollars for a terminator to visit several times.  Meanwhile, for months you infect all your friends and neighbors that live close by.  No biggie, right?
 
@@ -83,7 +93,7 @@ I found this blanket I could use, which at night I carried with me to the outski
 
 Anyways, so how was I showering?  Luckily, my colleagues had recently suggested we all get a gym membership, so I showered there.  How was I changing?  I kept extra changes of clothes and underwear in my desk!  Additionally, these became particularly useful when, for whatever reason, a toilet exploded on me at work after I took a shit!!  So, again...
 
-> So uhh ... there's certain things that happen to me ...  I don't think they happen to other people ...
+> So ... there's certain things that happen to me ... and I don't think they happen to other people ...
 
 Anyways, for at least a week, my schedule was the following: 
 
@@ -111,7 +121,7 @@ Admittedly, a lot of this is my fault for not taking care of finding a new place
 
 #### [2013/7/30](https://www.facebook.com/photo.php?fbid=3263942534084&set=pb.1732883075.-2207520000.1422840630.&type=3&theater) - The day before I have to move out.
 
-The day before I moved out, I posted this pic following on Facebook, along with the following caption.  My apartment complex neighbor across the way had Tibetan prayer flags hanging up and it got me thinking.
+My apartment complex neighbor across the way had Tibetan prayer flags hanging up and it got me thinking.  The day before I moved out, I posted this pic following on Facebook, along with the following caption.  
 
 > Tibetan prayer flags give me this warm fuzzy feeling. To me, they mean that no matter how cold things may seem or how far up you are, someone's been there before. And that's a relief right? 
 
@@ -139,18 +149,66 @@ In other words, various forms of life are built with "lego pieces," which are mo
 
 Taking it back a few months, and I've just lost the coolest job that I've ever had.  I worked at Weedmaps, where I happily worked with a team of great people.  Best of all, I felt that I was working for a company where I could be myself.  While we obviously couldn't smoke at work, I didn't have to hide my marijuana usage from other employees.  I wasn't afraid that marijuana usage would be politically used against me.  I was contributing to an industry I was passionate about.  Everything was perfect.
 
-Well, there was "that one guy" who I thought was being a bit manipulative, divisive and political.  However, I've learned that this is usually the rule and not the exception.  Whenever you're in an environment where there's an incentive for people to gain advantage -- or avoid losing their job -- you're going to end up with some people like this.
+Well, there was "that one guy" who I thought was being a bit manipulative, divisive and political.  However, I've learned that this is usually the rule and not the exception.  Whenever you're in an environment where there's an incentive for people to gain advantage -- or avoid losing their job -- you're going to end up with some political players like this.
 
 If it's just that one guy, then your problems really aren't that bad.  If you deal with these people in the right way, you can come to an understanding, though it may not be easy.  Mostly, you need to make sure everyone sees how interactions are playing out between this person and others.  Again, more on this topic very soon.
 
-So, I lost this job after a new manager came on board and they switched technologies.  A few Ruby guys were let go, all at the same time.  I saw it coming, but they gave us a fairly good severance package.  I didn't want to leave, but are you really going to argue when you walk out of the door with like $5,000 and your last paycheck on the way?
+So, I lost this job after a new manager came on board and they switched technologies from Ruby to Java.  A few Ruby guys were let go, all at the same time.  I saw it coming, but they gave us a great severance package.  I didn't want to leave, but are you really going to argue much when you walk out of the door with like $5,000 and your last paycheck on the way?
 
-This was the middle of May.  I will finish this article soon ... More later ...
+### A Chance to Work on my Awesome Music Startup Idea!
+#### *Just Kidding!*
 
-![My desk at Boulder Fuse](/img/posts/2015-02-01-bedbugs-the-worst-to-ever-happen-to-me/my-desk-at-fuse.jpg)
+This was the middle of May, right before [Startup Week Boulder](http://boulderstartupweek.com/).  At the time, I wanted to use this extra cash as a means of feuling my own startup, [Oscillate](http://oscil.io).  I had this idea since October 2011.  It would be like a Github for music, where producers could collaborate on new tracks.
 
-#### [2013/6/16](http://instagram.com/p/aosuOfy5TL/?modal=true) My Desk at Boulder Fuse.  Before I had found out about the bedbugs.
+Instead, I chose to help someone else work on their startup idea.  This was Nei.ghbor.Net.  It was for a distributed, meshnet application platform.  Meshnet is really amazing technology and could completely circumvent the possibility of NSA surveillance!  There are amazingly unique possibilities for this technology.  
+
+It's too bad the [Nei.ghbor.Net](http://nei.ghbor.net) blog is offline now =/ Otherwise, you could get a better idea of what we were working on.  Oh wait -- *[HERE IT IS!](https://web.archive.org/web/20130715004732/http://nei.ghbor.net/main)* -- God bless your heart, Internet Archive.  Sometimes, it really pays to think ahead.  Thankfully, I thought of visiting the site on the Internet Archive in July 2013 ... You know, just in case :)
+
+Certainly, this was revolutionary and more important than the music startup I was working on.  Plus, I have the mindset that I can do anything and achieve anything, so I'm more likely to follow paths with high-risk and high-reward.  We just needed to find the most basic implementation of this technology -- the **Twitter** of MeshNet, if you will.  
+
+I love Twitter because it's like the "atom of web applications."  What I mean by this is that Twitter is like the simplest web application.  It is so simple that you could say the product was like an indivisible set of features that composed the simplest thing you could do on the internet -- share 140 characters.  Because of this, you could never replace Twitter by genericizing or imitating it.  It's already the simplest thing that anything like it could ever be and it has already established market dominance there.  
+
+Therefore, it's secure in its position, so long as Twitter never extended its featureset to become something it's not.  Additionally, the only way for Twitter to be endangered from the outside is to be out-compete it by swaying it's user base and pulling them to other similar web applications, like Facebook.
+
+Nei.ghbor.Net just needed an app like that -- the simplest, most basic application that could run on our platform.  If we could define and provide the platform, coupled with the simplest app, then we could put the app together.  This was *MY* reasoning behind the concept for **Shout!** -- the app our team at [Hack4CO](http://www.hack4colorado.com/) put together.  
+
+Additionally, Shout! (and nearly all Meshnet apps) would be anonymized, a la the Secret app, which didn't come along until later.  That is, it wouldn't require to use authentication to use the app.  That means you can connect with people that you *don't already know*, which was a limitation I had found annoying with current web applications.
+
+I can't take credit for the whole Shout! idea, but it was my idea that it would be the simplest meshnet application.  And one of my concepts was for a cross between Twitter and Foursquare. 
 
 ![The Frozen Banana Stand](/img/posts/2015-02-01-bedbugs-the-worst-to-ever-happen-to-me/frozen-banana-stand.jpg)
 
 #### [2013/6/29](http://instagram.com/p/bJ_6nVy5Tq/?modal=true) - I worked the Frozen Banana Stand at one of Boulder Fuse's Riverside events.
+
+Look at me ^^ I started a business =)
+
+### So, what was Shout!, anyways?
+
+Shout! would show you what's going on in your neighborhood.  It was like an anonymized cross between Twitter and Foursqure, where users could search their local area for other people shouting.  That means they could see other users posting shouts within a search window of their local area: within 5 blocks, half a mile or 5 miles from them -- **even if you did not 'follow' that user**.  
+
+Users could easily see shouts from people at the bar down the street, where a live show was being played by that band they'd never heard.  Everyone's shouts would be posted on a map that people could view to see what was going on in the local area, even if they didn't follow these people.  Obviously there were many problems that we would need to solve, including spam and technical challenges.
+
+And the best part?  Shout! was meshnet -- none of this data would touch the internet!  That's what was revolutionary. It would be relayed through intermediate devices and it would not touch the internet.  However, I didn't realize just how technically challenging it would be, but I gave up my *best opportunity* to work on my music startup *so far* to work on it anyways.  After our team attended Boulder Startup Week, I suggested that we couldn't afford not to move up to Boulder.  The grass there was sooo green!  But really, in retrospect, this was a huge mistake.  I should've just tried to find a job in Denver, where rent is half priced, and then worked on my startup until then.  But I took the risk and paid the price.
+
+Other great Meshnet applications include: decentralized wikipedias for sharing ideas **off-net** (this was my friend's idea) and apps to allow protestors to communicate in the event of, say, Egyptian tele-communication shutdowns.  You literally **can't** stop it. **Mwa haha!** Also, unbeknownst to us at the time, a great Meshnet app called [FireChat](https://opengarden.com/firechat) later did just that!  FireChat was used in the [2014 protests in Hong Kong](http://www.cnn.com/2014/10/16/tech/mobile/tomorrow-transformed-firechat/)!
+
+You **will** see widespread meshnet.  It might be 2020, but it's coming.  Or so says professional über-nerd, [Van Jacobson](https://www.youtube.com/watch?v=gqGEMQveoqg), all the way back in 2007.  And he works at Google! 
+
+Also, Apple included Meshnet in iOS 7.  So the capabilities are coming.  But there are some incredibly, incredibly complicated problems to solve.  Some of them are practical problems, some of them are very technical -- like new routing protocols that just aren't there yet.  Some of the problems are in the business models -- todays apps monetize through advertising and by utilizing Big Data.  In meshnet apps, your data never touches central servers -- and IMO that's the best part.  But, whats the incentive to make these apps, if monetizing is going to be incredibly complicated?
+
+#### Phew, my point there was to demonstrate why I thought it would be worthwhile to give up development of my own app.
+
+Sometimes, I forget how amazing it was to briefly work on this project.  *It's the fuuutuuurrree, maannnn* &lt;/heady-techno-hippie&gt;
+
+### Sooo... Did Ya *Ever* Move to Boulder?
+
+At the time, my friend, who was also working on Nei.ghbor.Net, said his brother was moving out of his place in Boulder.  I could get a really good deal on it, but I could only live there for two months.  A really good deal, as in basically $1000 for two months for a 2BR apartment in a town where you can't find a 2BR for less than $1300 for one month.  Now, if that isn't an offer you can't refuse, I don't know what is.  I paid for two apartments in June to cover the one I had in Denver!  When I was unemployed and not receiving unemployment -- something I have never received by the way.
+
+![My desk at Boulder Fuse](/img/posts/2015-02-01-bedbugs-the-worst-to-ever-happen-to-me/my-desk-at-fuse.jpg)
+
+#### [2013/6/16](http://instagram.com/p/aosuOfy5TL/?modal=true) My Desk during this time, at Boulder Fuse.  Before I had found out about the bedbugs.
+
+Additionally, he said that he'd be moving in with me in a few weeks and that we'd work on the Nei.ghbor.Net startup there.  I stressed that we need to put together an MVP quickly to get funding.  Otherwise, I'd run out of money.  From May to June, I hung out a lot at the Boulder Hackerspace and saw my friend several times there.  But it didn't look like he was going to move in.  Running out of money and uncertain of the future of our situation, I started looking at jobs and I found one in time.  So, I more or less needed to pull back from Nei.ghbor.Net and start focusing on my new job.
+
+
+

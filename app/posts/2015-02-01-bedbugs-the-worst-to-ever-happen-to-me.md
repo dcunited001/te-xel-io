@@ -11,8 +11,6 @@ And I'd like to take a minute, just sit right there.
 
 I'll tell you how I became the pariah of a town called #Boulder.
 
-> **Note:** I'm putting this article out a bit early, but still need to add some details.  The overall story is here, but I'm going to add some more details later tonight.
-
 So I'm going to tell you about the worst thing that has ever happened to me in my life, so far.  While it wasn't so bad in itself and could've been much worse, it was moreso the circumstances of my life in which it happened that made it so terrible. This occurred in Boulder, CO in July 2013, *immediately* after I had moved there from Denver. 
 
 A few people have heard parts of this story.  Some have heard all of it.  But I'm tired of retelling it.  I want this in its entireity, in one place.  I have dealt with this on my own long enough and I want to get it off my chest.  If you helped me during this time, I cannot thank you enough.  I am so glad the people at **Boulder Fuse** and **SSD**, **the Boulder Hackerspace**, were trying to help me out. 

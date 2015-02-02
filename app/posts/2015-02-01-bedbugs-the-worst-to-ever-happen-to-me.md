@@ -198,7 +198,7 @@ Also, Apple included Meshnet in iOS 7.  So the capabilities are coming.  But the
 
 #### Phew, my point there was to demonstrate why I thought it would be worthwhile to give up development of my own app.
 
-Sometimes, I forget how amazing it was to briefly work on this project.  *It's the fuuutuuurrree, maannnn* &lt;/heady-techno-hippie&gt;
+Sometimes, I forget how amazing it was to briefly work on this project.  *It's the fuuutuuurrree, maannnn* **&lt;/heady-techno-hippie&gt;**
 
 ### Sooo... Did Ya *Ever* Move to Boulder?
 

@@ -77,7 +77,7 @@ But maybe you're not Snowden.  That's an reasonable counterargument.  Maybe you'
 
 ![With great snuggie comes great warmability](http://tiwibzone.tiwib.netdna-cdn.com/images/spiderman-snuggie-blanket.jpg)
 
-"With great snuggie comes great warmability."
+#### With great snuggie comes great warmability.
 
 How about this?  You lose your job because someone at work uses the net to find ways to bully you at work.  Your relationship is ruined because your significant other snoops through years of messages and misinterprets old words and actions.  Or maybe a jealous frenemy wants to discover information to use against you.  
 

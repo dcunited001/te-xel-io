@@ -5,11 +5,11 @@ author:
   tags: "autism asd neuroscience machinelearning psychology hypothesis"
 ---
 
-**Update:** This is a draft. I need to edit and rework some sections to fully explain some of my ideas.
+#### Hacking Neuroplasticity -- Why The $#@! Not?
 
 There are many disorders caused by a disruption of networks in the brain.  In some cases, I believe learning to speak and communication with new languages can help "renormalize" these networks, taking advantage of neuroplasticity to circumvent these disruptions.  In Autism Spectrum Disorder(ASD), these networks of neurons develop differently during early childhood, resulting in a myriad of effects on behavior, perception and communication.  In Traumatic Brain Injury(TBI), an injury either prevents the components of these networks from functioning properly or stifles communication between these networked components.  Unfortunately, while this idea for treatment may be effective for some, it will not be possible in some cases.
 
-> Please note that I'm writing this article without formal training in psychology or medicene. Therefore, the information isn't complete and should be regarded as a general hypothesis only.  One of the problems of lacking formal education is familiarity of concepts without knowledge of the common language used.   Therefore, I may make some mistakes such as using the term disorder in the wrong context. 
+Please note that I'm writing this article without formal training in psychology or medicene. Therefore, the information isn't complete and should be regarded as a general hypothesis only.  One of the problems of lacking formal education is familiarity of concepts without knowledge of the common language used.   Therefore, I may make some mistakes such as using the term disorder in the wrong context. 
 
 ![Sweet Picture from the ArsTechnica Article!](/img/posts/2015-01-28-language-therapy-for-asd-and-tbi/the-brain.jpg)
 
@@ -38,15 +38,17 @@ There's been a ton of study into how learning languages effects the brain, so th
 
 I've noticed that when learning to do something in a new way, I sometimes need to prevent myself from doing it in the old way in order to make the leap.  This is particularly true when the "old way" is a deeply engrained habit and is very similar to the "new way" I am trying things.  If I don't disable the old method completely, I never make the jump because my mind subconsciously reaches for the tools and connections that it has already strengthened.  Many people have noticed this phenomenon and teachers are encouraged to avoid teaching you something incorrect so that you do not have to unlearn.  
 
-When I was experimenting with learning new keyboard layouts, I had the idea to turn my media keys (play, pause, etc) into the symbols *!*, *@*, *#*, etc.  However, I could still press shift-1 to type *!* and this meant that I didn't really utilize the new keyboard layout.  So, to break the habit, I instead wired the media keys to digits *1*, *2*, *3*, etc. and the old digit keys to the symbols *!*, *@*, *#*, etc.  Immediately, I started using the new technique.
+When I was experimenting with learning new keyboard layouts, I had the idea to turn my media keys (play, pause, etc) into the symbols *!*, *@*, *#*, etc.  However, I could still press shift-1 to type *!* and this meant that I didn't really utilize the new keyboard layout.  So, to break the habit, I instead wired the media keys to digits *1*, *2*, *3*, etc. and the old digit keys to the symbols *!*, *@*, *#*, etc.  Immediately, I started using the new technique.  
+
+You can read more about how to configure this keyboard layout on OSX/Linux in [this article here](/posts/2014-05-31-key-remap-digit-symbol-swap.html).  The files required to configure this are in my [keyboard](https://github.com/dcunited001/dc.files.kbd) [dotfiles](https://github.com/dcunited001/dc.files).  It meshes nicely with Qwerty, Dvorak, and Colemak!
 
 ![Look Me in the Eye](/img/posts/2015-01-28-language-therapy-for-asd-and-tbi/keyboard-digits-symbols.jpeg)
 
 ### Forcing New Connections in the Brain
 
-My point is that, in cases where networks in the brain are disrupted, learning a new language may help force new connections to form.  In cases of TBI, there may be networks of neurons that are still functioning, they just aren't connected the the networks of neurons upstream.  However, because you are learning something completely new, then you will be forming new connections.  Because certain areas of the brain may be disconnected, your brain may respond by linking networks which are not normally connected.  
+My point is that, in cases where networks in the brain are disrupted, you may need to seek alternative behaviors that help force new connections to form.  And learning a new language is a *great* way to do that!  In cases of TBI, there may be networks of neurons that are still functioning, they just aren't connected the the networks of neurons upstream.  However, because you are learning something completely new, then you will be forming new connections, which will hopefully circumvent dissociated circuits.  Also, because certain areas of the brain may be disconnected, your brain may respond by linking networks which are not normally connected.
 
-As your brain continues to strengthen these alternate pathways, because language involves so many neural modules, your brain should also begin to connect these modules in new ways.  This is because you're forcing your brain to learn something new: a new language.  And it has to make these connections, somehow.  It may be very difficult at first, but your brain should start to normalize, though it's impossible to say how much progress someone will make.
+As your brain continues to strengthen these alternate pathways, because language involves so many neural modules, your brain should also begin to connect these modules in new ways. This is why language perfect for circumventing disconnections in the brain -- it involves all parts of the brain.  And it has to make these connections, somehow -- that is, if you are able to learn a new language at this point.  It may be very difficult at first, but your brain should start to normalize, though it's impossible to say how much progress someone will make.
 
 ### Sign Language and Neuroplasticity
 
@@ -88,11 +90,11 @@ Spanish is great because there's a huge community of speakers in the US.  That m
 
 Sign language is great because, while it's a language, learning it affects your mind differently, neurologically.  This is because sign language involves vision and gestures instead of speech and hearing.  And thus, if learning it to help normalize the brain, ASL may offer additional possibilities.  Sign language is great to learn anyways because it offers new ways to listen to people and to express yourself.  
 
-#### **Startup Concept:** 3D Gesture Based Search for Sign Language
-
-*It doesn't exist and would be incredibly useful!!*  I don't have the time or the technical chops to do it, so you can thank me later.
+#### **Startup Concept:** 3D Gesture Based Search for Sign Language!
 
 Who thinks of this stuff? Me!! I'm fucking creative as shit and seriously underestimated and underappreciated.  No, seriously ... 
+
+*It doesn't exist and would be incredibly useful!!*  I don't have the time or the technical chops to do it, so you can thank me later.  The idea may not be 100% original, but I did independently think of it.  So, I just need to find capable hands and plant the idea.  Now, go forth and start up!
 
 ### Hindi
 

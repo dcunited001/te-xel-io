@@ -66,21 +66,37 @@ When learning a new language, there are new idioms to learn, new grammar and new
 
 In the languages in our world, each of these differences is a chance for your brain to make more connections that didn't exist before.  No matter their age, assuming it is possible for someone to learn a new language, making these new connections can totally rewire the brain.  This is like hacking neuroplasticity! 
 
-### Recommended Languages to Learn
+## Recommended Languages
 
-I personally recommend **Japanese, Spanish, Sign Langauge and Hindi.** 
+#### I personally recommend **Japanese, Spanish, Sign Langauge and Hindi.** 
 
-Japanese is great because there's tons of free anime and media online to learn from.  However, there isn't a huge community of speakers in the US, so it can be hard to connect with others for IRL conversations.  
+### Japanese
 
-Additionally, while the writing system is great to learn, this makes it very difficult.  The basic phonetic Hiragana and Katakana writing systems aren't too bad and have ~100 symbols combined.  But, if you can't read Kanji, then you're basically illiterate to Japanese media.
+Japanese is great because there's tons of free anime and media online to learn from.  However, there isn't a huge community of speakers in the US, so it can be hard to connect with others for IRL conversations.  But there are Facebook and Google groups online where you can find people to Skype with.  If there's a will, there's a way.
+
+Additionally, while the writing system is difficult to learn, this is precisely why it's a great language to learn if you want to force new connections in the brain.  **Learning Chinese and Japanese will literally *MAKE YOU MORE INTELLIGENT!!* ** Upgradez Yo Hardware!
 
 ![Hiragana Katakana](/img/posts/2015-01-28-language-therapy-for-asd-and-tbi/hiragana.gif)
 
-There are lots of tools to facilitate learning Kanji, but most people would just give up.  The best way to do it is to find a realllly good book, then copy and translate one symbol at a time until most of the symbols you reach are duplicates.  This is still incredibly difficult and time consuming.  
+The basic phonetic Hiragana and Katakana writing systems aren't too bad and have ~100 symbols combined.  But, if you can't read Kanji, then you're basically illiterate to Japanese media.  There are lots of tools to facilitate learning Kanji, but most people would just give up.  The best way to do it is to find a realllly good book, then copy and translate one symbol at a time until most of the symbols you reach are duplicates.  You will be surprised at how quickly you begin to see duplicates, but this is still incredibly difficult and time consuming.  
 
-Spanish is great because there's a huge community of speakers in the US.  That means you're more likely to connect with other people and have real conversations that you couldn't before.  Sign language is great because, while it's a language, learning it affects your mind differently, neurologically.  
+### Spanish
 
-Hindi is also great because there's a separate writing system and it's less complicated than Kanji.  The Hindi language and writing system are also phonetically unique and captures many more sounds than the Roman alphabet.  In fact, the Sanskrit alphabet employed by Hindi is something of a metalanguage and has unique applications in computer science.
+Spanish is great because there's a huge community of speakers in the US.  That means you're more likely to connect with other people and have real conversations that you couldn't before.  Spanish is a Romance language.  Thus, is very similar to English, in its grammatical structure, its vocabulary and the relationships between concepts covered by its vocabulary.  All Romance languages share these similarities with English, though some have diverged significantly.
+
+### American Sign Language
+
+Sign language is great because, while it's a language, learning it affects your mind differently, neurologically.  This is because sign language involves vision and gestures instead of speech and hearing.  And thus, if learning it to help normalize the brain, ASL may offer additional possibilities.  Sign language is great to learn anyways because it offers new ways to listen to people and to express yourself.  
+
+#### **Startup Concept:** 3D Gesture Based Search for Sign Language
+
+*It doesn't exist and would be incredibly useful!!*  I don't have the time or the technical chops to do it, so you can thank me later.
+
+Who thinks of this stuff? Me!! I'm fucking creative as shit and seriously underestimated and underappreciated.  No, seriously ... 
+
+### Hindi
+
+Hindi is also great because there's a separate writing system and it's less complicated than Kanji.  The Hindi language and writing system are also phonetically unique and captures many more sounds than the Roman alphabet.  In fact, the Sanskrit alphabet employed by Hindi is something of a metalanguage, *due to it's ability to encapsulate virtually every human phoneme.*  And thus, it has unique applications in computer science :) ;)
 
 ![Om Mani Padme Hum](/img/posts/2015-01-28-language-therapy-for-asd-and-tbi/om-mani-padme-hum.gif)
 

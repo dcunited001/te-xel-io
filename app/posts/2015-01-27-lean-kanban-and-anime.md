@@ -57,7 +57,7 @@ One of the best aspects of anime are the characters.  If you pay close attention
 
 ### [Aldnoah Zero](http://www.hulu.com/aldnoahzero)'s Chess Scene
 
-The scenarios are well thought out as well.  In the most recent episode of [Aldnoah Zero](http://www.hulu.com/aldnoahzero), one of my favorite simulcast anime's at the moment, there's a great chess scene that only lasts a minute.  If you haven't seen the show yet, watch it from the beginning.  However, it's in Season 2, Episode 15 and if you don't pay attention, you'll miss it.  
+The scenarios are well thought out as well.  In the most recent episode of [Aldnoah Zero](http://www.hulu.com/aldnoahzero), one of my favorite simulcast anime's at the moment, there's a great chess scene that only lasts a minute.  If you haven't seen the show yet, watch it from the beginning -- otherwise, you'll ruin the plot for yourself!  However, it's in Season 2, Episode 15 and if you don't pay attention, you'll miss it. 
 
 Two of the characters are playing chess on a table-computer, similar to a Microsoft Surface.  The chess board display is powered off initially and the characters are just calling out moves, like Knight D4, etc.  In one of the first moves, you hear that Inaho loses his Queen to Magbaraedge's King.  If you've played chess, then you know that scenario won't arise very often, which is what clued me in to pay more attention to the scene.  You would almost have to intentionally do this, so I wondered if Magbaraedge had lost her queen yet, but the display was still powered off.  
 

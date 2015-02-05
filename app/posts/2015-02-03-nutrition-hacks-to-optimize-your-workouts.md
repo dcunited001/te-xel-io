@@ -127,7 +127,7 @@ Sugar will also drastically modify your body's metabolic processes, which will f
 
 I need to find a picture of this product because it's terrible and made me feel like I had cancer. Yes, it was way worse than Centrum.  No offense if you tak Centrum.
 
-#### If you're nutritional product has a picture of Noah's Ark, you should start asking questions!
+#### If your nutritional product has a picture of Noah's Ark, you should start asking questions!
 
 Also, you don't need to take vitamins on a regular regimen! You don't to! In fact, some vitamins and minerals block the absorption for others -- because they compete over the same metabolic pathways.  Therefore, you necessarily need to **switch it up.** Include a healthy level of change in your vitamin regiment.  
 
@@ -153,7 +153,14 @@ Avoid vitamins and minerals that only include a narrow set of vitamins/minerals.
 
 Also a bit expensive, but I'm not taking this for bone health.  Magnesium is incredibly important for many things, but especially mental clarity.  I'm pretty sure there are a ton of preventable health crises in America that are actually caused by *mineral deficiencies.*  
 
-If you don't understand how neurons fire, they do transmit electric charges.  However, these electric charges are caused by disparity in various ion levels -- I learned about this in a ton of detail from Coursera's [Drugs in the Brain](https://www.coursera.org/course/drugsandbrain) class.  There are four primary ions for neural signalling and they include Calcium, Potassium and Magnesium.  Therefore, if your brain has insufficient levels of these ions or these ions are not properly dispersed through your neurons, then your brain is going to have a real hard time keepin' it real.
+If you don't understand how neurons fire, they transmit electric charges.  However, it's more than just electric current, which IMO just represents an aggregate of a other information, represented in the local quanta of various ions.  These electric charges are caused by disparity in various ion levels -- I learned about this in a ton of detail from Coursera's [Drugs in the Brain](https://www.coursera.org/course/drugsandbrain) class.  When the disparity of ion levels reaches a certain level -- or when an upstream neuron fires and causes a change in the electric charge of the connected neurons -- a neuron will fire.
+
+There are four primary ions for neural signalling and they include Calcium, Potassium and Magnesium.  They are all positively charged ions and I believe that the **ion size** determines the functional aspects of these ions in the brain.  In other words, our brain doesn't just deal in *ones and zeros* represented by electric current, the electric currents are aggregates of signals which use the various ions to further encode information.  And thus, it's actually the ions that we need to further observe -- these are the cause of the electric signals, which are represent a negatively charged summation of the positively charged ions.
+
+#### Sooo ... Neurochemistry is Complicated
+### But Here's My Point
+
+If your brain has insufficient levels of these ions or these ions are not properly dispersed through your neurons, then your brain is going to have a real hard time keepin' it real.
 
 What's the problem?  If simple nutrition can prevent health problems, then why don't we just *grow better food?*  *Strained resource systems* and **overpopulation**, quite simply.  Another blog for another day. But basically, it would be incredibly difficult to make the numbers work and a lot of corporations -- *ahem,* Monsanto and McDonalds -- just don't want to believe it -- *because wouldn't that be inconveneint!*
 

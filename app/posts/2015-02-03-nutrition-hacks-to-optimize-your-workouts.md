@@ -164,7 +164,7 @@ Check out these videos to learn more about [Voltage-Gated Ion Channels](https://
 
 If your brain has insufficient levels of these ions or these ions are not properly dispersed through your neurons, then your brain is going to have a real hard time keepin' it real.
 
-What's the problem?  If simple nutrition can prevent health problems, then why don't we just *grow better food?*  *Strained resource systems* and **overpopulation**, quite simply.  Another blog for another day. But basically, it would be incredibly difficult to make the numbers work and a lot of corporations -- *ahem,* Monsanto and McDonalds -- just don't want to believe it -- *because wouldn't that be inconveneint!*
+What's the problem?  If simple nutrition can prevent health problems, then why don't we just *grow better food?*  *Strained resource systems* and **overpopulation**, quite simply.  Another blog for another day. But basically, it would be incredibly difficult to make the numbers work and a lot of corporations -- *ahem,* Monsanto and McDonalds to name two -- just don't want to believe it -- *because wouldn't that be inconvenient!*
 
 ### Be Wary of General Supplements, Especially Herbal Combinations!  
 

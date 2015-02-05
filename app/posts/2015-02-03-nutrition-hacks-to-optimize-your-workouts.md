@@ -170,7 +170,7 @@ What's the problem?  If simple nutrition can prevent health problems, then why d
 
 Herbal supplements work in the opposite fashion to vitamin supplements -- **you actually want singular, focused preperations.**
 
-Do some research on some herbs -- it really doesn't matter which herbs, just pick 3 at randome.  Research them on Wikipedia and WebMD and most importantly, identify their active dosage levels.  Done?  Now find a combination herb and take a look at the levels of the herbs included.  **DID YOU NOTICE THAT THEY ARE ALL AT 1% to 10% OF THE BASE ACTIVE DOSE?** 
+Do some research on some herbs -- it really doesn't matter which herbs, just pick 3 at random.  Research them on Wikipedia and WebMD and most importantly, identify their active dosage levels.  Done?  Now find a combination herb and take a look at the levels of the herbs included.  **DID YOU NOTICE THAT THEY ARE ALL AT 1% to 10% OF THE BASE ACTIVE DOSE?** 
 
 Now take a look at the singular herbal preparations -- they contain far more effective doses!
 

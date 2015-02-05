@@ -157,6 +157,8 @@ If you don't understand how neurons fire, they transmit electric charges.  Howev
 
 There are four primary ions for neural signalling and they include Calcium, Potassium and Magnesium.  They are all positively charged ions and I believe that the **ion size** determines the functional aspects of these ions in the brain.  In other words, our brain doesn't just deal in *ones and zeros* represented by electric current, the electric currents are aggregates of signals which use the various ions to further encode information.  And thus, it's actually the ions that we need to further observe -- these are the cause of the electric signals, which are represent a negatively charged summation of the positively charged ions.
 
+Check out these videos to learn more about [Voltage-Gated Ion Channels](https://www.youtube.com/watch?v=iDgKqJbdiDk) and [Action Potential](https://www.youtube.com/watch?v=Iiiz5CpFCQo) to better understand how Neurons propagate signals.
+
 #### Sooo ... Neurochemistry is Complicated
 ### But Here's My Point
 

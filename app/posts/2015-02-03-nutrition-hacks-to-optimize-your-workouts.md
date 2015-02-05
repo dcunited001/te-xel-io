@@ -166,13 +166,17 @@ If your brain has insufficient levels of these ions or these ions are not proper
 
 What's the problem?  If simple nutrition can prevent health problems, then why don't we just *grow better food?*  *Strained resource systems* and **overpopulation**, quite simply.  Another blog for another day. But basically, it would be incredibly difficult to make the numbers work and a lot of corporations -- *ahem,* Monsanto and McDonalds to name two -- just don't want to believe it -- *because wouldn't that be inconvenient!*
 
-### Be Wary of General Supplements, Especially Herbal Combinations!  
+### Be Wary of Herbal Combinations! 
 
-Do some research on some herbs -- it really doesn't matter which herbs, just pick 3 at randome.  Research them on Wikipedia and WebMD and most importantly, identify their active dosage levels.  Done?  Now find a combination herb and take a look at the levels of the herbs included.  **DID YOU NOTICE THAT THEY ARE ALL AT 1% to 10% OF THE BASE ACTIVE DOSE?**  
+Herbal supplements work in the opposite fashion to vitamin supplements -- **you actually want singular, focused preperations.**
 
-It's a waste of money and not because herbs are useless, but because the marketing people **just conned you** to include the herb on the label.  In fact, herbs offer medicene that our current science not only lacks the ability to reproduce, but also lacks the competence to **even prove that they work!**  Some herbs are useless and you should be especially wary of what you read on the internet.
+Do some research on some herbs -- it really doesn't matter which herbs, just pick 3 at randome.  Research them on Wikipedia and WebMD and most importantly, identify their active dosage levels.  Done?  Now find a combination herb and take a look at the levels of the herbs included.  **DID YOU NOTICE THAT THEY ARE ALL AT 1% to 10% OF THE BASE ACTIVE DOSE?** 
+
+Now take a look at the singular herbal preparations -- they contain far more effective doses!
+
+Herbal combinations can be a waste of money and not because herbs are useless, but because the marketing people **just conned you** to include the herb on the label.  In fact, herbs offer medicene that our current science not only lacks the ability to reproduce, but also lacks the competence to **even prove that they work!**  Some herbs are useless and you should be especially wary of what you read on the internet.
 
 At the same time, some doctors naively abhor some particularly useful treatments, assuming that all herbs are worthless.  And that's just not true.  Quality controls for the active ingredients of herbs can be hard to determine for studies.  The medical efficacy of some herbs can be heavily dependent on their environment, availability of precursor molecules/minerals in the soil, etc.  So some studies surrounding herbs are misleading. 
 
-**And it's *incredibily easy* for *financially motivated academic entities* to *blatantly manipulate* the results of these studies!** Especially when you consider that some incredibly intelligent people are capable of observing the effects of some experimental variables, which are unknown to most.  And then they will intentional leave any mention of those variables out of their studies.  
+**And it's *incredibily easy* for *financially motivated academic entities* to *blatantly manipulate* the results of these studies!** Especially when you consider that some incredibly intelligent people are capable of observing the effects of some experimental variables, which are unknown to most.  And then they will intentional leave any mention of those variables out of their studies. 
 

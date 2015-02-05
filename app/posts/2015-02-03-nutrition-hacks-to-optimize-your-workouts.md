@@ -153,13 +153,19 @@ Avoid vitamins and minerals that only include a narrow set of vitamins/minerals.
 
 Also a bit expensive, but I'm not taking this for bone health.  Magnesium is incredibly important for many things, but especially mental clarity.  I'm pretty sure there are a ton of preventable health crises in America that are actually caused by *mineral deficiencies.*  
 
+### Neurochemistry 201
+
 If you don't understand how neurons fire, they transmit electric charges.  However, it's more than just electric current, which IMO just represents an aggregate of a other information, represented in the local quanta of various ions.  These electric charges are caused by disparity in various ion levels -- I learned about this in a ton of detail from Coursera's [Drugs in the Brain](https://www.coursera.org/course/drugsandbrain) class.  When the disparity of ion levels reaches a certain level -- or when an upstream neuron fires and causes a change in the electric charge of the connected neurons -- a neuron will fire.
 
-There are four primary ions for neural signalling and they include Calcium, Potassium and Magnesium.  They are all positively charged ions and I believe that the **ion size** determines the functional aspects of these ions in the brain.  In other words, our brain doesn't just deal in *ones and zeros* represented by electric current, the electric currents are aggregates of signals which use the various ions to further encode information.  And thus, it's actually the ions that we need to further observe -- these are the cause of the electric signals, which are represent a negatively charged summation of the positively charged ions.
+There are four primary ions for neural signalling and they include Calcium, Potassium and Magnesium.  They are all positively charged ions and I believe that the **ion size** determines the functional aspects of these ions in the brain.  In other words, our brain is similar to a quantum computer, in how it doesn't just deal in *ones and zeros* represented by electric current.  Instead, the electric currents are aggregates of signals which use the various ions to further encode information.  And thus, it's actually the ions that we need to further observe -- these are the cause of the electric signals, which are represent a negatively charged summation of the positively charged ions.  
+
+Additionally -- and now i'm getting further away from that which I can prove -- I believe that some neuronal interconnections are **analog, biological manifestions of statistics functions.**  You brain is basically a giant, self-similar, self-modifying graph.  There's nothing digital about it and everything depends on probability and relative levels of ions, neurotransmitters.  It would be like a computer, entirely constructed from basic probabily functions.  Furthermore, the behavior of synaptic junctions can be drastically modified by the presence/absense of ion channels and other proteins.  And it's the neurotransmitters which signal the cell construct and modify these ion channels and signaling proteins 
+
+... I'm fairly sure that I could find data and studies to support this.  For example, serotonin signals G-Coupled Protein Receptors, which message the cell to react in some way.  The cell's reaction to serotonin is probably highly dependent on it's function and type.  But though this is mostly conjecture, I love thinking about this stuff.
 
 Check out these videos to learn more about [Voltage-Gated Ion Channels](https://www.youtube.com/watch?v=iDgKqJbdiDk) and [Action Potential](https://www.youtube.com/watch?v=Iiiz5CpFCQo) to better understand how Neurons propagate signals.
 
-#### Sooo ... Neurochemistry is Complicated
+#### Sooo ... Neurochemistry is complicated
 ### But Here's My Point
 
 If your brain has insufficient levels of these ions or these ions are not properly dispersed through your neurons, then your brain is going to have a real hard time keepin' it real.

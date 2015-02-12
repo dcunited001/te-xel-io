@@ -125,7 +125,7 @@ Sugar will also drastically modify your body's metabolic processes, which will f
 
 ## [Picture Missing]
 
-I need to find a picture of this product because it's terrible and made me feel like I had cancer. Yes, it was way worse than Centrum.  No offense if you tak Centrum.
+I need to find a picture of this product because it's terrible and made me feel like I had cancer. Yes, it was way worse than Centrum.  No offense if you take Centrum.
 
 #### If your nutritional product has a picture of Noah's Ark, you should start asking questions!
 

@@ -94,7 +94,7 @@ This is great because if you look around at the software communities in San Fran
 
 If you're dedicated enough to attend this meetups, good for you.  That's great: you're probably learning a ton.  If you're dedicated enough to volunteer your free time to organize these events, that's amazing.  The industry needs more people like you because it's one huge aspect of *what makes software fun.*  Make sure you put that shit on your resume.
 
-When I was living in Denver, there were tonnes of opportunities like this.  So many, that after I was unemployed for a few months, I started attending meetups (1) for the networking opportunities and (2) for the free food ... to save money lulz.  In fact, I did this so often, I joked that **"I was on the meetup diet -- just pizza and beer."  That was one of my openers for meeting new people, though I didn't think of it like that at the time.  I thought it was pretty funny though, lol.
+When I was living in Denver, there were tonnes of opportunities like this.  So many, that after I was unemployed for a few months, I started attending meetups (1) for the networking opportunities and (2) for the free food ... to save money lulz.  In fact, I did this so often, I joked that **"I was on the meetup diet -- just pizza and beer."**  That was one of my openers for meeting new people, though I didn't think of it like that at the time.  I thought it was pretty funny though, lol.
 
 > "I'm on the meetup diet -- just pizza and beer." - David Conner, Man About Town
 

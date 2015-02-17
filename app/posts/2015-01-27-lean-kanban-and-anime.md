@@ -21,7 +21,7 @@ This is what's going through my head when I watch TV, commercials and movies.  A
 #### &#x2605; What technology did they use to create this?
 #### &#x2605; What projects are eclipsed by this project? 
 #### &#x2605; Why did they choose that location or setting?
-#### &#x2605; Why is the english voice acting so bad? Is that just institutional in the American voice acting industry? lulz..
+#### &#x2605; Why is the english voice acting so bad? Is that just inherent in the American voice acting industry? lulz..
 
 ### Concept => Manga => Anime
 
@@ -37,7 +37,7 @@ Here's where the parallels to the Lean Startup process begin.  An idea is fleshe
 
 This process allows the creators to respond to their *biggest, most passionate fans* **as the series is being conceptualized**.  This means the writers can make subtle changes to their character development, to their scenearios, themes and plot lines as the series is being written.  While this process is not exactly new -- much 18th century english literature was produced periodically -- in today's literature world it is best exemplified in anime.
 
-The Lean Startup drew inspiration from Kanban, a design/manufacturing methodology originally popularized in Japan.  Companies would focus on getting products to market as quickly as possible and focus on **enabling a malleable production process**.  This allowed Japanese hardware companies to vet products, measure market demand and remain agile.  After I spent much time this summer watching anime, I thought more about their process and realized it closely resembled Kanban.  
+The Lean Startup drew inspiration from Kanban, a design & manufacturing methodology originally popularized in Japan.  Companies would focus on getting products to market as quickly as possible and focus on **enabling a malleable production process**.  This allowed Japanese hardware companies to vet products, measure market demand and remain agile.  After I spent much time this summer watching anime, I thought more about their process and realized it closely resembled Kanban.  
 
 This is very exciting.  Just trust me.
 
@@ -77,7 +77,7 @@ How did the producer's come up with such a great scene?  I suspect that a few of
 
 Another series I'm currently watching is Log Horizon.  It's pretty good so far.  I'm not sure why it took me so long to start watching it.  It involves players getting stuck inside an MMORPG game.  I haven't finished watching Sword Art Online and while both series are very good, these virtual world stories just didn't immediately appeal to me for some reason. 
 
-In [S1E7](http://www.hulu.com/watch/573389#i0,p1,d0), one group of players has discovered how to make real food that actually has a taste in the world, whereas most of the virtual food is tasteless.  They also have a need to make a lot of money, so they pull together and decide to launch a restaurant business.  The episode is mostly about how the market their business, protect intellectual property (the means of making tasty food), estimate profits, and discuss pursuing investment from the three biggest merchant guilds in Akihabara.  Again, there's a surprising level of depth behind the decisions characters make and it exposes their thought process to you.
+In [S1E7](http://www.hulu.com/watch/573389#i0,p1,d0), one group of players has discovered how to make real food that actually has a taste in the world, whereas most of the virtual food is tasteless.  They also have a need to make a lot of money, so they pull together and decide to launch a restaurant business.  The episode is mostly about how they market their business, protect intellectual property (the means of making tasty food), estimate profits, and discuss pursuing investment from the three biggest merchant guilds in Akihabara.  Again, there's a surprising level of depth behind the decisions characters make and it exposes their thought process to you.
 
 In the next episode, [S1E8](http://www.hulu.com/watch/575971#i0,p7,d0), the same group of players begins deliberation with the merchant guilds and the episode deals with negotiation tactics, a subject with many subtleties and paradoxes.  For example, you need to withhold information, but be honest with your partners at the same time, while balancing that with your partners' motivation for success.  There are a lot of mistakes you could make and you not only have to understand the reasoning behind negotiation tactics, but your team needs to be able to pull it off too.  If someone on your team is a weak link, they could ruin it by unintentionally disclosing information.  The main character skillfully leads his other capable team members through the negotiations and they develop a beneficial partnership with said merchant guilds.
 
@@ -95,7 +95,7 @@ If a TV show was four or five episodes long would you emotionally invest yoursel
 
 You could argue that a trilogy like Lord of the Rings has more play time.  Yes, but as a movie being released in theaters, it takes too long to produce: 3 to 10 years.  That kind of production time would have negatively impacted the reception of the Harry Potter movies.  Usually long running book series like that can't be transitioned to film without sacrificing content.  
 
-You'll notice most anime shows only last one or two seasons, besides the mainstream ones like Hunter x Hunter or Naruto, which i haven't watched at all..  The pacing is crucial to anime and this length helps maintain pace for the show so that it remains exciting.  Also, this length is perfect because the shows always end on a high note, in terms of quality.  You know, like Seinfeld -- they might be successful, but they know to stop when they're ahead.  After about 25 episodes, you get the feeling that you've gotten to know the characters and you've seen how they developed through the series.
+You'll notice most anime shows only last one or two seasons, besides the mainstream ones like Hunter x Hunter or Naruto, which I haven't watched yet, mostly because I don't want to commit myself to watching hundreds of episodes.  The pacing is crucial to anime and this length helps maintain pace for the show so that it remains exciting.  Also, this length is perfect because the shows always end on a high note, in terms of quality.  You know, like Seinfeld -- they might be successful, but they know to stop when they're ahead.  After about 25 episodes, you get the feeling that you've gotten to know the characters and you've seen how they developed through the series.
 
 ### From Light Novels and Visual Novels to Anime
 
@@ -109,7 +109,7 @@ By the way, I highly recommend [Fate: Zero](http://www.hulu.com/fatezero) and [F
 
 ### Retelling A New Story
 
-I like the idea of iterating on the same story and producing similar versions, similar to how the Legend of Zelda series always takes you to a different version of the world.  This keeps things interesting and new developments.  The occurs occasionally in western literature, but mostly older stuff and sometimes it's not officially the same story.  For example, Romeo and Juliet is based on another story with the same title that and it's very similar, or so I'm told.  This idea of retelling the same story in various ways seems to occur a lot in Eastern media.
+I like the idea of iterating on the same story and producing similar versions, similar to how the Legend of Zelda series always takes you to a different version of the world.  This keeps things interesting and offers new developments.  This occurs occasionally in western literature, but mostly older stuff and sometimes it's not officially the same story.  For example, Romeo and Juliet is based on another story with the same title and it's very similar, or so I'm told.  This idea of retelling the same story in various ways seems to occur a lot in Eastern media.
 
 Some people get very offended when details in a story are changed or altered across different media or when a series is rebooted.  However, I think this is one of the greatest strenths of transitioning from manga to anime.  Usually most of the changes aren't significant, but occasionally they are.  This can occasionally be negative, as most fans responded poorly to changes in story for Black Lagoon: Roberta's Blood Trail.  But IMO, it seems that the anime is the more polished, final vision of these manga.  
 

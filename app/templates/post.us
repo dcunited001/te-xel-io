@@ -29,7 +29,7 @@
     </p>
   </section>
 
-  <section>
+  <section class="article-content">
     <%= post.content() %>
   </section>
   

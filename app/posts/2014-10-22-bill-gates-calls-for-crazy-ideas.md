@@ -40,8 +40,12 @@ transcription sites?
 Does HIV have a mechanism for "turning up" it's own genes by altering the attached epigenetic 
 factors? And if so, how does it attach those epigenetic factors, how does it mark them to ramp up their expression, 
 and can we safely manipulate those processes? Or, perhaps we can interfere with the viral RNA that's emitted from a 
-cell's nucleus when the it expresses an HIV gene. Or maybe there's a way to set up "HIV Honeypots," harmless vacuoles 
-with surface proteins that trick HIV into attaching and neutralizing itself.
+cell's nucleus when the it expresses an HIV gene. *Or maybe there's a way to set up "HIV Honeypots," harmless vacuoles 
+with surface proteins that trick HIV into attaching and neutralizing itself.*
+
+**Update 2/19/15:** From a high level, this HIV Honeypot strategy is very similar to the promising [novel HIV](http://www.latimes.com/science/sciencenow/la-sci-sn-hiv-vaccine-20150217-story.html) treatment just announced this week!
+
+> "We took our clue from existing proteins that HIV needs to get into cells.  So we took pieces of one of those proteins and we added it to a piece of an antibody and we added it to something that looks very much like a second protein that HIV needs.  And the combination works much better than either the components or than any antibody." - [Dr. Farzan](http://www.wsj.com/video/molecule-shows-ability-to-block-aids-virus/CDD968BE-D773-44F3-8788-C22219D0A838.html) on WSJ Video.
 
 ### It's important to note ...
 

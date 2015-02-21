@@ -55,13 +55,13 @@ Now, couple this with a protein which targets a specific part of the human body,
 
 ### For example, you could trigger Myasthenia Gravis!
 
-MG is a disease where the immune system targets Acetylcholine receptors. Specifically, the Nicotinic Acetylcholine Receptor (nAChR) is usually attacked.  However, what if you genetically engineered a virus to produce this protein on it's surface.  Then, when the body fought off the virus, there's a chance it targets the virus this duplicate of the Human nAChR receptor.  Especially if you were also to remove proteins in the virus which the immune system would normally target.
+MG is a disease where the immune system targets Acetylcholine receptors. Specifically, the Nicotinic Acetylcholine Receptor (nAChR) is usually attacked.  However, what if you genetically engineered a virus to produce this protein on it's surface.  Then, when the body fights off the virus, there's a chance the virus produces antibodies against this duplicate of the Human nAChR receptor.  Especially if you were also to remove proteins in the virus which the immune system would normally target.  
 
 ![Nicotinic Acetylcholine Receptor](/img/posts/2015-02-19-viral-introduction-of-autoimmune-diseases-and-cancer/NAChR.png)
 
 #### Yes, this star-shaped receptor is real.  Proteins are formed of subunits that combine in different ways to modulate slightly different functionality.
 
-After your body eliminates the virus, the immune system then continues to target this protein.  This is kind of an important protein by the way -- nAChR is the same protein that nicotine activates.  And here's the worst part: **there's no way to get it to stop.**  Once you're poisoned in this manner, there's no good way to handle it.
+After your body eliminates the virus, the immune system then continues to target this protein.  This is kind of an important protein by the way -- nAChR is the same protein that nicotine activates.  And here's the worst part: **there's no way to get the immune system to stop attacking a protein it's trained to fight.**  Once you're poisoned in this manner, there's no good way to handle it.
 
 ![Ptosis](/img/posts/2015-02-19-viral-introduction-of-autoimmune-diseases-and-cancer/ptosis.gif)
 
@@ -107,7 +107,7 @@ OK, OK ... I created that entry about a year ago.  But, my point is, using genet
 
 Well, we can examine the statistics, but that's not really conclusive.  While useful, statistic modeling is innately subjective, usually.  We'll have to catch them *red handed*, so to speak. 
 
-We'd need to analyze genetic data from viral samples.  There's only so much mutation that can occur per generation without destroying a viral genome.  While there is are "copy-and-paste" mechanisms in genetics, whereby whole genes shift position, reverse or jump chromosomes, it is highly unlikely that this would appear cross-species or cross-virus.  
+We'd need to analyze genetic data from viral samples.  There's only so much mutation that can occur per generation without destroying a viral genome.  While there are "copy-and-paste" mechanisms in genetics, whereby whole genes shift position, reverse or jump chromosomes, it is highly unlikely that this would appear cross-species or cross-virus.  
 
 ![Z-DNA](/img/posts/2015-02-19-viral-introduction-of-autoimmune-diseases-and-cancer/zdna.gif)
 
@@ -159,7 +159,7 @@ Also, you can accomplish the same thing by promoting invalid medical advice.  Do
 
 #### Margarine has **2.5 GRAMS OF TRANS FAT** per *TABLESPOON!!* 
 
-Oh, and actually, eggs are one of the most healthy foods you can eat.  Think about it.  An egg contains *everything life needs to start.*  How can it be bad for you?  While that's not perfect reasoning, it's a good question to ask.
+Oh, and actually, eggs are one of the most healthy foods you can eat.  Think about it.  An egg contains *everything life needs to start.*  How can it be bad for you?  While that's not perfect reasoning, it's a place to start.
 
 ### In Conclusion
 

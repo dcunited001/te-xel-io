@@ -156,7 +156,7 @@ The **goal is to *dissociate/disguise* cause & effect between actions & reaction
 - **Manipulating channels of communication:** email, text, in person, phone and chatroom.  A person will purposely paint a different picture across different mediums of communication.
 - **Willful Incompetence:** someone may agree to complete a task or help you out.  Not really though.  They just plan on convincing you to pursue inaction, so they can leave you out to dry later.
 - **Play to appearences:** they ignore the truth of actions and play to what *seems* to happen. They play on the fears of your managers and your coworkers.  
-- **Distort Perceptions:** this person even goes so far as to control appearances -- in fact, **this** is *where they're power lies.* They will psychoanalyze you and mine your social media accounts for information they can distort.  They abuse channels of communication to present you in the light of their choosing.  Or maybe they task you with a Fool's Errand.
+- **Distort Perceptions:** this person even goes so far as to control appearances -- in fact, **this** is *where their power lies.* They will psychoanalyze you and mine your social media accounts for information they can distort.  They abuse channels of communication to present you in the light of their choosing.  Or maybe they task you with a Fool's Errand.
 - **Downplay your contributions:** this person will attempt to manipulate how your contributions are perceived.  They will make your victories seem like nothing and will draw attention to your failures.
 - **Lead you with false hope:** they'll play on your goals or dreams, promising complete bullshit that will never happen.  This is particularly bad in the entertainment industry.
 

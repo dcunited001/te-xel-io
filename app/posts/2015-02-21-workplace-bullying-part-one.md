@@ -80,7 +80,7 @@ Here's another book.  This one's chock full of shitty things shitty people did b
 
 IMO, religion has a lot of offer and those who disdain it are missing out.  However terrible they may be, having adequate knowledge of how these situations may play out *beforehand* can be a life saver!  You will definitely find yourself facing specific tactics, the significance of which you will not otherwise understand until it's too late!  You must recognize these tactics when they occur, so that you can cast light on the motivations behind your actions and so that you will not find the appearance of your actions manipulated!  
 
-> “Fools learn from experience. I prefer to learn from the experience of others.” -- Otto von Bismarck
+> "Fools learn from experience. I prefer to learn from the experience of others." -- Otto von Bismarck
 
 ### **But Wait! That's Not All!** -- I'm also going to give you tools!
 

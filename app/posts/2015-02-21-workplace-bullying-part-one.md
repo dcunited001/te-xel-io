@@ -166,7 +166,7 @@ The **goal is to *dissociate/disguise* cause & effect between actions & reaction
 
 > Hey, how would you like that shiny new promotion?  Yes, the one with the corner office.  We'll I'm going to need you to grab these chestnuts for me and they're totally in the fire.  Yes, that's right.  You'll need to be my catspaw.  But I totally pinky swear, that promotion is yours.
 
-> There's going to be a Reality TV and you could be on it! Don't mess it up for everyone!
+> There's going to be a Reality TV show and *you* could be on it! Don't mess it up for everyone!
 
 That last one didn't get me, by the way, as Reality TV doesn't appeal to me.  But it did get a few of my friends -- they were clamouring over themselves to help out who appeared to be in power.  *OMG I'LL BE FAMOUZ.*  **This one is powerful -- *and dirty*, in my opinion.**  It's one thing to prepare for something you're trying to bring about.  It's another to manipulate with false hope.
 

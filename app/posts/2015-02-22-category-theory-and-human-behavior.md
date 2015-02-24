@@ -65,6 +65,8 @@ See -- the ironic part is that I've never really been able to intuitively unders
 
 #### Kagamine Rin - Abstract Nonsense (English Subbed)
 
+Yeesh .... On second thought, there's some really bad imagery in that video.  Dammit.  Read the lyrics, pay no attention to the pictures in the video.  There really are some relevant subjects intermingled between the bullshit.  Gee, thanks Google.
+
 ### Up next, abusing the equals function to *actually make category theory useful.*
 
 Equals is a function too, donchya kno?! 

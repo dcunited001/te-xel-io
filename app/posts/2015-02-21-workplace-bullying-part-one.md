@@ -9,13 +9,13 @@ author:
 
 > You should do what you love and love what you do.
 
-After recently reading an Io9 article about [handling Passive Aggressive behavior](http://io9.com/the-secrets-to-handling-passive-aggressive-people-1681127156), I realized my definition of what I call **Paggro** behavior was extremely limited.  I basically considered passive aggressive behavior something like **vaguebooking**, where you post a vague status online, which everyone can see, but is clearly targeted towards one person.  Or maybe not, who knows?
+After recently reading an Io9 article about [handling Passive Aggressive behavior](http://io9.com/the-secrets-to-handling-passive-aggressive-people-1681127156), I realized my definition of **Paggro** behavior was extremely limited.  I basically condidered paggro to cover **vaguebooking**, where you post a vague status online, which everyone can see, but is clearly targeted towards one person.  Or maybe not, who knows?
 
-In terms of the negative & toxic behavior that passive aggressive behavior encompasses, vaguebooking isn't really that bad.  I mean, yes, it's immature and an ineffective ploy for attention.  But in terms of the manipulation possible with passive aggressive behavior, * **vaguebooking** doesn't even break the surface*. Like who cares? Ultimately, vaguebooking makes you look dumb.
+In terms of the negative & toxic behavior that passive aggressive behavior encompasses, vaguebooking isn't really that bad.  Yes, it's immature and an ineffective ploy for attention.  But in terms of the manipulation possible with passive aggressive behavior, * **vaguebooking** doesn't even break the surface*. Like who cares? Ultimately, vaguebooking makes you look dumb.
 
 ### Every Trick in **the Book**
 
-Yup, there really is **A BOOK**.  And here it is.  **With great power comes great responsibility.**  Some people use this book as a kind of bible.  *$#@! those people*.  Here's a blog with a [nice preview of the lovely teachings](http://48laws-of-power.blogspot.com/) this book entails.  **You're going to want to buy this book and study it.**  I'm not kidding.  I don't horse around like'at.
+Yup, there really is **A BOOK**.  And here it is.  **With great power comes great responsibility.**  Some people use this book as a kind of bible.  *$#@! those people*.  Here's a blog with a [nice preview of the lovely teachings](http://48laws-of-power.blogspot.com/) this book entails.  **You're going to want to buy this book and study it.**  
 
 ## 48 Laws of Power
 

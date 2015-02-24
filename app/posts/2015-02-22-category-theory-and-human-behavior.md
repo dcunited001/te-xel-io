@@ -45,7 +45,7 @@ So, in the code sample above, we've just applied the **Agent-based Design Patter
 
 My point is that category theory underpins human behavior -- conversation, interaction, motivation, sociology, etc.  All of these can be mathematically described using tree-like structures representing self-modifying functions, coupled with game theory and other mathematic concepts.  Category theory is also applicable in genericizing and amalgamating other behavior that you see.  You can basically interpret any behavior as a function, then replace the specifics with variables and combine with other functions to reuse it.
 
-**If you don't understand this math** -- that's OK.  That's what's nice about having a human brain -- you don't actually have to understand it to understand how it works.  It just does.  By the time you pop out and before you start crawling, your brain is already capable of linear algebra, category theory and other complex concepts, many of which are still far beyond human understanding.  If your brain wasn't capable of these things, you wouldn't be able to learn to walk or cross the street.
+**If you don't understand this math** -- that's OK.  That's what's nice about having a human brain -- you don't actually have to understand how its functionality works to use it.  It just does.  By the time you pop out and before you start crawling, your brain is already capable of linear algebra, category theory and other complex concepts, many of which are still far beyond human understanding.  If your brain wasn't capable of these things, you wouldn't be able to learn to walk or cross the street.
 
 ![Functors](/img/posts/2015-02-22-category-theory-and-human-behavior/functor.jpg)
 

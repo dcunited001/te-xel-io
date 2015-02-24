@@ -47,6 +47,10 @@ My point is that category theory underpins human behavior -- conversation, inter
 
 **If you don't understand this math** -- that's OK.  That's what's nice about having a human brain -- you don't actually have to understand how its functionality works to use it.  It just does.  By the time you pop out and before you start crawling, your brain is already capable of linear algebra, category theory and other complex concepts, many of which are still far beyond human understanding.  If your brain wasn't capable of these things, you wouldn't be able to learn to walk or cross the street.
 
+### Make It Stop!!  LOL I'm kidding, I'm kidding.
+
+This is what I've been seeing in my head for the past few months.  Well, this and several kinds of more complicated, high dimensional graph structures.  
+
 ![Functors](/img/posts/2015-02-22-category-theory-and-human-behavior/functor.jpg)
 
 Functors are mappings between multiple categories.  Between any two finite categories, there is a finite number of functors encompassing the set of all functors between them.  These represent the myriad of ways to combinate between one category to the next ... mayyybe.  Jeez, I should maybe learn a little more about this so I $#@!'ing know what I'm talking about.  I should -- idonno -- go to college or something.  Or at least be surrounded by other people who do know what the !@#$ they're talking about!

@@ -53,7 +53,7 @@ I have one friend who mentioned she lost her job a bully in her workplace a few 
 
 ![Sun Tzu](/img/posts/2015-02-21-workplace-bullying-part-one/sun-tzu.jpg)
 
-Here's another book to read and you can even find it online [for free!](http://classics.mit.edu/Tzu/artwar.html) Read it!  It's like three pages, so read a version. Some of the most important topics in this book are: 
+Here's another book to read and you can even find it online [for free!](http://classics.mit.edu/Tzu/artwar.html) Read it!  It's like three pages and I recommend reading it first, then finding a version with commentary. Some of the most important topics in this book are: 
 
 1. **Fight a war without fighting.**  Don't openly fight battles if you don't have to.  No one wants to expend unnecessary energy.  Weigh your options.  What are they?  Can you play to your opponents motivations?  Find something in common instead.
 2. **Know thyself and know your enemy.**  By predicting behavior and knowing your own capabilities, you know which battles are won and which are lost before fighting them.  And more.
@@ -120,21 +120,21 @@ Ultimately, unfairly being pushed out of jobs has led me to:
 
 1. **Lack of incentive to get another job.** Trust me, if you've been in my shoes and you've faced this over and over again, you're better off at peace.
 2. **Lack of ability to get a new job.**  Breaks in work experience in your resume lead you to get filtered out of a list of job applicants -- fast.  
-3. **Lack of opportunities** because I have had to move back to my hometown several times.  While I love my hometown has a metropolitan population of < 300,000.  Guess what?  No more meetups.  No job opportunities.  No
-4. **Disrupted relationships in my personal life**, driving me to depression and unnecessary anxiety.  I've moved across the country like 5 times, just to have to return every time, terminating any new relationships.  I am pushed to despair and unable to function.  And while some of it is definitely my fault, the influence that others can have on your life can be catastrophic.  If everything is ultimately my own fault, then why would others ever strategically plan their behavior?  Would there be any point?
+3. **Lack of opportunities** because I have had to move back to my hometown several times.  While I love my hometown, it has a metropolitan population of < 300,000.  Guess what?  No more meetups.  No job opportunities.  Not for open source software anyways.
+4. **Disrupted relationships in my personal life**, driving me to depression and unnecessary anxiety.  I've moved across the country like 5 times, just to have to return every time, terminating any new relationships.  I am pushed to despair and unable to function.  And while some of it is definitely my fault, the influence that others can have on your life can be catastrophic.  If everything is ultimately my own fault, then why would others expend so much energy strategically planning their behavior?  Would there be any point?
 5. **Lack of acquired experience required for new opportunites.** I'm at a point where I'm seriously falling behind in my career.  And not for lack of talent, but because of lack of opportunities and direction.  I'm doing pretty well, in spite of it all.  But, honestly, it doesn't matter how well I excel in coding while I'm alone in Roanoke.  NO ONE RELEVANT IS HERE TO SEE ME SUCCEED.
 
 ### Empathetic?  OMG I have learned to appreciate you!
 
-Most of the people I've worked with are friendly, empathetic and frank people who genuinely have your best intentions in mind.  But honestly, I've had to deal with a few incredibly two-faced people who almost seem *trained in the art duplicity.*  But, I've learned that, unfortunately, you can't depend on avoiding it -- you have to deal with it.
+Most of the people I've worked with are friendly, empathetic and frank people who genuinely have your best intentions in mind.  Maybe that wasn't the best way to put it.  They at least consider (and reconsider) situations from multiple perspectives, not just their own.  But honestly, I've had to deal with a few incredibly two-faced people who almost seem *trained in the art of duplicity.*  But, I've learned that, unfortunately, you can't depend on avoiding it -- you have to deal with it.
 
 ![Sociopathic](/img/posts/2015-02-21-workplace-bullying-part-one/sociopathy.jpg)
 
 #### Recent studies show that up to **[1 in 25](http://www.lisawolcott.com/how-to-spot-and-handle-a-sociopath/)** people have [sociopathic](http://www.amazon.com/Sociopath-Next-Door-Martha-Stout/dp/0767915828) [tendencies](http://www.thedailybeast.com/articles/2013/06/25/how-to-spot-a-sociopath-hint-it-could-be-you.html).
 
-There is almost always **that one guy** and I don't get it.  The person I'm talking about usually underperforms at their actual job -- but they excel at manipulating people!  They may lack real talent, but **they won't hesitate to take credit for yours.**  To this person, it's all about the **meta-game.**  This is the most frustrating part: they distort all your energy and talent, just to turn it against you!  You work hard, you try harder -- you even work after hours, logging 50+ hours per week.  And **even that** gets turned against you! 
+There is almost always **that one guy** and I don't get it.  The person I'm talking about usually underperforms at their actual job -- but they excel at manipulating people!  They may lack real talent, **but they won't hesitate to take credit for yours.**  To this person, it's all about the **meta-game.**  This is the most frustrating part: they distort all your energy and talent, just to turn it against you!  You work hard, you try harder -- you even work after hours, logging 50+ hours per week.  And **even that** gets turned against you! 
 
-> "Well, he obviously can't complete his work during the day!" -- An example of how a workplace bully will contort your words and actions to use them against you, no matter how hard you try.
+> "Well, he obviously can't complete his work during the day!" -- An example of how a workplace bully will contort your words and actions to use them against you, no matter how hard you try.  And notice: the same guy who distracts you during the day at work *doesn't want you spending time working from home.*
 
 ### Some people just don't play fair.
 
@@ -152,19 +152,19 @@ The **goal is to *dissociate/disguise* cause & effect between actions & reaction
 
 ### Brief list of examples of Paggro Behavior
 
-- **Manipulating the audience that witnesses behavior:** someone may antagonize you 1-on-1, then act like a concerned friend in front of everyone else.
-- **Manipulating channels of communication:** email, text, in person, phone and chatroom.  A person will purposely paint a different picture across different mediums of communication.
+- **Manipulating the Audience that Witnesses Behavior:** someone may antagonize you 1-on-1, then act like a concerned friend in front of everyone else.
+- **Manipulating Channels of Communication:** email, text, in person, phone and chatroom.  A person will purposely paint a different picture across different mediums of communication.
 - **Willful Incompetence:** someone may agree to complete a task or help you out.  Not really though.  They just plan on convincing you to pursue inaction, so they can leave you out to dry later.
-- **Play to appearences:** they ignore the truth of actions and play to what *seems* to happen. They play on the fears of your managers and your coworkers.  
-- **Distort Perceptions:** this person even goes so far as to control appearances -- in fact, **this** is *where their power lies.* They will psychoanalyze you and mine your social media accounts for information they can distort.  They abuse channels of communication to present you in the light of their choosing.  Or maybe they task you with a Fool's Errand.
-- **Downplay your contributions:** this person will attempt to manipulate how your contributions are perceived.  They will make your victories seem like nothing and will draw attention to your failures.
-- **Lead you with false hope:** they'll play on your goals or dreams, promising complete bullshit that will never happen.  This is particularly bad in the entertainment industry.
+- **Play to Appearences:** they ignore the truth of actions and play to what *seems* to happen. They play on the fears of your managers and your coworkers.  
+- **Distorting Perceptions:** this person even goes so far as to control appearances -- in fact, **this** is *where their power lies.* They will psychoanalyze you and mine your social media accounts for information they can distort.  They abuse channels of communication to present you in the light of their choosing.  Or maybe they task you with a Fool's Errand.
+- **Downplay Your Contributions:** this person will attempt to manipulate how your contributions are perceived.  They will make your victories seem like nothing and will draw attention to your failures.
+- **Lead You with False Hope:** they'll play on your goals or dreams, promising complete bullshit that will never happen.  This is particularly bad in the entertainment industry.
 
 ### Examples of manipulation through false hope
 
 > We've got some pretty big performances coming up.  We could use your talent, you know.  And all you have to do is stab your mentor in the back -- he's holding you back anyways. What the $#!@ did he ever do, anyways?
 
-> Hey, how would you like that shiny new promotion?  Yes, the one with the corner office.  We'll I'm going to need you to grab these chestnuts for me and they're totally in the fire.  Yes, that's right.  You'll need to be my catspaw.  But I totally pinky swear, that promotion is yours.
+> Hey, how would you like that shiny new promotion?  Yes, the one with the corner office.  We'll I'm going to need you to grab these chestnuts for me and they're totally in the fire.  Yes, that's right.  You'll need to be my catspaw.  But I totally pinky swear; that promotion is yours.
 
 > There's going to be a Reality TV show and *you* could be on it! Don't mess it up for everyone!
 

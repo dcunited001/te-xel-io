@@ -11,15 +11,11 @@ Some of "tactics" I describe didn't happen to me personally.  Some of these are 
 
 I'm not trying bring retaliation against a former colleague or business.  If there are identifying details in here, I'm sorry.  That's not my intention.  Any details I provide I will attempt to keep vague.  However, because it is vague, I'm at risk of seeming passive-aggressive myself -- or worse, possibly making someone who is not at fault feel responsible for something that happened.  If you find yourself wondering whether you were involved in an example in one of the following sections, that means you probably weren't.
 
-Also, this is my experience from my perspective.  One of the worst aspects of passive aggressive behavior -- and one reason that it is so effective -- is that positive behavior becomes easy to confuse with negative behavior, since the goal is to confuse cause and effect, to encourage inaction and to prevent interference. 
+Also, this is my experience from my perspective.  One of the worst aspects of passive aggressive behavior -- and one reason that it is so effective -- is that positive behavior becomes easy to confuse with negative behavior, since the goal is to confuse cause and effect, to encourage inaction and to prevent interference.
 
 ## Specific Tactics of Workplace Bullies
 
 The worst part about these tactics is their indirectness.  
-
-### &#x2605; Attaching Pyschological Labels to You
-
-Oh this is particularly effective and I detest it.  More than the Hall of Mirrors.
 
 ### &#x2605; Hall of Mirrors
 
@@ -172,6 +168,10 @@ This is a particularly effective strategy and it requires a certain level of com
 #### Wow, that looks horrendously effective.
 
 This is actually a tactic that's used in business fairly often and so, it really doesn't indicate a bully.
+
+### &#x2605; Attaching Pyschological Labels to You
+
+The bully may try to apply psychological labels to you.  This can be particularly effective, as oftentimes with mental disorders, the way people react to the label can be more devastating than the disease itself.  For example, if someone repeatedly calls you paranoid, people around you may mistake this for paranoid schizophrenic.  Or they may not label you with anything specific: they might just insinuate that you're crazy in one way or another.  But if you're labelled as paranoid, you're probably not going to be taken seriously anytime soon.  Sometimes, people just throw labels out there to see what sticks.  It's incredibly unsettling.
 
 ### &#x2605; Labelling You as Paranoid -- Extremely Effective
 

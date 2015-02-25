@@ -51,7 +51,7 @@ And while this article seems incredibly negative, **I don't want to give readers
 - [Losing the Game? Play a New Game!](#losing-the-game-play-a-new-game)
 - [Catspaws, Catspaws, Catspaws](#catspaws-catspaws-catspaws)
 - [Control your environment and Limit the Options](#control-your-environment-and-limit-the-options)
-- [Let your Opponent Destroy Themselves](#let-your-opponent-destroy-themselves)
+- [Let Your Opponent Destroy Themselves](#let-your-opponent-destroy-themselves)
 - [Applying Labels and Abusing Them](#applying-labels-and-abusing-them)
 - [Finding Your Buttons and Pushing Them](#finding-your-buttons-and-pushing-them)
 - [Gradually Eat Away at Reputation](#gradually-eat-away-at-reputation)
@@ -64,13 +64,19 @@ In general, these are the tactics you will find yourself facing if someone is go
 <a name="distracting-your-opponent"/>
 ### &#x2605; [Distract Your Opponent](/posts/2015-02-24-workplace-bullying-part-two.html#distracting-your-opponent)
 
-The bully will want to make sure that what they do seems justified.  If there are ways of distracting their opponent to prevent them from completing work, you can bet on it: they will pursue those strategies.  At the end of the game, they need the system to approve everything they've done.  If management views the bully as someone who pushed out an employee who didn't accomplish much, the management may actually favor that person as someone who helped avoid their hands getting dirty!  So the bully will pursue strategies and distort the perceptions of those around them to make sure that, after the endgame plays out, the system will favor everything they did!  
+The bully will want to make sure that what they do seems justified.  If there are ways of distracting their opponent to prevent them from completing work, you can bet on it: they will pursue those tactics.  
+
+![Keep your eye on the ball](/img/posts/2015-02-24-workplace-bullying-part-two/eye-on-ball-1.jpg)
+
+At the end of the game, they need the system to approve everything they've done.  If management views the bully as someone who pushed out an employee who didn't accomplish much, the management may actually favor that person as someone who helped avoid their hands getting dirty!  So the bully will pursue strategies and distort the perceptions of those around them to make sure that, after the endgame plays out, the system will favor everything they did!  
 
 > Watch Out! These kinds of early-game strategies are subtle and before you know it, you'll find yourself surrounded.  These are the kinds of chips that a manipulative opponent will stack against you, probably while they are acting like your new best buddy.
 
-In a subsequent part of this series, I'm going to describe ways of distracting people in Software specifically, by abusing bureaucracy, with fools errand's and through other means.  
+In a subsequent part of this series, I'm going to describe ways of distracting people in software specifically, by abusing bureaucracy, with fools errand's and through other means.  
 
 > Moral of the story: **keep your eye on the ball!**
+
+![Keep your eye on the ball](/img/posts/2015-02-24-workplace-bullying-part-two/eye-on-ball-2.gif)
 
 <a name="abuse-plausible-deniability"/>
 ### &#x2605; [Work Indirecly and Abuse Plausible Deniability](/posts/2015-02-24-workplace-bullying-part-two.html#abuse-plausible-deniability)
@@ -86,12 +92,14 @@ How do you pick up on this?
 
 This person wants to make you give up, so they have control.  Therefore they will want to make you feel the burn.  If they can make you feel bad or question everything that you do, you're going to be less able to defend yourself.
 
+![Paris Hilton & the Art of War](/img/posts/2015-02-24-workplace-bullying-part-two/paris-hilton.jpg)
+
 <a name="control-the-audience"/>
 ### &#x2605; [Control the Audience](/posts/2015-02-24-workplace-bullying-part-two.html#control-the-audience)
 
 This one is used by every workplace bully I know and one of their most important tactics.  They will seek to control visibility.  They will react differently to you in front of different people.  They may chastise you and belittle you in private.  They may ask you to lunch privately to ask you leading questions.
 
-They will abuse **Carbon Copy** on email.  In other words, they will leave off your manager when asking for help or asking for your advice or when congradulating you for a job well done.  Then, they will CC their manager when it suits them.  
+They will abuse **Carbon Copy** on email.  In other words, they will leave off your manager when asking for help or asking for your advice or when congradulating you for a job well done.  Then, they will **C.C.** their manager when it suits them.  
 
 Controlling the audience is usually a coincidence -- most people don't think of this in this way.  It's important not to jump to conclusions here.  After all, many times, that's just how the chips fall.  But, after it happens repeatedly and with strategic purpose, it becomes hard to ignore.
 
@@ -126,7 +134,9 @@ The rules don't favor the bully? The bully find ways to implement new rules that
 
 Examples of this behavior include complaining to management about minor problems.  Acting like certain situations are unfair.  They do this one on one with a manager, out of sight.  The manager then responds as they should, by enforcing a policy which seems fair.  But really, the workplace bully is just trying to trap you by setting up a game where you will fail.
 
-> "But he comes in an hour late every day!" -- Yeh, I also stayed an hour late every day.  Big fucking deal.
+> "But he comes in an hour late every day!" 
+
+... yeh, I also stayed an hour late every day.  Big fucking deal.  I'm a programmer -- good programmers eliminate time. 
 
 <a name="catspaws-catspaws-catspaws"/>
 ### &#x2605; [Catspaws, Catspaws, Catspaws](/posts/2015-02-24-workplace-bullying-part-two.html#catspaws-catspaws-catspaws)
@@ -134,6 +144,10 @@ Examples of this behavior include complaining to management about minor problems
 The bully will attempt to get other people to do the dirty work.  This is very complicated, since you have to construct abstracted behavior to pass to other people, often using suggestion and manipulation.  I honestly don't get how people do it.  
 
 This is usually harder to achieve and requires someone who is particularly manipulative.  Therefore, you won't tend to see this happening, unless multiple people gang up on you at work -- which is called **mobbing** by the way. 
+
+![Cat's Paw](/img/posts/2015-02-24-workplace-bullying-part-two/catspaw.jpg)
+
+#### Nyan!
 
 It seems to be easier if you excel at math, especially category theory, since you are technically obfuscating functions in a manner such that the behavior you intend will be executed by someone else.  
 
@@ -172,6 +186,8 @@ See, but that's the problem right there: **plausible deniability.** Remember tha
 
 Nine out of ten people asking these questions are not harboring any ill will!  In fact, you may offend them by not answering!  *But your better off if you don't!*  Don't be rude of course.  Your better off finding a polite way to evade the question.  Ugh, this sounds bad, since you really do want to get to know people at work.  I don't know what the right answer is here, but I have had labels attached to me *and I have had them used against me!!*
 
+![Abusing Labels](/img/posts/2015-02-24-workplace-bullying-part-two/labels.jpg)
+
 Why are you better off not answering, and especially to a sociopathic workplace bully? Because that one in ten is going to use your answers to label you and limit your possible behaviors in their social model of you.  This person may not need to ask the questions if other people do it for them. 
 
 > Remember, sociopaths have no morals.  They have no conscience that tells them not to do unethical things.  I almost feel sorry for them.  **The best mechanism for limiting their behavior is making others aware of it. *Here's one of those tools I was telling you about in Part One: make other's aware. ** *
@@ -191,20 +207,22 @@ As a double-edged sword, it's exactly this experience that enables them to be mo
 <a name="finding-your-buttons-and-pushing-them"/>
 ### &#x2605; [Finding Your Buttons and Pushing Them](/posts/2015-02-24-workplace-bullying-part-two.html#finding-your-buttons-and-pushing-them)
 
-Bullies will use these labels to help determine your behavior.  They will be more capable of effectively manipulating you and getting away with it.
-
-The goal in game theory is to limit your opponents behavior to a more predictable model. 
+Bullies will use these labels to help determine your behavior.  They will be more capable of effectively manipulating you and getting away with it.  The goal in game theory is to limit your opponents behavior to a more predictable model. 
 
 > Word of advice: ** *Do not let yourself become predictable.* ** You are much more easily manipulated when someone can predict your actions.
 
-Religion and Psychological Labels are like Roadmaps to Manipulating People.  In my experience, every workplace bully that I have dealt with excelled in psychologically assessing someone.  Or ... at least maybe they thought they did. 
+![Stop Button](/img/posts/2015-02-24-workplace-bullying-part-two/pushing-buttons.jpg)
+
+Religion and Psychological Labels are like roadmaps to manipulating people.  In my experience, every workplace bully that I have dealt with excelled in psychologically assessing someone.  Or ... at least maybe they thought they did. 
 
 - **High Functioning Autism?** 'Probably susceptible to distraction with auditory/visual stimulus.  Probably easily distractable, suggestable, easy to lead on, and easy to make them emotional.'
 - **Christian?** 'Well, this guy is supposed to forgive & forget and turn the other cheek.  And he also won't do X, Y, or Z.' 
 - **Mormon?** 'This guy probably won't drink alcohol.  Might not even drink caffeine.'
 - **Buddhist?** 'Hmmmm... he's not even supposed to want anything.  He probably loves everything.  This guy will probably ignore everything I do to him.  *Perfect*.'
 
-Some people will take labels and they will use them.  Of course, sometimes people want to identify labels out of respect and don't intend harm.  You're probably not going to ask a Jewish guy if he wants some of your sushi.  That'd imply that you didn't know him very well and could be disrespectful.  But *sometimes* -- and this applies to religious labels especially -- people will use these as models to predict your behavior and use it against you.  They will test you a bit, to see that you'll consistently act with the model they expect.  And then they'll use the model to exploit you.
+Some people will take labels and they will use them.  Of course, people sometimes want to identify labels out of respect and don't intend harm.  You're probably not going to ask a Jewish guy if he wants some of your sushi.  That'd imply that you didn't know him very well and could be disrespectful.  But *sometimes* -- and this applies to religious labels especially -- people will use these as models to predict your behavior and use it against you.  They will test you a bit, to see that you'll consistently act with the model they expect.  And then they'll use the model to exploit you.
+
+![Pulling Strings](/img/posts/2015-02-24-workplace-bullying-part-two/pulling-strings.jpeg)
 
 Respect someone's religion and politics if they share them with you.  You need to accept it, understand it and appreciate it, but definitely do not use it against someone for Christ's sake!  Most people, even if they are a workplace bully, will not use religion.  However, a true sociopath will not hesitate, so long as they don't get caught!
 
@@ -236,6 +254,12 @@ A workplace bully will tend to try to eliminate threats early, before a perceive
 
 Some workplace bullies are particularly vindictive.  They will work hard to make sure you are never given another chance again. Or that, at least, you won't be close to them or anyone they know.  They don't want other people hearing about the dirty tricks up their sleeve.  This is discussed in 48 Laws of Power -- [Crush Your Enemy Totally](http://48laws-of-power.blogspot.com/2011/05/law-15-crush-your-enemy-totally.html).
 
+![Das Brennende Troja](/img/posts/2015-02-24-workplace-bullying-part-two/das-brennende-troja.jpg)
+
+#### The Trojan War -- Golden Apples, Pwnies, Salted Earth, and More
+
+By the way, Troy has nothing to do with this.  I'm mostly referring to the fact that after the Trojan War, the greeks salted the earth around Troy, so nothing would ever grow there again.  In other wards, they totally crushed there enemy.  People have been doing this for thousands of years -- but, honestly, if you're not fighting a war, you should probably lay the !@#$ off.
+
 Before the workplace bully finishes you off, they may place you in a position, where they subtly let you know that they want you to leave -- and if you don't you will face retribution down the line.  WATCH OUT!  It's a trick!  This person is going to dispense retribution regardless of what you do.  And really, they are just trying to take advantage of you in a demoralized state.  The earlier they push you out, the less dirty tricks they'll have to reveal and use.  ** *And once you're gone,* there's not much you can do to defend yourself!!**
 
 The bully will attempt to close all doors leading back to them.  Even after they defeat you, a wise enemy will still continue to work to affect your life.  They may not deal with you personally, they may separate themself from threats by using catspaws and continually "isolating" you by assaulting your reputation.  This means that fewer people will get closer to you.  Eventually, everyone will forget your accomplishments. History is written by the victors, remember?  And the workplace bully will work to make you seem as though you are nothing or worse -- crazy.
@@ -244,91 +268,117 @@ You will likely be pushed out and provided severance.  This severance will come 
 
 A particularly vindictive bully with lots of connections will keep tabs on your social media presence.  They won't want you to become too successful.  If you move to a new area and they have connections there, they may attempt to link you up, but they will poison their connections against you first.  They won't want to get caught doing this though. 
 
-They may even indirectly try to drive you to suicide.  No, I'm serious.  The FBI tried to do it to MLK jr.  So, if there is documented evidence of a government agency doing it, is it really that far out there?  Most people at least enough conscience to dread even thinking about this -- therefore, this doesn't happen very often.  But some people are only motivated by what others see.  And after all, if you are no longer around, you no control control over your legacy.  The bully then has much more control over your life and your history.  And there's not a damn thing you can do about it!  If they can manipulate while you can defend, they can manipulate when when you're dead.
+They may even indirectly try to drive you to suicide.  No, I'm serious.  The FBI tried to do it to MLK jr.  So, if there is documented evidence of a government agency doing it, is it really that far out there?  Most people have at least enough conscience to dread even thinking about this -- therefore, this doesn't happen very often.  But some people are only motivated by what others see.  
+
+And after all, if you are no longer around, you no control control over your legacy.  The bully then has much more control over your life and your history.  And there's not a damn thing you can do about it!  If they can manipulate while you can defend, they can manipulate when when you're dead.
 
 ## Specific Tactics of Workplace Bullies
 
 The worst part about these tactics is their indirectness.  
 
-#### &#x2605; Hall of Mirrors
+### &#x2605; Hall of Mirrors
 
-The bully may abuse suggestion and rhetoric to make "copies" of hisself and his beliefs.  They may bring in new people and poison them against this you.  If someone has the power required to attain this, you've already lost.  In order to fight it, you're going to need untold training in metaphysical jujitsu.
+![Enter the Dragon - Hall of Mirrors](/img/posts/2015-02-24-workplace-bullying-part-two/enter-the-dragon.jpg)
 
-#### &#x2605; Spread Rumors
+The bully may abuse suggestion and rhetoric to make "copies" of himself and his beliefs.  They may bring in new people and poison them against this you.
 
-The bully may acquire information about you in order to spread believeable rumors.  You may spend years fighting these rumors.  You may not even know that people believe these things about you -- in fact, you probably won't.  The bullies will spend considerable effort crafting rumors in such a way that no one will verify the truth.  They will work through catspaws to spread these rumors and you will not know who started them, if you ever hear about them.  Sometimes, a bully will pick out the worst possible things, a rumor so nasty that no one will verify it for themselves.
+If someone has the power required to attain this, you've already lost.  There's basically nothing you can do.  In order to fight it, you're going to need untold training in metaphysical jujitsu.
 
-#### &#x2605; Abuse Confirmation Bias when Speading Rumors
+![Toungue Fu](/img/posts/2015-02-24-workplace-bullying-part-two/toungue-fu.jpg)
 
-When the bully spreads a rumor, they may couple this by suggesting a method to test you with.  "Oh.. just ask him this.  See how he responds and you'll see its true."  By doing this and constructing the rumors in just the right way, people will form concrete beliefs about you that are not true.  And once enough people form these beliefs, they are nearly impossible to shake.  They acquire an *egrigore*, a will of their own.  Most people won't ask you things directly, so it becomes difficult to dispel them.
+#### You practice Qi Gong and Toungue Fu, my homies?
 
-By coming up with clever ways of abusing confirmation bias, it increases the likelihood that these rumors will stick.  It's magical -- people will test these rumors and then feel confident they just outed you on something.  When you have no idea what's going on.  Or eventually, you wonder way sooo many people that you just met keep asking about X, Y, or Z, which are not topics which normally come up in conversation!  But it's like always the third topic someone pursues in their first conversation with you.  At this point, your anxiety becomes the confirmation bias -- your anxiety and nervousness about the subject confirms it in this persons mind!  $#@!'ed up, ain't it?
+### &#x2605; Spread Rumors
+
+The bully may acquire information about you in order to spread believeable rumors.  You may spend years fighting these rumors.  You may not even know that people believe these things about you -- in fact, you probably won't.  The bullies will spend considerable effort crafting rumors in such a way that no one will verify the truth.  
+
+They will work through catspaws to spread these rumors and you will not know who started them, if you ever hear about them.  Sometimes, a bully will pick out the worst possible things, a rumor so nasty that no one will verify it for themselves.
+
+### &#x2605; Abuse Confirmation Bias when Speading Rumors
+
+When the bully spreads a rumor, they may couple this by suggesting a method to test you with.  "Oh.. just ask him this or mention that.  See how he responds and you'll see its true."  By doing this and constructing the rumors in just the right way, people will form concrete beliefs about you that are not true.  And once enough people form these beliefs, they are nearly impossible to shake.  These ideas will acquire an *[egrigore](http://en.wikipedia.org/wiki/Egregore)*, a will of their own.  Most people won't ask you things directly, so it becomes difficult to dispel them.
+
+By coming up with clever ways of abusing confirmation bias, it increases the likelihood that these rumors will stick.  It's magical -- people will test these rumors and then feel confident they just outed you on something, when you really have no idea what's going on.  Or eventually, you wonder way sooo many people that you just met keep asking about X, Y, or Z, which are not topics which normally come up in conversation!  But it's like always the third topic someone pursues in their first conversation with you.  At this point, your anxiety becomes the confirmation bias -- your anxiety and nervousness about the subject confirms it in this persons mind!  .... $#@!'ed up, ain't it?
+
+![Sperading Rumors](/img/posts/2015-02-24-workplace-bullying-part-two/spreading-rumors.jpg)
 
 > sex addict.  racist.  crackhead.  neonazi.  bipolar.  schizo.  HIV.  antisocial.  heroin addict.  terrorist.  wife beater.  homewrecker.  stalker.
 
-Watches porn? Make sure everyone thinks they're a "creeper" whatever that means.  Whats the wierdest fetish you can think of? They're into it.  Paint sex as the primary motivation behind this person's interactions with people.  This is how lives are ruined, folks.
+Watches porn? Make sure everyone thinks they're a "creeper" whatever that means.  Whats the wierdest fetish you can think of? They're into it.  Paint sex as the primary motivation behind this person's interactions with people.  Again, no one will actually verify it -- no one will even get close to this person.  This is how lives are ruined, folks.
 
-#### &#x2605; Construct a Lie by Rearranging Elements of the Truth
+### &#x2605; Construct a Lie by Rearranging Elements of the Truth
 
-This is another particularly useful tool in creating rumors and suggesting methods of confirmation bias.  This involves **Category Theory**, by the way.  Beware people who are especially proficient at this.  If it's concerning a rumor or lie that's in the form of rearranged truth, then people will try to verify pieces of that truth.  When they verify enough pieces of truth, they will assume that it is true in its entireity. 
+This is another particularly useful tool in creating rumors and suggesting methods of confirmation bias.  This involves **Category Theory**, by the way.  Beware people who are especially proficient at this.  If it concerns a lie that's in the form of rearranged truth, then people will try to verify pieces of the truth that compose the lie.  When they verify enough pieces of truth, they will assume that it is true in its entireity. 
 
 This technique is similar to the method used by some rock artists to write songs.  They basically pick lyrics, words and concepts that resonate with people then chop them up and rearrange them. People will spend decades trying to decide what they mean, when they never really meant anything at all, in and of themselves anyways.  The songs and lyrics will begin to acquire meaning though.  Incredibly useful tool for artists.
 
-#### &#x2605; Pick a Weak Target
+### &#x2605; Pick a Weak Target
 
 A bully doesn't want to pick a fight they're going to lose do they?
+
+![Don't Feed the Troll](/img/posts/2015-02-24-workplace-bullying-part-two/dont-feed-the-troll.png)
 
 #### &#x2605; Identify the Target's Strongest Connections and Sever Them
 
 The bully will find someone who is socially isolated to begin with.  And the bully will attack that person by attacking their strong social connections in that environment.  By doing this, the people who would stand up for that person no longer will.  This is especially effective if that person has a developmental disorder making it hard for them to establish relationships in the first place!!
 
-#### &#x2605; Blocking Moves, Like Those in Chess
+### &#x2605; Blocking Moves, Like Those in Chess
 
-The bully may attempt to prevent you from acquiring new relationships by blocking you.  This can be physical, like blocking you from entering a conversation by forming a tighter circle or turning your back.  They can also identify the people you are trying to talk to and try establish a stronger relationship with them.  Then, a manipulative person is capable of poisoning them against you before you have a chance.
+The bully may attempt to prevent you from acquiring new relationships by blocking you.  This can be physical, like blocking you from entering a conversation by forming a tighter circle or turning your back.  
 
-#### &#x2605; Attach Labels to You
+![Chess, Forever Alone Edition](/img/posts/2015-02-24-workplace-bullying-part-two/chess-forever-alone.png)
+
+### The Chess Companion, Forever Alone Edition
+
+They can also identify the people you are trying to talk to and try establish a stronger relationship with them.  Then, a manipulative person is capable of poisoning them against you before you have a chance.
+
+### &#x2605; Attach Labels to You
 
 Already discussed this at length, but this bully will try to attach labels to you.  They may feel out their social environment to determine which labels are the most effective to apply to you.
 
-#### &#x2605; Disarm You with Kindness
+### &#x2605; Disarm You with Kindness
 
 Awww, isn't that sweet.  They're being nice to you.  How can you even be mad at them!  This is a particularly effective tool in the bully's arsenal: [reversal of blame to the victim](https://en.wikipedia.org/wiki/Victim_blaming).
 
-#### &#x2605; Have You Ever Tried Suggestion?
+### &#x2605; Have You Ever Tried Suggestion?
 
 This is another tool.  You should try it sometime.  Just mention it to someone.  You don't even have to mention it directly.  Just bring it up in conversation a few times.  And then be amazed when something relevant to the topic of suggestion happens to the person.
 
 Oh, and anyone that attacks a bully for using suggestion is dumb.  I've never made that mistake, but I'm pretty sure you'll be labelled as paranoid.  This is why it's particularly effective: you can't even be blamed for doing it.
 
-#### &#x2605; Playing Dumb
+### &#x2605; Playing Dumb
 
 What?  I don't even know what that means?  How could I even use suggestion?  I don't even know what that is.  Yes, I studied psychology in college.  What do you mean it's impossible that I don't know what that is.  You're paranoid.
 
 Playing dumb is particularly effective.  And I've been burned badly for it in the past.  When i was in my early twenties, I just assumed that everyone tried as hard as they could at everything.  I was completely unaware of the snake in the grass that is "playing dumb."  That snake will fucking bite you.  Don't pick it up.
 
-#### &#x2605; Fool's Errands 
+### &#x2605; Fool's Errands 
 
-> *"'ello good sir.  'ave you ever heard of the key to the midway?* Me and the ole' manager 'ave been looking for it all day and can't find it anywhere.  You wouldn't happen to know where it is, would you?  You'd be practically declared a hero if you did.  Well, off ya' go then.  Find that key to the midway, you bloody sucka!"
+> *"'ello good sir.  'ave you ever heard of the key to the midway?* Me and the ole' manager 'ave been looking for it all day and can't find it anywhere.  You wouldn't happen to know where it is, would you?  You'd be practically declared a hero if you did.  Well, off ya' go then.  Find that [key to the midway](http://en.wiktionary.org/wiki/key_to_the_midway), ya bloody sucka!"
 
 This is a trick that's easy to fall for.  Always verify your tasks with your manager.  Listen to and trust your coworkers, but be aware of what your manager asked you to do and you'll be less likely to fall for this.  And if it's your manager that's sending you on fool's errands, *well that's **Mismanagement!** *  Not much you can do.  You're probably about to get fired.  Good luck with that.  Oh, and if you circle around to your manager's manager, you're just going to piss your manager off. * **GLHF!** *
 
+![Key to the Midway](/img/posts/2015-02-24-workplace-bullying-part-two/carnie-luv.jpg)
+
+#### This guy wants you to find the Key to the Midway, so he can keep sitting on his ass.
+
 The best fool's errand a workplace bully will employ involve a considerable redirection of your time and energy.  Don't go startin' new projects by yourself and don't go chasing waterfalls either. 
 
-#### &#x2605; Bad Advice
+### &#x2605; Bad Advice
 
 Bullies in the workplace will give you bad advice and frame it as words of wisdom.  They're just trying to put you down the wrong path.  Don't get me wrong, I love good advice.  But, there is such a thing as bad advice.  Take what others have to say with a grain of salt, to say the least.
 
-> "Just.Be.Yourself." -- David Conner
+> "Just.Be.Yourself." -- David Conner ... oh shit, that shoudn't be in the 'Bad Advice' section.
 
-#### &#x2605; Distorting Your Social Model
+### &#x2605; Distorting Your Social Model
 
 This is a particularly effective form of bad advice.  Everyone has a social model, but the problem is that some of these social models just plain suck.  If you don't have a great social model and you know you need to improve, you may seek out help in the friends around you.  Turns out, some of these "friends" aren't friends at all.  *WATCH OUT!*  If they determine what you use to functionally optimize your behavior, they can offer you advice that deeply changes how you interact with people.  
 
-Some people are particularly effective at this -- somehow, but I don't get it -- beware these people.  If someone offers you advice that (1) you know to be false and (2) you know they should know it's false, then you're allowed to play dumb here.  This is not a good person -- in fact, this is a very bad person.  Play dumb and discover what else they'd like you to know =]
+Some people are particularly effective at this -- somehow; I don't get it -- beware these people.  If someone offers you advice that **(1) you know to be false** and **(2) you know they should know it's false**, then you're allowed to play dumb here.  This is not a good person -- in fact, this is a very bad person.  Play dumb and discover what else they'd like you to know =]
 
 Be careful though.  Most people aren't manipulative.  You may be making a mistake in misjudging this person.  Always keep that in mind, as well.  But also watch for people who seem to try to make you self-conscious.
 
-#### &#x2605; Setting the Frame
+### &#x2605; Setting the Frame
 
 I hate this.  I fucking hate this.  I'm not the most articulate, eloquent speaker.  And sometimes, the things I say can be misinterpreted.  However, **each workplace bully** that I've worked with has **sought to misinterpret what I've said in group settings.**  *Manipulative people are very, very good at discovering double meanings -- **they have to be, to discover situations where plausible deniability can be applied!!** *
 
@@ -338,7 +388,7 @@ In my case, as I'm a fairly quiet person, I would have to stand up for myself an
 
 > Moral of the story: watch your !#@$'ing back around these people.  
 
-#### &#x2605; Pavlov's Cute Puppy
+### &#x2605; Pavlov's Cute Puppy
 
 [Pavlog's Dog](http://en.wikipedia.org/wiki/Classical_conditioning) is an old experiment, where the dogs were conditioned to expect food at the chime of a bell.  To the point where the chime of the bell was so strong, it caused the dogs to salivate.
 
@@ -346,29 +396,39 @@ My point is: in each instance, a workplace bully has *almost seemed to be traine
 
 Pavlov's dog is useful to someone who wants to create signals used to indicate threats or other messages.  It's hard to understand how someone could use this against someone, but trust me -- it happens.  Don't be surprised when this and other tools of psychology are used against you.
 
-#### &#x2605; Use Your Religion & Politics Against You
+### Here's some cute puppies.
+
+This article is a bit depressing.  It doesn't get any better.  You deserve a break.  Watch this cute puppy compilation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3kAo2Z3C3gY" frameborder="0" allowfullscreen></iframe>
+
+### &#x2605; Use Your Religion & Politics Against You
 
 This has already been covered, but you need to be aware -- there are really good reasons to leave politics and religion at home.  You may be well meaning.  You may not even intentionally reveal this information.  But don't be surprised when it gets used against you.  You may find that a bully will identify people on the opposite side of politics/religion and pit you against them.
 
 And IMO, this is really sad.  Why should it be a problem to talk about who we are? 
 
-#### &#x2605; Fear Mongering
+### &#x2605; Fear Mongering
 
 This person will spread anxieties around the office about certain aspects of your performance.  Whatever is negative and can be used, they will spread.  They will seek to hide your victories and triumphs, but will spread whatever fears can be used.
 
-#### &#x2605; Souring and Exhausting Your Relationships
+### &#x2605; Souring and Exhausting Your Relationships
 
 These people may seek to make you unnecessarily overuse your relationships with other people, until they are exhausted.  They might try to keep you busy, so you are unable to perform favors with those around you.  You may find yourself incredibly busy and required to ask for favors from other people.  
 
 There is a give & take to life.  If for some reason, you're required to overtake from those around you or if you just ask for help all the time, people are going to be less likely to help you when you need it.
 
-#### &#x2605; Good Cop, Bad Cop
+### &#x2605; Good Cop, Bad Cop
 
 This is a particularly effective strategy and it requires a certain level of complicity.  Basically, one person acts like your friend and the other puts a lot of pressure on you.  The Good Cop is acquiring information about how you feel about the Bad Cop.  
 
+![Good Cop Bad Cop](/img/posts/2015-02-24-workplace-bullying-part-two/good-cop-bad-cop.png)
+
+#### Wow, that looks horrendously effective.
+
 This is actually a tactic that's used in business fairly often and so, it really doesn't indicate a bully.
 
-#### &#x2605; Labelling You as Paranoid -- Extremely Effective
+### &#x2605; Labelling You as Paranoid -- Extremely Effective
 
 Because intentions are concealed and sociopaths thrive on plausible deniability & duplicity -- then, when dealing with passive aggressive behavior, one can easily become paranoid.  And that's often one goal: make your opponent seem paranoid.  And once others concur, well then, now you have carte blanche to do pretty much anything -- and your opponent is never able to publicly second-guess your motivations.  If they do, you can easily bust out the "paranoid" card.
 
@@ -389,37 +449,41 @@ Of course, your approach to discovering someone's motivations needs to be balanc
 
 Not everyone has sinister motivations -- in fact, most people are truly good at heart.  They're innocent and they want to help those around them.  This makes them useful to sociopathic people.  One problem is that they can be poisoned against you, before you ever get the chance to meet them.  They will act with behavior suggested to them by your enemies.
 
-#### &#x2605; Create Lose-Lose Situations.
+### &#x2605; Create Lose-Lose Situations.
 
 This person may consistently think ahead to place you into lose-lose situations.  They'll put you in between a rock and a hard place, so to speak.  Avoid being set up in this positions.  And when you find yourself here, think quickly and creatively to find yourself a way out of that box.  Don't rely on the choices presented to you.  Be creative.
 
-#### &#x2605; Setting up a Fall Guy
+### &#x2605; Setting up a Fall Guy
 
 This is more likely to occur in private life, which actually happened to me once.  I found I was being accused of stealing a PS4 in a legally airtight situation, where of course I was not guilty.  I had 3 minutes to put together a defense for myself between the time that my roommate in Raleigh notified me of the situation -- via text message -- and the time that he arrived at home.  Very very fucked up, IMO.  
 
-I'm not sure who did it and I hope it was not some conspired event.  All I know is that I literally woke up in a scary legally airtight situation of which I had NO KNOWLEDGE -- the only people in my apartment during that time were me and my roommate....  After my roommate came home, I thought ahead and had an audio recording app ready and my first words were "this conversation is being recorded."  I was immediately accused of having stolen the PS4 -- with $2000 in the bank at the time.  I believed that anyone who would steal a PS4 would not want the situation public, so I immediately posted the audio recording on Youtube & Facebook, publicly.  A really shitty legal defense, by the way.
+I'm not sure who did it and I hope it was not some conspired event.  All I know is that I literally woke up in a scary legally airtight situation of which I had NO KNOWLEDGE -- the only people in my apartment during that time were me and my roommate....  After my roommate came home, I thought ahead and had an audio recording app ready and my first words were "this conversation is being recorded."  I was immediately accused of having stolen the PS4 -- with $2000 in the bank at the time.  I believed that anyone who would steal a PS4 would not want the situation public, so I immediately posted the audio recording on Youtube & Facebook, publicly.  A really shitty legal defense, by the way.  If a lawyer ever tells you do do something like this, fire that lawyer.  And demand your retainer returned.
+
+> "And that, children, is **why I bought a PS4!** Spite ... **I bought it out of *SPITE!* ** The very next week! That's when they released the white PS4.  I bought it because the PS4 which was stolen was black! :) :) I didn't even want it yet. LMAO"
+
+![White PS4](/img/posts/2015-02-24-workplace-bullying-part-two/white-ps4.jpg)
 
 Most of the time, when someone commits petty theft, they already have a plan in their mind as to who is going to be blamed.  Remember, they have thought about how this is going to play out -- the victim in this kind of situation has not.  In business, this can be a more serious trap.  It can be used for more than assailing your reputation.  Watch out for being set up as a fall guy for someone else's legal problems.
 
-#### &#x2605; Identify Your Vices and Use Them Against You
+### &#x2605; Identify Your Vices and Use Them Against You
 
 > "Recovering alcoholic?  Ten years sober?  Not any more!" -- Anonymous Sociopath
 
 This can be possibly just distracting and possibly detrimental to your life and reputation.  For example, you may find yourself in the precarious situation of driving home drunk from a work outing.  Or perhaps narcotics officers were tipped off that you have drugs on you.  Your walking home drunk from the bar.  You're alone and then you're nabbed.  Not going to get much done at work when you have mounting legal debts and not to mention all that "therapy" that the government is nice enough to make you pay for, in time and money.
 
-If someone have a drug problem, the bully will make sure everyone knows.  The harder the drug, the better.  They'll lose so many opportunities, they'll never recover.  Or maybe they'll never make it anywhere in the first place and they won't have anything to regain.
+If someone have a drug problem, the bully will make sure everyone knows.  The harder the drug, the better.  You'll lose so many opportunities, you'll probably never recover.  Or maybe you'll never make it anywhere in the first place and you won't have anything to regain.
 
 > "Perfect." -- Anonymous Sociopath
 
-#### &#x2605; A Bully Will Choose Their Audience Wisely
+### &#x2605; A Bully Will Choose Their Audience Wisely
 
 The bully won't want to see cruel in front of others.  But, when you are 1-on-1, they will likely let you know how they feel.
 
-#### &#x2605; Misrepresent Your Works/Actions to Others
+### &#x2605; Misrepresent Your Works/Actions to Others
 
 This is similar to some of the content in "Setting the Frame."  But, it's worth saying again: bullies and sociopaths are excellent at being duplicitous and identifying similar situations that can be exploited.  You will find yourself surrounded and you won't get the chance to see how your words and actions were misrepresented.  After all, this person has carefully controlled visibility and chosen their audiences wisely.  Politics.
 
-#### &#x2605; Channels of Communication are Exploited
+### &#x2605; Channels of Communication are Exploited
 
 The bully will take advantage of how information is disseminated.  This is similar to controlling visibility and audience, but altogether different.  This person will reveal information in confidence to you privately on 1-on-1 chat.  Then, simultaneously, on the group Google Hangout, they will paint a differentl picture altogether, in front of your coworkers.  
 
@@ -431,11 +495,11 @@ The problem about catching a liar or sociopath in the act is that, while they ma
 
 > PLAUSIBLE DENIABILITY .. 'But, i was just trying to help him fdsamkofppaefnoapwnfoepwa'
 
-#### &#x2605; They'll Keep You Busy Until You Experience Problems in Your Personal Life
+### &#x2605; They'll Keep You Busy Until You Experience Problems in Your Personal Life
 
 A workplace bully may identify aspects of your personal life to use against you.  They may stack you up for work or make you work in such a way -- especially if it's your manager -- that makes it impossible for you to deal with personal issues.  They may make you feel as though you aren't accomplishing enough, so that you'll be hesitant to take time off to deal with personal issues.
 
-#### &#x2605; Limiting Your Tools
+### &#x2605; Limiting Your Tools
 
 > "Build me a goddamn bridge, David.  But, don't use a goddamn hammer or any fucking nails, David.  Or so help me God, I'll fire your lazy ass.  You're going to build me that goddamn bridge and you're going to use rope! Dammit David, do exactly what I tell you.  Your goddamn bridge fell apart.  What the fuck did I tell you about rope?"
 >
@@ -443,21 +507,23 @@ A workplace bully may identify aspects of your personal life to use against you.
 >
 > "Shut up, David.  SEE EVERYONE, watch what happens when you build shitty rope bridges.  YOUR FIRED!"
 
-#### &#x2605; Setting You Up For Failure
+### &#x2605; Setting You Up For Failure
 
 See quote above ^^^^
 
 > "Death by micromanagement." - David Conner
 
-#### &#x2605; Profile Their Victims
+### &#x2605; Profile Their Victims
 
 If someone is going to bully you and if they are good at it, they WILL profile you.  They will ask you leading questions.  And they WILL ask you about your age.  You can count on that.  Your age (if you are young) reveals which pop culture references you do and do not know, what technologies you know, etc, etc.  Sounds subtle, but trust me, it's useful.
 
-#### &#x2605; Install Malware on Your Computer
+### &#x2605; Install Malware on Your Computer
 
 A workplace bully is going to want to keep an eye on you.  There are many examples of voice-to-text exploits online.  Another software-specific example of shitty shit that shitty developers do, but be aware of your words and actions around that laptop they gave you.  It's impossible to say for sure, but there's a chance that there's malware on it.
 
 By listening in to your conversations, a workplace bully can identify scenario's they are likely to get away with and they can gain invaluable understanding behind your own actions as well.
+
+![Alice in Wonderland](/img/posts/2015-02-24-workplace-bullying-part-two/alice-in-wonderland.jpg)
 
 ## Part Two is a Wrap!
 

@@ -39,7 +39,7 @@ Phillip Perea is a good example of someone who was pushed to the limit and you c
 
 If you find yourself the victim of some of these strategies, remember that you may be overthinking things.  Before you can be certain that someone really is trying to bully you at work, you need to account for **dozens of examples** of this behavior, implemented as part of a concerted strategy against you.  If you act prematurely, you'll just find yourself labelled as paranoid and you'll be easily isolated.
 
-And while this article seems incredibly negative, **I don't want to give readers the impression** that I view everyone I work with **is an opponent!**  This is one of the problems with manipulative, toxic people like this.  They turn a positive team environment into a living hell for everyone.  They stir up problems, so they can take advantage of the chaos later on.  Often, if you're bullied at work, you'll find that you're not the only one!  And you may also find that, later on, this person used the circumstances they created in order to gain power.
+And while this article seems incredibly negative, **I don't want to give readers the impression** that I view everyone I work with as an opponent!  This is one of the problems with manipulative, toxic people like this.  They turn a positive team environment into a living hell for everyone.  They stir up problems, so they can take advantage of the chaos later on.  Often, if you're bullied at work, you'll find that you're not the only one!  And you may also find that, later on, this person used the circumstances they created in order to gain power.
 
 ## General Strategies of Workplace Bullying
 #### Utilizing passive aggressive behavior to make someone miserable:

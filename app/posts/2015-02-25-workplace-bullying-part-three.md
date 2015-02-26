@@ -93,11 +93,17 @@ What?  I don't even know what that means?  How could I even use suggestion?  I d
 
 Playing dumb is particularly effective.  And I've been burned badly for it in the past.  When i was in my early twenties, I just assumed that everyone tried as hard as they could at everything.  I was completely unaware of the snake in the grass that is "playing dumb."  That snake will fucking bite you.  Don't pick it up.
 
+Of course, there are different kinds of "playing dumb."  There is the person who plays dumb from the get-go in order to lull you into a sense of security from which they can take advantage of you.  Carnies do this and some street kids do this.  Homeless also people do this .. homeless people aren't actually that dumb.  Regardless, if you fall for this, you may find yourself quickly in a sticky situation.  It's best to just look past it when you notice it.
+
+There's another kind of playing dumb, which is more of a brief response to other behavior.  Sometimes it's better off to not broadcast everything you know, especially to those who are trying to take advantage of you.
+
 ### &#x2605; Fool's Errands 
 
 > *"'ello good sir.  'ave you ever heard of the key to the midway?* Me and the ole' manager 'ave been looking for it all day and can't find it anywhere.  You wouldn't happen to know where it is, would you?  You'd be practically declared a hero if you did.  Well, off ya' go then.  Find that [key to the midway](http://en.wiktionary.org/wiki/key_to_the_midway), ya bloody sucka!"
 
-This is a trick that's easy to fall for.  Always verify your tasks with your manager.  Listen to and trust your coworkers, but be aware of what your manager asked you to do and you'll be less likely to fall for this.  And if it's your manager that's sending you on fool's errands, *well that's **Mismanagement!** *  Not much you can do.  You're probably about to get fired.  Good luck with that.  Oh, and if you circle around to your manager's manager, you're just going to piss your manager off. * **GLHF!** *
+This is a trick that's easy to fall for.  I once literally had a coworker ask me if I knew what the Key to the Midway was, when I had been working there for less than a week!  I was promptly sent on a fool's errand -- or so he thought!  Turns out, it was a task that this guy couldn't figure out and thought it'd be impossible for me.  It quickly proved my worth to him, but I was lucky.
+
+Always verify your tasks with your manager.  Listen to and trust your coworkers, but be aware of what your manager asked you to do and you'll be less likely to fall for this.  And if it's your manager that's sending you on fool's errands, *well that's **Mismanagement!** *  Not much you can do.  You're probably about to get fired.  Good luck with that.  Oh, and if you circle around to your manager's manager, you're just going to piss your manager off. * **GLHF!** *
 
 ![Key to the Midway](/img/posts/2015-02-25-workplace-bullying-part-three/carnie-luv.jpg)
 
@@ -131,7 +137,7 @@ In my case, as I'm a fairly quiet person, I would have to stand up for myself an
 
 ### &#x2605; Pavlov's Cute Puppy
 
-[Pavlog's Dog](http://en.wikipedia.org/wiki/Classical_conditioning) is an old experiment, where the dogs were conditioned to expect food at the chime of a bell.  To the point where the chime of the bell was so strong, it caused the dogs to salivate.
+[Pavlog's Dog](http://en.wikipedia.org/wiki/Classical_conditioning) is an old experiment, where the dogs were conditioned to expect food at the chime of a bell.  To the point where the association with the chime of the bell was so strong, it caused the dogs to salivate without the presence of food.
 
 My point is: in each instance, a workplace bully has *almost seemed to be trained in psychology!* And they abused it, which is really, really fucked up!  Also, if you're completely unaware of psychology, you'll be caught off guard when it's used against you.
 
@@ -202,7 +208,9 @@ This person may consistently think ahead to place you into lose-lose situations.
 
 This is more likely to occur in private life, which actually happened to me once.  I found I was being accused of stealing a PS4 in a legally airtight situation, where of course I was not guilty.  I had 3 minutes to put together a defense for myself between the time that my roommate in Raleigh notified me of the situation -- via text message -- and the time that he arrived at home.  Very very fucked up, IMO.  
 
-I'm not sure who did it and I hope it was not some conspired event.  All I know is that I literally woke up in a scary legally airtight situation of which I had NO KNOWLEDGE -- the only people in my apartment during that time were me and my roommate....  After my roommate came home, I thought ahead and had an audio recording app ready and my first words were "this conversation is being recorded."  I was immediately accused of having stolen the PS4 -- with $2000 in the bank at the time.  I believed that anyone who would steal a PS4 would not want the situation public, so I immediately posted the audio recording on Youtube & Facebook, publicly.  A really shitty legal defense, by the way.  If a lawyer ever tells you do do something like this, fire that lawyer.  And demand your retainer returned.
+> At this point, if you're an attorney, you may be asking yourself "But, you live together.  If you two were alone at the apartment when it happened (discovered at 7:30am) then why would this person leave the apartment, 'go to class,' then notify you via text message at 8:30am, five minutes before they return...  If they discovered it before they left for class, then wouldn't they have mentioned it before they left for class?"
+
+I'm not sure who did it and I hope it was not some conspired event.  All I know is that I literally woke up in a scary legally airtight situation of which I had NO KNOWLEDGE -- the only people in my apartment during that time were me and my roommate....  As my roommate came home, I thought ahead and had an audio recording app ready and my first words were "this conversation is being recorded."  I was immediately accused of having stolen the PS4 -- with $2000 in the bank at the time.  I believed that anyone who would steal a PS4 would not want the situation public, so I immediately posted the audio recording on Youtube & Facebook, publicly.  A really shitty legal defense, by the way.  If a lawyer ever tells you do do something like this, fire that lawyer.  And demand your retainer returned.
 
 > "And that, children, is **why I bought a PS4!** Spite ... **I bought it out of *SPITE!* ** The very next week! That's when they released the white PS4.  I bought it because the PS4 which was stolen was black! :) :) I didn't even want it yet. LMAO"
 
@@ -222,7 +230,7 @@ If someone have a drug problem, the bully will make sure everyone knows.  The ha
 
 ### &#x2605; A Bully Will Choose Their Audience Wisely
 
-The bully won't want to see cruel in front of others.  But, when you are 1-on-1, they will likely let you know how they feel.
+The bully won't want to seem cruel in front of others.  But, when you are 1-on-1, they will likely let you know how they feel.
 
 ### &#x2605; Misrepresent Your Works/Actions to Others
 
@@ -230,7 +238,7 @@ This is similar to some of the content in "Setting the Frame."  But, it's worth 
 
 ### &#x2605; Channels of Communication are Exploited
 
-The bully will take advantage of how information is disseminated.  This is similar to controlling visibility and audience, but altogether different.  This person will reveal information in confidence to you privately on 1-on-1 chat.  Then, simultaneously, on the group Google Hangout, they will paint a differentl picture altogether, in front of your coworkers.  
+The bully will take advantage of how information is disseminated.  This is similar to controlling visibility and audience, but altogether different.  This person will reveal information in confidence to you privately on 1-on-1 chat.  Then, simultaneously, on the group Google Hangout, they will paint a different picture altogether, in front of your coworkers.  
 
 And if you have High Functioning Autism, it may be extremely difficult to identify that this is happening, while you have a chance to stop it!  For example, at one company I worked for, there was a person who offered to help me out.  He was giving me real advice in Flowdock, one on one -- in private.  That's where he was giving me the real advice.  Everyone was on a Google Hangout at the same time.
 

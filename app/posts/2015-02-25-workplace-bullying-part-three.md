@@ -21,9 +21,9 @@ The worst part about these tactics is their indirectness.
 
 ![Enter the Dragon - Hall of Mirrors](/img/posts/2015-02-25-workplace-bullying-part-three/enter-the-dragon.jpg)
 
-The bully may abuse suggestion and rhetoric to make "copies" of himself and his beliefs.  They may bring in new people and poison them against this you.
+The bully may utilize suggestion and rhetoric to make "copies" of himself and his beliefs.  They may bring in new people and poison them against you.
 
-If someone has the power required to attain this, you've already lost.  There's basically nothing you can do.  In order to fight it, you're going to need untold training in metaphysical jujitsu.
+This is really an advanced tactic, only possible once someone has plenty of control in an environment.  Additionally, the environment needs to be large enough to support this.  You're not going to see this happen in a small or medium size business.  If someone has the power required to attain this, you've already lost.  There's basically nothing you can do.  In order to fight it, you're going to need untold training in metaphysical jujitsu.
 
 ![Toungue Fu](/img/posts/2015-02-25-workplace-bullying-part-three/toungue-fu.jpg)
 
@@ -129,7 +129,7 @@ Be careful though.  Most people aren't manipulative.  You may be making a mistak
 
 I hate this.  I fucking hate this.  I'm not the most articulate, eloquent speaker.  And sometimes, the things I say can be misinterpreted.  However, **each workplace bully** that I've worked with has **sought to misinterpret what I've said in group settings.**  *Manipulative people are very, very good at discovering double meanings -- **they have to be, to discover situations where plausible deniability can be applied!!** *
 
-In some cases, I would try to explain something: an idea, a well-meaning critique on something.  In nearly every case, it was something that should have been interpreted properly, but may have needed more explaining.  The workplace bully would dicover that he could intentionally misinterpret what I had to say and then twist it around.  What usually results is that everyone else becomes confused -- did he really mean *that*?  After this happens like 15 times, can you really say it's a coincidence?!?
+In some cases, I would try to explain something: an idea, a well-meaning critique on something.  In nearly every case, it was something that should have been interpreted properly, but may have needed more explaining.  The workplace bully would discover ways  he could intentionally misinterpret what I had to say and then twist it around.  What usually results is that everyone else becomes confused -- did he really mean *that*?  After this happens like 15 times, can you really say it's a coincidence?!?
 
 In my case, as I'm a fairly quiet person, I would have to stand up for myself and correct this person.  But you're lucky if someone sets the frame of conversation around you.  They may set the frame before you're introduced to the conversation.  The frame of conversation is difficult to describe, but it basically describes everyone's shared context behind a conversation.
 
@@ -137,9 +137,9 @@ In my case, as I'm a fairly quiet person, I would have to stand up for myself an
 
 ### &#x2605; Pavlov's Cute Puppy
 
-[Pavlog's Dog](http://en.wikipedia.org/wiki/Classical_conditioning) is an old experiment, where the dogs were conditioned to expect food at the chime of a bell.  To the point where the association with the chime of the bell was so strong, it caused the dogs to salivate without the presence of food.
+[Pavlog's Dog](http://en.wikipedia.org/wiki/Classical_conditioning) is an old experiment, where the dogs were conditioned to expect food at the chime of a bell.  The association with the chime of the bell became so strong, it caused the dogs to salivate without the presence of food.
 
-My point is: in each instance, a workplace bully has *almost seemed to be trained in psychology!* And they abused it, which is really, really fucked up!  Also, if you're completely unaware of psychology, you'll be caught off guard when it's used against you.
+My point is: in each instance, a workplace bully has *almost seemed trained in psychology!* And they abused it, which is really, really fucked up!  Also, if you're completely unaware of psychology, you'll be caught off guard when it's used against you.
 
 Pavlov's dog is useful to someone who wants to create signals used to indicate threats or other messages.  It's hard to understand how someone could use this against someone, but trust me -- it happens.  Don't be surprised when this and other tools of psychology are used against you.
 

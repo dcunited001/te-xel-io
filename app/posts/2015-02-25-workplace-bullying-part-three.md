@@ -159,7 +159,25 @@ This is another one related to psychology.  I've noticed that these people will 
 
 ![Rorshock](/img/posts/2015-02-25-workplace-bullying-part-three/rorshock.jpg)
 
-And you'll find that workplace bullies will create certain scenerio's in an attempt to elicit a certain reaction to them.  And then publicly misconstrue your reaction in an attempt to whittle away at your reputation.  It doesn't matter whether you give them the reaction that they want, sociopathic people excel in contorting other's words and actions.
+And you'll find that workplace bullies will create certain scenerio's in an attempt to elicit a certain reaction to them.  And then publicly misconstrue your reaction in an attempt to whittle away at your reputation.  It doesn't matter whether you give them the reaction that they want, sociopathic people excel in contorting other's words and actions.  
+
+### &#x2605; Create Juicy Soundbytes to Misquote You
+
+Often, they will create contrived situations to get you to say something they'll misuse to
+
+> "Oh yeh and she said wants us to run a train on her. Are you down for that?" - My 'friend' says, on the way to the hotel.
+>
+> "..... . .  yeh... . . ???" - I reply, feigning agreement, unsure of what to say in such an awkward situation. I would never want to do something like that, of course.
+>
+> Later, at the hotel, while I'm not around:
+>
+> "Yeh and on the ride over to the hotel, he said he wanted to run a train on her." - My 'friend' misquoting an awkward statement where I never used those words.
+
+Classy, right?  Gotta love jamskaters. 
+
+Of course, this is one scenario that no one will ever actually ask you directly to verify.  *No one's going to want to ask anyone about that.*  In this particular example, I'm unsure whether I was actually misquoted here.  But why did my 'friend' who I had known for ten years, ask me this in the first place?  Shouldn't a friend know me well enough to not ask me that?  Or could it be that he wanted to neutralize me because he wanted the girl? 
+
+However, I can say with certainty that I have been misquoted behind my back in other situations.  This includes a few situations that happened at work, where if someone didn't ask to verify with me, they would have been left with a completely invalid impression.  If your "friends" create situations where they coerce you to make statements like this, just to misquote you around your back, can you really say that they're your friends?  Like if you're going to misquote someone like that, **JUST FUCKING LIE**.  Just make some shit up.  Pull it out of your own ass because I don't want you pulling it out of mine.
 
 ### &#x2605; Use Your Religion & Politics Against You
 

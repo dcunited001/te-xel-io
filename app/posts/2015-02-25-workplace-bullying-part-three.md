@@ -127,6 +127,10 @@ Be careful though.  Most people aren't manipulative.  You may be making a mistak
 
 ### &#x2605; Setting the Frame
 
+> "NEVER frame art!  Do NOT frame this piece!" -- Said every good artist I have ever bought art from. 
+
+Though I didn't understand at the time, now I do.  Setting the frame of something -- a piece of art or a person's reputation & statements -- limits the possibilities!  This is the subject of another post that I'm going to write.
+
 I hate this.  I fucking hate this.  I'm not the most articulate, eloquent speaker.  And sometimes, the things I say can be misinterpreted.  However, **each workplace bully** that I've worked with has **sought to misinterpret what I've said in group settings.**  *Manipulative people are very, very good at discovering double meanings -- **they have to be, to discover situations where plausible deniability can be applied!!** *
 
 In some cases, I would try to explain something: an idea, a well-meaning critique on something.  In nearly every case, it was something that should have been interpreted properly, but may have needed more explaining.  The workplace bully would discover ways  he could intentionally misinterpret what I had to say and then twist it around.  What usually results is that everyone else becomes confused -- did he really mean *that*?  After this happens like 15 times, can you really say it's a coincidence?!?
@@ -148,6 +152,14 @@ Pavlov's dog is useful to someone who wants to create signals used to indicate t
 This article is a bit depressing.  It doesn't get any better.  You deserve a break.  Watch this cute puppy compilation.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3kAo2Z3C3gY" frameborder="0" allowfullscreen></iframe>
+
+### &#x2605; You've Been Rorshocked!
+
+This is another one related to psychology.  I've noticed that these people will do something I call "rorshocking." That's intentionally misspelled by the way.  This means that they show you something or make a statement, in an attempt to make a judgement from your reaction.  Lots of people do this, by the way -- sometimes it really is a good way to elicit someone's beliefs.  However, in my case, a lot of people have made grievous misjudgements based on my reactions.  Usually, you'll find people do this when they don't want to overtly ask you something. 
+
+![Rorshock](/img/posts/2015-02-25-workplace-bullying-part-three/rorshock.jpg)
+
+And you'll find that workplace bullies will create certain scenerio's in an attempt to elicit a certain reaction to them.  And then publicly misconstrue your reaction in an attempt to whittle away at your reputation.  It doesn't matter whether you give them the reaction that they want, sociopathic people excel in contorting other's words and actions.
 
 ### &#x2605; Use Your Religion & Politics Against You
 

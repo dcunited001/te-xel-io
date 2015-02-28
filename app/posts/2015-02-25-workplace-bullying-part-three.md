@@ -177,7 +177,7 @@ Classy, right?  Gotta love jamskaters.
 
 Of course, this is one scenario that no one will ever actually ask you directly to verify.  *No one's going to want to ask anyone about that.*  In this particular example, I'm unsure whether I was actually misquoted here.  But why did my 'friend' who I had known for ten years, ask me this in the first place?  Shouldn't a friend know me well enough to not ask me that?  Or could it be that he wanted to neutralize me because he wanted the girl? 
 
-However, I can say with certainty that I have been misquoted behind my back in other situations.  This includes a few situations that happened at work, where if someone didn't ask to verify with me, they would have been left with a completely invalid impression.  If your "friends" create situations where they coerce you to make statements like this, just to misquote you behind your back, can you really say that they're your friends?  Like if you're going to misquote someone like that, **JUST FUCKING LIE**.  Just make some shit up.  Pull it out of your own ass because I don't want you pulling it out of mine.
+However, I can say with certainty that I have been misquoted behind my back in other situations.  This includes a few situations that happened at work, where if someone didn't ask to verify with me, they would have been left with a completely invalid impression.  If your "friends" create situations where they coerce you to make statements like this, just to misquote you around your back, can you really say that they're your friends?  Like if you're going to misquote someone like that, **JUST FUCKING LIE**.  Just make some shit up.  Pull it out of your own ass because I don't want you pulling it out of mine.
 
 ### &#x2605; Use Your Religion & Politics Against You
 
@@ -311,3 +311,5 @@ By listening in to your conversations, a workplace bully can identify scenario's
 ### So that's it for Part Three
 
 I split out this part from Part Two since it was getting too long.  I'm in the process of writing Part Four, the section containing tools you can use to prevent this behavior from occuring in front of you.  This is definitely the most important part.  I wanted to include it first, but it requires a lot of context to understand why this is important.
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/KFNcStdF_Ok" frameborder="0" allowfullscreen></iframe>

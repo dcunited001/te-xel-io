@@ -121,7 +121,7 @@ Bullies in the workplace will give you bad advice and frame it as words of wisdo
 
 This is a particularly effective form of bad advice.  Everyone has a social model, but the problem is that some of these social models just plain suck.  If you don't have a great social model and you know you need to improve, you may seek out help in the friends around you.  Turns out, some of these "friends" aren't friends at all.  *WATCH OUT!*  If they determine what you use to functionally optimize your behavior, they can offer you advice that deeply changes how you interact with people.  
 
-Some people are particularly effective at this -- somehow; I don't get it -- beware these people.  If someone offers you advice that **(1) you know to be false** and **(2) you know they should know it's false**, then you're allowed to play dumb here.  This is not a good person -- in fact, this is a very bad person.  Play dumb and discover what else they'd like you to know =]
+Some people are particularly effective at this -- somehow; I don't get it -- beware these people.  If someone offers you advice that **(1) you know to be false** and **(2) you know they should know to be false**, then you're allowed to play dumb here.  This is not a good person -- in fact, this is a very bad person.  Play dumb and discover what else they'd like you to know =]
 
 Be careful though.  Most people aren't manipulative.  You may be making a mistake in misjudging this person.  Always keep that in mind, as well.  But also watch for people who seem to try to make you self-conscious.
 

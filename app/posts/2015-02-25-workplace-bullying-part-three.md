@@ -109,7 +109,7 @@ Always verify your tasks with your manager.  Listen to and trust your coworkers,
 
 #### This guy wants you to find the Key to the Midway, so he can keep sitting on his ass.
 
-The best fool's errand a workplace bully will employ involve a considerable redirection of your time and energy.  Don't go startin' new projects by yourself and don't go chasing waterfalls either. 
+The best fool's errand a workplace bully will employs involve a considerable redirection of your time and energy.  Don't go startin' new projects by yourself and don't go chasing waterfalls either. 
 
 ### &#x2605; Bad Advice
 

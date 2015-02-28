@@ -93,7 +93,7 @@ What?  I don't even know what that means?  How could I even use suggestion?  I d
 
 Playing dumb is particularly effective.  And I've been burned badly for it in the past.  When i was in my early twenties, I just assumed that everyone tried as hard as they could at everything.  I was completely unaware of the snake in the grass that is "playing dumb."  That snake will fucking bite you.  Don't pick it up.
 
-Of course, there are different kinds of "playing dumb."  There is the person who plays dumb from the get-go in order to lull you into a sense of security from which they can take advantage of you.  Carnies do this and some street kids do this.  Homeless also people do this .. homeless people aren't actually that dumb.  Regardless, if you fall for this, you may find yourself quickly in a sticky situation.  It's best to just look past it when you notice it.
+Of course, there are different kinds of "playing dumb."  There is the person who plays dumb from the get-go in order to lull you into a sense of security from which they can take advantage of you.  Carnies do this and some street kids do this.  Homeless people also do this .. homeless people aren't actually that dumb.  Regardless, if you fall for this, you may find yourself quickly in a sticky situation.  It's best to just look past it when you notice it.
 
 There's another kind of playing dumb, which is more of a brief response to other behavior.  Sometimes it's better off to not broadcast everything you know, especially to those who are trying to take advantage of you.
 

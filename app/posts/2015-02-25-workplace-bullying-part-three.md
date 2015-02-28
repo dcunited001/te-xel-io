@@ -165,7 +165,7 @@ And you'll find that workplace bullies will create certain scenerio's in an atte
 
 Often, they will create contrived situations to get you to say something they'll misuse to
 
-> "Oh yeh and she said wants us to run a train on her. Are you down for that?" - My 'friend' says, on the way to the hotel.
+> "Oh yeh and she said wants us to run a train on her. Are you down for that?" - My 'friend' says, on the way to the hotel.  We're alone in his car and halfway there.
 >
 > "..... . .  yeh... . . ???" - I reply, feigning agreement, unsure of what to say in such an awkward situation. I would never want to do something like that, of course.
 >

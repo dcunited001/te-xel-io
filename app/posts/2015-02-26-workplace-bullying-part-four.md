@@ -19,7 +19,7 @@ People aren't naturally like this.  There's this really interesting scene at the
 
 Or so Proust critics say anyways. I have my doubts about these conclusions.  Why should we not be happy while we seek personal development? Why is life such that pain is the best teacher? Is this true? I hope not, since the scars often hurt more than the pain itself.
 
-### Coincidentally, I happen to be **writing a Proust size work** with this series of articles. 
+### Coincidentally, I happen to be **writing a [Marcel Proust](http://en.wikipedia.org/wiki/In_Search_of_Lost_Time) size work** with this series of articles. 
 
 ![Bazinga Ball Pit](/img/posts/2015-02-26-workplace-bullying-part-four/bazinga.jpg)
 

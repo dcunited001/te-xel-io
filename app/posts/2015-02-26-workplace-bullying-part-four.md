@@ -151,7 +151,7 @@ When starting a new job, it's important to get a lay of the land.  Talk with oth
 
 But, of course, there are better reasons to get to know the people around you.
 
-![Two Ships Passing in the Night](img/posts/2015-02-26-workplace-bullying-part-four/two-ships.jpg)
+![Two Ships Passing in the Night](/img/posts/2015-02-26-workplace-bullying-part-four/two-ships.jpg)
 
 ### &#x2605; Grow Your Relationships
 
@@ -161,7 +161,7 @@ No one wants to work in a sweatshop, where everyone's got their heads down eight
 
 Someone who is well connected in a business is going to be harder to remove: they're going to have more people standing up for them.  Someone who pays attention to the needs of others and **listens** is going to be much harder to isolate.  Someone like this may be important to have around, even if they are not *the best* at their job.  People like this grease the wheels.  They make work fun and add to your culture.
 
-![Bonsai Tree by Takanori Aiba](img/posts/2015-02-26-workplace-bullying-part-four/bonsai-tree.jpg)
+![Bonsai Tree by Takanori Aiba](/img/posts/2015-02-26-workplace-bullying-part-four/bonsai-tree.jpg)
 
 #### Bonsai Tree by Takanori Aiba
 

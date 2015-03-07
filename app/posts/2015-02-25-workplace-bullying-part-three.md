@@ -101,7 +101,7 @@ There's another kind of playing dumb, which is more of a brief response to other
 
 > *"'ello good sir.  'ave you ever heard of the key to the midway?* Me and the ole' manager 'ave been looking for it all day and can't find it anywhere.  You wouldn't happen to know where it is, would you?  You'd be practically declared a hero if you did.  Well, off ya' go then.  Find that [key to the midway](http://en.wiktionary.org/wiki/key_to_the_midway), ya bloody sucka!"
 
-This is a trick that's easy to fall for.  I once literally had a coworker ask me if I knew what the Key to the Midway was, when I had been working there for less than a week!  I was promptly sent on a fool's errand -- or so he thought!  Turns out, it was a task that this guy couldn't figure out and thought it'd be impossible for me.  It quickly proved my worth to him, but I was lucky.
+This is a trick that's easy to fall for.  I once literally had a coworker ask me if I knew what the Key to the Midway was, when I had been working there for less than a week!  I was promptly sent on a fool's errand -- or so he thought!  Turns out, it was a task that this guy couldn't figure out and thought it'd be impossible for me.  It quickly proved my worth to him, but I was lucky.  This guy ended up being pretty cool though.
 
 Always verify your tasks with your manager.  Listen to and trust your coworkers, but be aware of what your manager asked you to do and you'll be less likely to fall for this.  And if it's your manager that's sending you on fool's errands, *well that's **Mismanagement!** *  Not much you can do.  You're probably about to get fired.  Good luck with that.  Oh, and if you circle around to your manager's manager, you're just going to piss your manager off. * **GLHF!** *
 

@@ -55,3 +55,7 @@ So, if we're in a simulation and we let's say we find that magical sequence of a
 ### Automatically Discovering Stack Overflow Vulnerabilities in Bytecode
 
 Back to video games and software.  Wouldn't it be bool to scan the compiled bytecode in a video game's ROM.  Then have an automated program identify buffer overflow vulnerabilities AND construct a method of executing them in game (and possibly script a bot to do so) .... way over my head, but definitely possible.  Probably possible .. ok maybe.  It'd be really hard and likely not 100% effective.
+
+### In Conclusion
+
+These aren't original ideas by any means. But they are pretty fun to think about.

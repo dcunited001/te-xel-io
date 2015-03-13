@@ -5,13 +5,9 @@ author:
   tags: "bioinformatics computer-science algorithms"
 ---
 
-TODO: 
-- moar pictures?
-- include HP's the machine video presentation
-
 ### Happy Pi Day!
 
-I'm going to describe the algorithms I'm most proud of implementing.  Sure, [this code](https://github.com/dcunited001/bioclj) is available on github, but it's written in Clojure, so it's impossible for most people to understand without some head-scratching.  In fact, it took quite a bit of effort just for me to freshen up enough to write this article.  And that, my friends, is security by obfuscation -- which is not a virtue for code.  
+I'm going to describe the algorithms I'm most proud of implementing.  Sure, [this code](https://github.com/dcunited001/bioclj) is available on github, but it's written in Clojure, so it's impossible for most people to understand without some head-scratching.  In fact, it took quite a bit of effort just for me to freshen up enough to write this article.  And that, my friends, is security by obfuscation -- which is not a virtue for code or for much of anything, really.
 
 I enjoy writing code in Clojure because Lisp forces you to write code in a functional manner and therefore your code more closely resembles the pure math you're implementing.  I've been sending out this project along with job applications, but I don't think most people understand what they're looking at, which is unfortunate.  So, I've blogged about it and I'll send out this link instead.
 
@@ -196,7 +192,3 @@ It's important to note that these insights carry over to levenshtein neighborhoo
 ### Improvements to This and Other Algorithms
 
 I've got some ideas for some improvements, which I doubt are wholy original.  But, who knows?
-
-
-
-

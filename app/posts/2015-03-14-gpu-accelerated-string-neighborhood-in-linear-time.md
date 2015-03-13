@@ -5,6 +5,10 @@ author:
   tags: "bioinformatics computer-science algorithms"
 ---
 
+TODO: 
+- moar pictures?
+- include HP's the machine video presentation
+
 ### Happy Pi Day!
 
 I'm going to describe the algorithms I'm most proud of implementing.  Sure, [this code](https://github.com/dcunited001/bioclj) is available on github, but it's written in Clojure, so it's impossible for most people to understand without some head-scratching.  In fact, it took quite a bit of effort just for me to freshen up enough to write this article.  And that, my friends, is security by obfuscation -- which is not a virtue for code.  
@@ -14,13 +18,13 @@ I enjoy writing code in Clojure because Lisp forces you to write code in a funct
 I can't imagine that someone else hasn't thought of these ideas for bioinformatics.  Sure, they involve some bitcrunching, but it's really not that complicated.  Specifically, here are the two algorithms in my project that I'm referring to.
 
 #### [&#x2605; Constant Time Hamming Distance](https://github.com/dcunited001/bioclj/blob/master/src/bioclj/string.clj#L122) implemented specifically for strings of nucleotides.
-#### [&#x2605; Neighbor Transform](https://github.com/dcunited001/bioclj/blob/master/src/bioclj/string.clj#L227).  Basically, simultaneous binary addition, specifically for nucleoutides.
+#### [&#x2605; Neighbor Transform](https://github.com/dcunited001/bioclj/blob/master/src/bioclj/string.clj#L227).  Basically, simultaneous binary addition, specifically for nucleotides.
 
 ### Bioinformatics on Coursera
 
 Back in November, I started taking this [Bioinformatics](https://www.coursera.org/course/bioinformatics2) class on Coursera, taught by Pavel Pevzner and Phillip Compeau.  It was one of the best classes I've taken on Coursera so far.  The interactive text was very well built and organized.  I could progress without needing to watch the videos, but those were a great resource if I needed more detail in some sections.
 
-Additionally, the course was just the right level of challenging: not only did you have to write the code, but your submissions were automatically graded with a five minute time limit.  And in bioinformatics ** * time is key! * **  So if you couldn't write your code to complete within that five minute time limit, you didn't get any credit for those problems.  The problems were all great Computer Science algorithms: motif enumeration, hamming distance and a good bit of graph theory.
+Additionally, the course was just the right level of challenging: not only did you have to write the code, but your submissions were automatically graded with a five minute time limit.  And in bioinformatics, ** * time is key! * **  So if you couldn't write your code to complete within that five minute time limit, you didn't get any credit for those solutions.  The problems were all great Computer Science algorithms: motif enumeration, hamming distance and a good bit of graph theory.
 
 For their language of choice, most students went with Python, which is expected for university students.  However, I solved the problems in Clojure :) and this made things both easier and harder.  It was a bit harder to rethink these problems to properly utilize recursion, immutable data structures and other functional programming paradigms.  
 
@@ -116,8 +120,8 @@ Here's the algorithm to calculate the hamming distance between two nucleotides A
 
 ```ruby
 +------------------+----------+----------+
-| A = ACGTACGT     | 00011011 | 00011011 |
-| B = AAAACCCC     | 00000000 | 01010101 |
+| A = ACGT         | 00011011 | 00011011 |
+| B = AAAA         | 00000000 | 01010101 |
 | ---------------- | -------- | -------- |
 | X = A xor B      | 00011011 | 01001110 |
 | Y = X*2 (BSL)    | 00110110 | 10011100 |

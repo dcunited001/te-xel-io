@@ -65,13 +65,13 @@ The bully will find someone who is socially isolated to begin with.  And the bul
 
 ### &#x2605; Blocking Moves, Like Those in Chess
 
-The bully may attempt to prevent you from acquiring new relationships by blocking you.  This can be physical, like blocking you from entering a conversation by forming a tighter circle or turning your back.  
+The bully may attempt to prevent you from acquiring new relationships by blocking you.  This can be physical, like blocking you from entering a conversation by forming a tighter circle or turning their back.  
 
 ![Chess, Forever Alone Edition](/img/posts/2015-02-25-workplace-bullying-part-three/chess-forever-alone.png)
 
 #### The Chess Companion, Forever Alone Edition
 
-They can also identify the people you are trying to talk to and try establish a stronger relationship with them.  Then, a manipulative person is capable of poisoning them against you before you have a chance.
+They can also identify the people you are trying to acquaint yourself with to try to preemptively establish a stronger relationship with them.  Then, a manipulative person is capable of poisoning them against you before you have a chance.
 
 ### &#x2605; Attach Labels to You
 
@@ -89,9 +89,9 @@ Oh, and anyone that attacks a bully for using suggestion is dumb.  I've never ma
 
 ### &#x2605; Playing Dumb
 
-What?  I don't even know what that means?  How could I even use suggestion?  I don't even know what that is.  Yes, I studied psychology in college.  What do you mean it's impossible that I don't know what that is.  You're paranoid.
+> What?  I don't even know what that means?  How could I even use suggestion?  I don't even know what that is.  Yes, I studied psychology in college.  What do you mean it's impossible that I don't know what that is.  You're paranoid.
 
-Playing dumb is particularly effective.  And I've been burned badly for it in the past.  When i was in my early twenties, I just assumed that everyone tried as hard as they could at everything.  I was completely unaware of the snake in the grass that is "playing dumb."  That snake will fucking bite you.  Don't pick it up.
+Playing dumb is particularly effective.  And I've been burned badly for it in the past.  When i was in my early twenties, I just assumed that everyone tried as hard as they could at everything.  I was completely unaware of the snake in the grass that is "playing dumb."  That snake will !@#$'ing bite you.  Don't pick it up.
 
 Of course, there are different kinds of "playing dumb."  There is the person who plays dumb from the get-go in order to lull you into a sense of security from which they can take advantage of you.  Carnies do this and some street kids do this.  Homeless people also do this .. homeless people aren't actually that dumb.  Regardless, if you fall for this, you may find yourself quickly in a sticky situation.  It's best to just look past it when you notice it.
 

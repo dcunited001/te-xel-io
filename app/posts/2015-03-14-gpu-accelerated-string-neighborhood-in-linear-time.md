@@ -7,7 +7,23 @@ author:
 
 ### Happy Pi Day!
 
-I'm going to describe the algorithms I'm most proud of implementing.  Sure, [this code](https://github.com/dcunited001/bioclj) is available on github, but it's written in Clojure, so it's impossible for most people to understand without some head-scratching.  In fact, it took quite a bit of effort just for me to freshen up enough to write this article.  And that, my friends, is security by obfuscation -- which is not a virtue for code or for much of anything, really.
+![Pi Digits](/img/posts/2015-03-14-gpu-accelerated-string-neighborhood-in-linear-time/pi-digits.png)
+
+#### Here's a picture visualizing the digits in Pi.
+
+Remember, there is nothing universal about a base-10 numbering system.  So, while this graph sure has some perdy colors in it, it's mostly meaningless.  But, that's the beauty of irrational numbers: *il y a un peu de je ne sais quos*.
+
+#### But hey! look a star!
+
+![Pi Digits Graph](/img/posts/2015-03-14-gpu-accelerated-string-neighborhood-in-linear-time/pi-digits-graph.png)
+
+#### This one visualizes the relationships between digits in pi.
+
+Again, it's a meaningless representation of the data since it's visualizing the base-10 numbering system.  The star shows up in the picture because there's 10 digits and the artist chose to alternate between light and dark!  If did the same thing with a base 14 numbering system, you'd see a 7 pointed star...  Look at the colors though!  The colors!
+
+### Back to the Bioinformatics Algorithms
+
+These are the algorithms I'm most proud of implementing.  Sure, [this code](https://github.com/dcunited001/bioclj) is available on github, but it's written in Clojure, so it's impossible for most people to understand without some head-scratching.  In fact, it took quite a bit of effort just for me to freshen up enough to write this article.  And that, my friends, is security by obfuscation -- which is not a virtue for code or for much of anything, really.
 
 I enjoy writing code in Clojure because Lisp forces you to write code in a functional manner and therefore your code more closely resembles the pure math you're implementing.  I've been sending out this project along with job applications, but I don't think most people understand what they're looking at, which is unfortunate.  So, I've blogged about it and I'll send out this link instead.
 
@@ -36,9 +52,17 @@ And this, folks, is why the work that the great folks on HP's team for The Machi
 
 HP has patented several key technologies in it's development of The Machine.  Excluding the development of competing technologies (which isn't very likely) or the complete collapse of the global economy, i'm extremely confident that HP is a good long term buy.  As to how good, I can't say.  I would place another large bet on HP's decision to restructure being fairly dependent on the development of this new technology =] =]
 
+### Watch this Video for a 7 Minute Overview of *The Machine*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jcmsby8jDKE" frameborder="0" allowfullscreen></iframe>
+
 > Note: HP is [restructuring itself](http://www.reuters.com/article/2014/10/06/us-hp-restructuring-idUSKCN0HV0U720141006) into two public companies: one to sell PC's to consumers and the other to sell servers and networking gear.  Make sure you purchase the correct stock!
 
+### Fiber to the Dome
+
 *One* of their game-changing technologies is photonics.  Having phonotics integrated into the bus means that CPU's are no longer physically bound to their memory.  That's an oversimplified explanation of things.  However, as it is now, software developers for computationally intensive projects have to include lots of code just to push data where it's needed.  But photonics means that CPU's can access a nearly unlimited supply of memory, instantaneously.  
+
+![Petabytes of RAM](/img/posts/2015-03-14-gpu-accelerated-string-neighborhood-in-linear-time/petabytes.jpg)
 
 This means supercomputers and the software they run can begin to be designed very differently: you basically just need to add more cores, since all of them can instantly access Petabytes of RAM.  Managing workloads becomes much easier.  Any programs which utilize dynamic programming to store result sets become more efficient.  For example, in the Nucleotide Neighborhood algorithm I'm about to describe, you can pre-calculate the result set of every Base Neighborhood for [k,d] -- really only for each k up to some specified max d, since [k,d] is contained within [k,d+1].  And because your processors integrate with as much RAM as you need without the overhead of workload management, it becomes very easy to just throw more computational resources at problems.
 
@@ -116,8 +140,8 @@ Here's the algorithm to calculate the hamming distance between two nucleotides A
 
 ```ruby
 +------------------+----------+----------+
-| A = ACGT         | 00011011 | 00011011 |
-| B = AAAA         | 00000000 | 01010101 |
+| A = ACGTACGT     | 00011011 | 00011011 |
+| B = AAAACCCC     | 00000000 | 01010101 |
 | ---------------- | -------- | -------- |
 | X = A xor B      | 00011011 | 01001110 |
 | Y = X*2 (BSL)    | 00110110 | 10011100 |
@@ -189,6 +213,8 @@ It's important to note that these insights carry over to levenshtein neighborhoo
 
 ![Morgan Freeman](/img/posts/2015-03-14-gpu-accelerated-string-neighborhood-in-linear-time/morgan-freeman.png)
 
-### Improvements to This and Other Algorithms
+### Improvements to Other Algorithms
 
-I've got some ideas for some improvements, which I doubt are wholy original.  But, who knows?
+I've got some ideas for some improvements, which I doubt are wholy original.  But, who knows?  I also have some novel ideas about protein folding algorithms =] =] I just need to learn more about searching through spaces and optimizing energy for molecular structures.  And more about molecular dynamics.  Yeh, that.
+
+As I was researching GPU assisted Bioinformatics algorithms, I found [Tuan Tu Tran](https://sites.google.com/site/trantuantubk/)'s site and papers.  [Here](https://sites.google.com/site/trantuantubk/phd-tuan-tu-tran.pdf) is his excellent paper on GPU assisted Bioinformatics Algorithms that inspired me to dig a little deeper.  These and other interesting links can also be can be found in the readme for my [BioClj](https://github.com/dcunited001/bioclj) github project page.

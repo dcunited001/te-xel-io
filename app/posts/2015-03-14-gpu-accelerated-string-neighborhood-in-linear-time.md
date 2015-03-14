@@ -11,7 +11,7 @@ author:
 
 #### Here's a picture visualizing the digits in Pi.
 
-Remember, there is nothing universal about a base-10 numbering system.  So, while this graph sure has some perdy colors in it, it's mostly meaningless.  But, that's the beauty of irrational numbers: *il y a un peu de je ne sais quos*.
+Remember, there is nothing universal about a base-10 numbering system.  So, while this graph sure has some perdy colors in it, it's mostly meaningless.  But, that's the beauty of irrational numbers: *il y a un peu de je ne sais quoi*.
 
 #### But hey! look a star!
 

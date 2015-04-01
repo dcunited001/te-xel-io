@@ -19,7 +19,7 @@ Remember, there is nothing universal about a base-10 numbering system.  So, whil
 
 #### This one visualizes the relationships between digits in pi.
 
-Again, it's a meaningless representation of the data since it's visualizing the base-10 numbering system.  The star shows up in the picture because there's 10 digits and the artist chose to alternate between light and dark!  If did the same thing with a base 14 numbering system, you'd see a 7 pointed star...  Look at the colors though!  The colors!
+Again, it's a meaningless representation of the data since it's visualizing the base-10 numbering system.  The star shows up in the picture because there are 10 digits and the artist chose to alternate between light and dark!  If we did the same thing with a base 14 numbering system, you'd see a 7 pointed star...  Look at the colors though!  The colors!
 
 ### Back to the Bioinformatics Algorithms
 
@@ -68,7 +68,7 @@ This means supercomputers and the software they run can begin to be designed ver
 
 > Please note: the statements above are venturing into areas where I do not have enough knowledge. Therefore, I may have misspoken when I said that this technology revolutionizes the design of supercomputing. You might want to ask your fellow PhD.  However, I know this is true to some degree. But, as to what degree, I'm not sure.  I would need to learn more about heterogenous and distributed computing to be certain. 
 > 
-> Gee, I wish there was a coursera class for Heterogenous Computing -- oh wait, there is.  I tried to take it once, but I was forced to get a job and didn't have the time.  Fortunately, I learned enough to understand how linear algebra operations can be accelerated by the CPU.  It really is fascinating stuff.
+> Gee, I wish there was a coursera class for Heterogenous Computing -- oh wait, there is.  I tried to take it once, but I was forced to get a job and didn't have the time.  Fortunately, I learned enough to understand how linear algebra operations can be accelerated by the GPU.  It really is fascinating stuff.
 
 Once you precalculate these result sets, they are available for other programs to utilize them, assuming that you can provide enough shared memory.  And since you only need to precalculate the Base Neighborhood for each [k,d], this means if you load these base neighborhoods into petabytes of RAM, you can instantly access these result sets, which can be translated to the neighborhood for any [k,d].  This algorithm can be accelerated with the application of one GPU accelerable operation or one FPGA instruction to each string in the neighborhood.  The performance can also be further accelerated in other ways.
 
@@ -165,7 +165,7 @@ Well, because Hamming Distance is a kind of distance, certain rules from Functio
 
 However, the important thing to note is that, for a nucleotide of any length, it's neighborhood for [k,d] is basically equivalent to the set representing the neighborhood of the Base Nucleotide for [k,d], with a function applied to each member of the set.  The Base Nucleotide is a nucleotide of length K with it's values set to zeros -- all A's -- and this Nucleotide's neighborhood is the Base Neighborhood.  
 
-When you iterate this single operation transformation function across the Base Neighborhood, you arrive at the neighborhood for another nucleotide.  This is because all relationships between these nucleotides are preserved.  There are probably more patterns here that I'm not seeing for lack of fully understanding the math.  For example, there may be some more efficient means of discovering the members common between two sets, which is another very important operation for Motif Enumeration.
+When you iterate this single transformation function across the Base Neighborhood, you arrive at the neighborhood for another nucleotide.  This is because all relationships between these nucleotides are preserved.  There are probably more patterns here that I'm not seeing for lack of fully understanding the math.  For example, there may be some more efficient means of discovering the members common between two sets, which is another very important operation for Motif Enumeration.
 
 ### The Neighbor Transform Algorithm
 

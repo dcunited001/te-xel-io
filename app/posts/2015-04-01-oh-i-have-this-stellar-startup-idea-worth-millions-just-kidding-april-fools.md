@@ -2,7 +2,7 @@
 title: "Oh I Have this Stellar Startup Idea Worth Millions &#x2605; Just Kidding &#x2605; April Fools"
 author:
   name: "David Conner"
-  tags: "economics that-one-time auctioneering"
+  tags: "startups business"
 ---
 
 So, I just want to explain why I feel like the most underrated, overlooked person on the planet.  Below is a business proposal I submitted to Virginia Tech for their **Game Changers Challenge Loan**, a $25,000 loan to start a business.  There was a 5-page limit to entries, so this business proposal is not perfect.  Admittedly, one of the rules for this contest was that your business could not be one that needed the first $25,000 of a $500,000 seed round.  So I did not expect to win.  
@@ -11,65 +11,11 @@ However, I did expect to get attention and help realizing these ideas.  I cannot
 
 > Also, please bear in mind that I wrote this proposal on Halloween night in about 6 hours.  So, again, it's not perfect.  But, it's really not that bad either.  And I have enough content to write about ten of these.
 
-### My Unfortunate Disposition
-
-My problem is that I am very good at a several things, but that I lack the experience or degree to acquire the right position.  For example, **I'm very, very good with Business Strategy**, even though I had no idea what a SWOT analysis was until recently.  Many grads might ask you, "what's a SWOT analysis?", and then claim you don't know what you're talking about because you don't know the right vocabulary.  
-
-> !@#$ a SWOT analysis.  Overly simplistic garbage.
-
-I, however, do understand these concepts, in an instinctive manner.  Please, testing someone like me on vocabulary is a waste of time.  I also had no idea what [Conway's Game of Life](http://en.wikipedia.org/wiki/Conway's_Game_of_Life) was, until recently.  And this is another favorite for programmers to test you with.  I thought they were referring to the !@#$'ing board game LIFE -- joke's on me.  Turns out, I implemented Conway's Game of Life in high school, using Pascal.  Yes, I know what the concept is.  No, I did not know what the concept was named.  Your test failed.  I wasn't made aware of my mistake either.  I was just laughed at.
-
-### Creativity with Technology
-
-I have spectacular insight into how people will want to use technology.  I have a particular talent for identifying trends years beforehand, providing enough time for people to make reasonable investments based on my assumptions.  Just look at my social feeds: I was aware of NSA spying from like 2005-2013, for example.  Because I !@#$'ing paid attention.  I'm not exactly sure how that came as a surprise to people, by the way.  I had my tin-foil hat on the whole time.  
-
-> Unaware of how NSA wiretapping affects the technology industries and the financial system as a whole? And how knowledge of this should affect investment decisions? *OK then, stop acting like I'm an idiot.* GTFO!!
-
-Still unsure of whether my insights in technology mean anything? [READ THIS ARTICLE](/posts/2015-03-14-gpu-accelerated-string-neighborhood-in-linear-time.html), if you can even understand it.
-
-However, I don't have an MBA, so C-level jobs are right out.  I seem to lack the experience required for Product Management positions, though a job like that would probably be perfect for me.  The experience I do have is programming, but I'm actually not a great programmer.  So when I do get a job coding, I tend get pushed right out.  Because it's not me, it's not where I was intended to be, as much as I love programming.  I'm much better at math than I am programming.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rae7_O_6EtU" frameborder="0" allowfullscreen></iframe>
-
-#### Zero Theorum AKA pretty much my life as a developer.
-
-Another problem is that I don't have a college degree, even though I find myself far more educated than 90% of college graduates I've run into.  Holistically, anyways.  What do I mean by this?  College educated people have such a narrow focus that they can't see outside of their major.  And once they graduate, they stop learning and stop growing.  They become so busy with their lives that they never bother to venture far outside of their major.  However, I'm able to make insights between machine learning and psychology, for example.  This is not to say that I'm educated enough.  I never want to stop learning.
-
-> But here's the problem -- it's really hard for management to justify hiring me over someone who does have a college degree.
-
-So, where does that leave me?  !@#$'ing McDonalds, that's where.  As *intelligent, creative and insightful* as I am, businesses don't really need *that*.  Execution is everything, as someone who has several autistic traits, I'm unfortunately "difficult" to work with.  In other words, I'm [mostly] completely incapable of executing on my own ideas.  And instead, I'm trapped by them.  I have a notebook full of ideas that I'd love to work on and every month, I see my own ideas popping into reality.  Not that my ideas are being stolen -- they're just destined to exist because they're !@#$'ing good ideas.  But I'm so passionate about building them in my own head, that it's difficult for me to pay attention to the world around me.
-
-### I Can Execute on These Ideas, but I Need Help
-
-#### &#x2605; I need to not be in Roanoke Virginia -- sorry Roanoke.  And it doesn't help that I get bullied out of every job I seem to get.
-#### &#x2605; I need someone that help help balance my strengths and weaknesses.  Say, a team of cofounders or something, which is like impossible to find in Roanoke.  Seriously, this has been the main impediment: finding other people who (1) believe in me AND (2) are available to work on a project.
-#### &#x2605; I need a technology community that I can be a part of. 
-
-Steve Jobs would have been nothing, if not for the people around him.  This is true of many famous people, in business and entertainment. 
-
-### Everyone Loves to Idolize Steve Jobs
-
-But what happens when someone like him comes along?  Simple, the guy gets punched in the face and kicked out on his ass, over and over again.  However, it's the exact characteristics of what makes someone like Steve Jobs so creative and so great that also make someone like this incredibly difficult to work with.  Their unrealistic expectations, their attention to the most minute details, their foresight, their projection of design to meet the future, their unrelenting challenge to the status quo and their belief that different is better. 
-
-These ideals are required to foster the innovation needed to disrupt a market, but a person who embodies these ideas can often be difficult to work with.  And because they aren't really necessary to the process, their creativity gets sucked up and they find themselves kicked out on their ass.
-
-### There's More Where This Came From
-
-Like I said, I've got tons of ideas -- **none of them are digitized**.  I'm consistantly two to five years ahead of the curve -- not that this is unique of course.  But, I know what is going to happen next.  I don't need all of this.  Oftentimes, I realize that the ideas I do have are worthless in my hands, as I'm completely incapable of executing on them.  So I try to seed them with other people who are capable because I truly believe the world would be a better place if some of these things became reality a little faster.
-
-![Menger Sponge](/img/posts/2015-04-01-oh-i-have-this-stellar-startup-idea-worth-millions-just-kidding-april-fools/menger-sponge.gif)
-
-I once had the opportunity to talk to people who actually looked closely enough to see inside me.  And I'm just now remembering all of this.  Honestly, it feels great, knowing that for once, there was someone who truly understood me.  
-
-But, for whatever reason, most people just want me to put my blinders back on and get to work.  To forget everything I might have ever been.  They want to crush the inspiration within me, I guess because they feel it fuels an unhealthy obsession that will never be realized -- since I apparently lack some crucial skills.  But I just can't give it up.
-
-[![DC at the Helm of the Pinta](/img/posts/2015-04-01-oh-i-have-this-stellar-startup-idea-worth-millions-just-kidding-april-fools/pinta.jpg)](https://instagram.com/dchronik/)
-
-#### Oh hey look! It's me, at the Helm of the Pinta, on the verge of discovering a new world.
-
 ### So Here's the Business Proposal
 
 Some parts are redacted.  But for the most part, I'm leaving most of it unedited.  By this point, there's not much of a chance to complete this, since the market's saturated.  Check out [Splice](https://splice.com), which is pretty much the same thing. I'm publishing this because I hope someone reads it and will **realize that I really do understand what I'm talking about**.
+
+TL;DR [Skip to my thoughts](#my-unfortunate-disposition) on why I've never been able to achieve this.
 
 ## Oscil8 &#x2605; The Audio Discovery Engine
 
@@ -143,3 +89,63 @@ For the third year, holding second year values stable, except increasing market 
 ### Game Changers Challenge Loan
 
 Over 3 months, Oscil8 would use the $25,000 loan to prepare itself for a $1.0M Seed round and a Series A.  The best way to get there is to polish a strong product and apply to an accelerator like YCombinator or Techstars.  Before accepting capital, Oscil8 definitely needs to model our market more confidently.  We’ll outsource some design, as well as legal for provisional patents and create a C-Corp.
+
+___
+
+<a name="my-unfortunate-disposition"/>
+
+### My Unfortunate Disposition
+
+So that's it.  Why haven't I done anything with all this?  My problem is that I am very good at a several things, but that I lack the experience or degree to acquire the right position.  For example, **I'm very, very good with Business Strategy**, even though I had no idea what a SWOT analysis was until recently.  Many grads might ask you, "what's a SWOT analysis?", and then claim you don't know what you're talking about because you don't know the right vocabulary.  
+
+> !@#$ a SWOT analysis.  Overly simplistic garbage.
+
+I, however, do understand these concepts, in an instinctive manner.  Please, testing someone like me on vocabulary is a waste of time.  I also had no idea what [Conway's Game of Life](http://en.wikipedia.org/wiki/Conway's_Game_of_Life) was, until recently.  And this is another favorite for programmers to test you with.  I thought they were referring to the !@#$'ing board game LIFE -- joke's on me.  Turns out, I implemented Conway's Game of Life in high school, using Pascal.  Yes, I know what the concept is.  No, I did not know what the concept was named.  Your test failed.  I wasn't made aware of my mistake either.  I was just laughed at.  This particular example has happened multiple times by the way.
+
+### Creativity with Technology
+
+I have spectacular insight into how people will want to use technology.  I have a particular talent for identifying trends years beforehand, providing enough time for people to make reasonable investments based on my assumptions.  Just look at my social feeds: I was aware of NSA spying from like 2005-2013, for example.  Because I !@#$'ing paid attention.  I'm not exactly sure how that came as a surprise to people, by the way.  I had my tin-foil hat on the whole time.  
+
+> Unaware of how NSA wiretapping affects the technology industries and the financial system as a whole? And how knowledge of this should affect investment decisions? *OK then, stop acting like I'm an idiot.* GTFO!!
+
+Still unsure of whether my insights in technology mean anything? [READ THIS ARTICLE](/posts/2015-03-14-gpu-accelerated-string-neighborhood-in-linear-time.html), if you can even understand it.
+
+However, I don't have an MBA, so C-level jobs are right out.  I seem to lack the experience required for Product Management positions, though a job like that would probably be perfect for me.  The experience I do have is programming, but I'm actually not a great programmer.  So when I do get a job coding, I tend get pushed right out.  Because it's not me, it's not where I was intended to be, as much as I love programming.  I'm much better at math than I am programming.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rae7_O_6EtU" frameborder="0" allowfullscreen></iframe>
+
+#### Zero Theorum AKA pretty much my life as a developer.
+
+Another problem is that I don't have a college degree, even though I find myself far more educated than 90% of college graduates I've run into.  Holistically, anyways.  What do I mean by this?  College educated people have such a narrow focus that they can't see outside of their major.  And once they graduate, they stop learning and stop growing.  They become so busy with their lives that they never bother to venture far outside of their major.  However, I'm able to make insights between machine learning and psychology, for example.  This is not to say that I'm educated enough.  I never want to stop learning.
+
+> But here's the problem -- it's really hard for management to justify hiring me over someone who does have a college degree.
+
+So, where does that leave me?  !@#$'ing McDonalds, that's where.  As *intelligent, creative and insightful* as I am, businesses don't really need *that*.  Execution is everything, as someone who has several autistic traits, I'm unfortunately "difficult" to work with.  In other words, I'm [mostly] completely incapable of executing on my own ideas.  And instead, I'm trapped by them.  I have a notebook full of ideas that I'd love to work on and every month, I see my own ideas popping into reality.  Not that my ideas are being stolen -- they're just destined to exist because they're !@#$'ing good ideas.  But I'm so passionate about building them in my own head, that it's difficult for me to pay attention to the world around me.
+
+### I Can Execute on These Ideas, but I Need Help
+
+#### &#x2605; I need to not be in Roanoke Virginia -- sorry Roanoke.  And it doesn't help that I get bullied out of every job I seem to get.
+#### &#x2605; I need someone that help help balance my strengths and weaknesses.  Say, a team of cofounders or something, which is like impossible to find in Roanoke.  Seriously, this has been the main impediment: finding other people who (1) believe in me AND (2) are available to work on a project.
+#### &#x2605; I need a technology community that I can be a part of. 
+
+Steve Jobs would have been nothing, if not for the people around him.  This is true of many famous people, in business and entertainment. 
+
+### Everyone Loves to Idolize Steve Jobs
+
+But what happens when someone like him comes along?  Simple, the guy gets punched in the face and kicked out on his ass, over and over again.  However, it's the exact characteristics of what makes someone like Steve Jobs so creative and so great that also make someone like this incredibly difficult to work with.  Their unrealistic expectations, their attention to the most minute details, their foresight, their projection of design to anticipate the future, their unrelenting challenge to the status quo and their belief that different is better. 
+
+These ideals are required to foster the innovation needed to disrupt a market, but a person who embodies these ideas can often be difficult to work with.  And because they aren't really necessary to the process, their creativity gets sucked up and they find themselves kicked out on their ass.
+
+### There's More Where This Came From
+
+Like I said, I've got tons of ideas -- **none of them are digitized**.  I'm consistantly two to five years ahead of the curve -- not that this is unique of course.  But, I know what is going to happen next.  I don't need all of this.  Oftentimes, I realize that the ideas I do have are worthless in my hands, as I'm completely incapable of executing on them.  So I try to seed them with other people who are capable because I truly believe the world would be a better place if some of these things became reality a little faster.
+
+![Menger Sponge](/img/posts/2015-04-01-oh-i-have-this-stellar-startup-idea-worth-millions-just-kidding-april-fools/menger-sponge.gif)
+
+I once had the opportunity to talk to people who actually looked closely enough to see inside me.  And I'm just now remembering all of this.  Honestly, it feels great, knowing that for once, there was someone who truly understood me.  Even if it is too late at this point.
+
+But, for whatever reason, most people just want me to put my blinders back on and get to work.  To forget everything I might have ever been.  They want to crush the inspiration within me, I guess because they feel it fuels an unhealthy obsession that will never be realized -- since I apparently lack some crucial skills.  But I just can't give it up.
+
+[![DC at the Helm of the Pinta](/img/posts/2015-04-01-oh-i-have-this-stellar-startup-idea-worth-millions-just-kidding-april-fools/pinta.jpg)](https://instagram.com/dchronik/)
+
+#### Oh hey look! It's me, at the Helm of the Pinta, on the verge of discovering a new world.

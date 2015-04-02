@@ -90,9 +90,9 @@ For the third year, holding second year values stable, except increasing market 
 
 Over 3 months, Oscil8 would use the $25,000 loan to prepare itself for a $1.0M Seed round and a Series A.  The best way to get there is to polish a strong product and apply to an accelerator like YCombinator or Techstars.  Before accepting capital, Oscil8 definitely needs to model our market more confidently.  We'll outsource some design, as well as legal for provisional patents and create a C-Corp.
 
-___
+____
 
-<a name="my-unfortunate-disposition"/>
+<a name="my-unfortunate-disposition"></a>
 
 ### My Unfortunate Disposition
 

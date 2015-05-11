@@ -122,12 +122,6 @@ Another problem is that I don't have a college degree, even though I find myself
 
 So, where does that leave me?  !@#$'ing McDonalds, that's where.  As *intelligent, creative and insightful* as I am, businesses don't really need *that*.  Execution is everything, as someone who has several autistic traits, I'm unfortunately "difficult" to work with.  In other words, I'm [mostly] completely incapable of executing on my own ideas.  And instead, I'm trapped by them.  I have a notebook full of ideas that I'd love to work on and every month, I see my own ideas popping into reality.  Not that my ideas are being stolen -- they're just destined to exist because they're !@#$'ing good ideas.  But I'm so passionate about building them in my own head, that it's difficult for me to pay attention to the world around me.
 
-### I Can Execute on These Ideas, but I Need Help
-
-#### &#x2605; I need to not be in Roanoke Virginia -- sorry Roanoke.  And it doesn't help that I get bullied out of every job I seem to get.
-#### &#x2605; I need someone that help help balance my strengths and weaknesses.  Say, a team of cofounders or something, which is like impossible to find in Roanoke.  Seriously, this has been the main impediment: finding other people who (1) believe in me AND (2) are available to work on a project.
-#### &#x2605; I need a technology community that I can be a part of. 
-
 Steve Jobs would have been nothing, if not for the people around him.  This is true of many famous people, in business and entertainment. 
 
 ### Everyone Loves to Idolize Steve Jobs

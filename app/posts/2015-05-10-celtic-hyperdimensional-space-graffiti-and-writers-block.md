@@ -72,10 +72,14 @@ It's really hard for me to stay motivated to write on these topics, but I believ
 #### Math:
 - Intro to Category Theory for the layman.
 - Automated construction of literature using tropes, scenarios, themes and other tools, permuted and functionally combined with category theory.
-- Transformations of information to/from various languages.  What information is preserve between all languages?
+- Transformations of information to/from various languages.  What information is preserved between all languages?
 - Modeling social behavior using category theory (part 2)
 - Mathematic definition of creativity.
 - Teaching category theory and math using graffiti!  "That's a dope natural transformation, yo! I really like how you did them functors."
+- Bytecode inspection for vulnerabilities.  (I'm pretty sure this is basically antivirus software)
+- Bytecode inspection for performance enhancements.  Identifying algorithms which could instead be GPU accelerated.
+- How to Visualize a Hyperdimensional Grid
+- Markup language to transform webapps to xml, renderable to a native app, preserving all functionality.  Probably not very effective or practical, but interesting to see if it's possible.
 
 #### Anime
 - Why computer generated animation is inferior
@@ -145,9 +149,16 @@ It's really hard for me to stay motivated to write on these topics, but I believ
 
 - Why the Norwegian crusade was a badass medieval road trip
 
-## Still Wondering If I'm Creative Enough?
+### Still Wondering If I'm Creative Enough?
 
 Over the years, there have been many people who have "framed" me, just as someone might frame a piece of art.  Over and over, I have found myself limited by the beliefs of others -- beliefs that were intentionally spread via gossip/misunderstanding/etc.  For example -- there seem to be a lot of people who think I'm just schizophrenic or something. 
 
-My life is definitely improving and there is much I could've done to improve the situation earlier.  However, it's a bit harder to stay motivated when I struggle with depression and have no money.  If I can just keep my internal feelings separated and protected from the world around me, I'll be fine.  I just have to work hard, with no immediate reward.  To love what I'd prefer to do without.  To appreciate positive criticism, while ignoring that which will only keep me down.
+My life is definitely improving. There's a lot of people who are helping me out. And there is much I could've done to improve the situation earlier.  However, it's a bit harder to stay motivated when I struggle with depression and have no money.  If I can just keep my internal feelings separated and protected from the world around me, I'll be fine.  I just have to work hard, with no immediate reward.  To love what I'd prefer to do without.  To appreciate positive criticism, while ignoring that which will only keep me down.
+
+### Here's A Piano Improv Session
+
+Because I wish I could verbally express myself as effortlessly as I can on piano.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j4hAxPi5iMk" frameborder="0" allowfullscreen></iframe>
+
 

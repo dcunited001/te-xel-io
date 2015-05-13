@@ -128,7 +128,7 @@ It's really hard for me to stay motivated to write on these topics, but I believ
 
 - Application of ideas from Machine Learning & AI to psychology, learning, etc.
 - Why the Chemical Imbalance theory is [mostly] bullshit.  And how it can be scientifically shown using epigenetics that prescription medications exacerbate most chemical imbalances and create new ones.
-- Novel forms of therapy for people who have problems in social setting.
+- Novel forms of therapy for people who have problems in social settings.
 - Why technology is going to cause more and more cultural/social problems.  Why & how we should be prepared to adapt to these changes.
 - How it might feel to be terminally ill
 - The sexual side effects of prescription medications and their downstream effects on sexuality in society.

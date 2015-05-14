@@ -77,12 +77,12 @@ It's really hard for me to stay motivated to write on these topics, but I believ
 - Mathematic definition of creativity.
 - Teaching category theory and math using graffiti!  "That's a dope natural transformation, yo! I really like how you did them functors."
 - Bytecode inspection for vulnerabilities.  (I'm pretty sure this is basically antivirus software)
-- Bytecode inspection for performance enhancements.  Identifying algorithms which could instead be GPU accelerated.
+- Bytecode inspection for performance enhancement.  Identifying algorithms which could instead be GPU accelerated.
 - How to Visualize a Hyperdimensional Grid
 - Markup language to transform webapps to xml, renderable to a native app, preserving all functionality.  Probably not very effective or practical, but interesting to see if it's possible.
 
 #### Anime
-- Why computer generated animation is inferior
+- Why purely computer-generated cel-shaded animation is inferior.
 - My opinions on US voice acting.
 
 #### Language

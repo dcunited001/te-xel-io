@@ -1,5 +1,5 @@
 ---
-title: "Bedbugs, THE Worst To Ever Happen To Me, Yet"
+title: "Bedbugs, the WORST To Ever Happen To Me, Yet"
 author:
   name: "David Conner"
   tags: "psychology ptsd mylife boulder colorado denver"

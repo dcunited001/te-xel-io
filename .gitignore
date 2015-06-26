@@ -6,6 +6,6 @@
 
 /dist
 /generated
-
+.divshot-cache/
 
 .sass-cache

@@ -15,8 +15,6 @@ Regardless of how it's implemented in hardware, I do know that the mind can dyna
 
 However, I have spent a lot of time studying and meditating on psychology, sociology and neurology.  I've taken Coursera classes on [Machine Learning](https://www.coursera.org/learn/machine-learning), [Neuropharmacology](https://www.coursera.org/course/drugsandbrain), [Neuro-Marketing](https://www.coursera.org/course/neuromarketing), [Bioinformatics I/II/III](https://www.coursera.org/course/hiddenmessages) and [Epigenetics](https://www.coursera.org/course/neuromarketing) to name a few.  While I haven't retained the most specific details as well as I would like, these courses have been invaluable in contributing to my ability to reason in these fields.
 
-So these various mental faculties I'm talking about include:
-
 ### Sensory Data and Immediate Preprocessing
 
 The brain receives data from its 5+ senses -- yes, as things are actually wired together in hardware there are more than 5 senses and I'm not talking about psychic stuff here.  Balance is a good example of a sense that is not usually considered as one.  I've found it interesting to think of memory exposed to the mind as a kind of temporal sense.
@@ -67,7 +65,7 @@ Even if you consciously choose to forget something, it leaves an inprint.  This 
 
 Because as you introspect your existing long-term memories, you create aggregate memories based on them.  This is partially what is responsible for the phenomenon where people's description of a crime or other intense event becomes more altered the more they think about it.  As you create more memories based on other memories, you create a particular worldview and outlook on life.  If you recover repressed memories, then you have a rift between these repressed memories and those aggregate memories and explanations you created -- as well as a rift in your overall outlook on life, if those repressed memories were substantial in some way.  
 
-This is one reason repressed memories in and of themselves can cause serious problems -- you remember things both as you thought they were and as you've discovered them to actually be.  You still have all those possibly-inaccurate aggregate memories that affect how you perceive the world and those memories are more strongly linked than the newly discovered repressed memories.  As time goes on, you create aggregate memories based on the repressed ones and the rift dissapates over time.  This phenomenon could be incredibly confusing, quite possibly enough to cause mental disorder if one is not firmly planted on the ground.  Additionally, your conscious mind can't really access that which you've repressed, leading to the occasional, vague sensation of something that's missing that you can't define.
+This is one reason repressed memories in and of themselves can cause serious problems -- you remember things both as you thought they were and as you've discovered them to actually be.  You still have all those possibly-inaccurate aggregate memories that affect how you perceive the world and those memories are more strongly linked than the newly discovered repressed memories.  As time goes on, you create aggregate memories based on the repressed ones and the rift dissapates over time.  This phenomenon could be incredibly confusing, quite possibly enough to cause mental disorder if one is not firmly grounded.  Additionally, your conscious mind can't really access that which you've repressed, leading to the occasional, vague sensation of something that's missing that you can't define.
 
 ### Procedures
 
@@ -85,7 +83,7 @@ People with Asperger's seem to lack the subconscious ability to preprocess infor
 
 ### Choreography of Mental Faculties
 
-The subconscious and conscious seem to be able to dynamically reuse and coordinate various mental processes.  Some people seem to be much better at learning to reuse information and processes than others.
+The subconscious and conscious seem to be able to dynamically reuse and coordinate various mental processes.  Some people seem to be much better at learning to reuse information and processes than others.  Understanding category theory can greatly help us in improving the ability to coordinate disparate functions of our brain.
 
 ### Cognition
 

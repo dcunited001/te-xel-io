@@ -93,6 +93,6 @@ Cognition is our ability to abstract and reason about various information, which
 
 Metacognition is by far one of the most important attributes for intelligence, moreso than short-term memory IMO.  Metacognition is cognition about cognition.  People with strong metacognition are able to abstract and reason about their own thought process, which can lead to mind blowing insights.
 
-## Part Three: Self-Directed Improvement of Cognitive Functions through Learning.
+## Part Three: Directive Cognitive Expansion
 
 I'll cover how you can improve specific cognitive faculties by learning new things.  I'll also discuss the importants of assessing a new activity for its particular benifits.  Finally, I'll offer examples of what parts of the mind each activity utilizes, such as chess, music, acting, programming, dancing and skateboarding.

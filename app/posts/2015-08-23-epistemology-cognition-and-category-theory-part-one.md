@@ -47,9 +47,9 @@ The problem space can be significantly compressed.  For example, if you only acc
 
 ### Universal Knowledge, the Best Kind
 
-In our future world, we're going to have to familiarize ourselves with lots of manmade systems of knowledge.  For example, Cisco releases a new iOS, network technicians gotta learn about it.  Apple releases a new OS, developers gotta learn it.  Google releases new features on Analytics, marketing's gotta know it.  But none of this is really ... universal.  In fact, as a software developer, I've gotta say, it's pretty fucking annoying.  
+In our future world, we're going to have to familiarize ourselves with lots of manmade systems of knowledge.  For example, Cisco releases a new IOS, network technicians gotta learn about it.  Apple releases a new OSX, developers gotta learn it.  Google releases new features on Analytics, marketing's gotta know it.  But none of this is really ... universal.  In fact, as a software developer, I've gotta say, it's pretty fucking annoying.  
 
-> "That's just a waste of neurons." - Bernie Cossell, owner of the eight email address and my Unix teacher. 
+> "That's just a waste of neurons." - Bernie Cossell, owner of the eighth email address and my Unix teacher. 
 
 On the other hand, mathematics very definitely is universal.  Science is a bit flakier.  It tries to represent itself as universal knowledge, continually purging itself of any inaccuracies and propagating the updated system to its devotees.  This is eerily similar to how a religion operates.  So, how does science differ from math in this degree?  It's a system that tries to map as closely as possible to universal knowledge, but can sometimes contain false or irrational elements, whereas math is pure universal truth.  It has always existed metaphysically in it's current and final form since the inception of the universe -- by the way, this means it exists outside of time.  There are few other fields that can make this claim.  Perhaps some of philosophy, particularly logic. 
 

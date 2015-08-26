@@ -80,7 +80,7 @@ It gets a little complicated, but the point is -- with category theory, you can 
 
 You can even construct these models inside of a kind of cyclic monadic function, so you can acquire behaviors as you observe them, construct the next step's behavior by recombining existing behaviors and pass acquired information to the next step.  I'm sure there's math terms for most of what I'm describing, but I don't know what they are.  This cyclic function that I'm describing has been particularly interesting to me recently.
 
-### Part Two: A Model for the Mind
+## Part Two: A Model for the Mind
 
 I'll briefly overview the various faculties of the brain and the mind and explain how they can be combined.  By training various activities and subjects, we can focus on improving specific functions of the mind.  I'll list some examples, briefly explaining how each one coordinates various functions of the mind.
 

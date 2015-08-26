@@ -9,37 +9,37 @@ author:
 
 Learning new activities, like chess, language or acting, can help us strengthen specific faculties of our mind, conscious and subconscious.  This is particularly effective during childhood, but neuroplasticity enables to continually update our hardware and software throughout life.  There's a huge focus on STEM and this is appropriate, but the arts offer immense benefits to further accelerate development and self-actualization.  We can't forget that what we seem to do just for fun has a great benefit in how we'll perform at work.  Additionally, the arts can help us understand what kinds of tasks our mind would be most profient at pursuing.  I'll discuss the following arts and activities:
 
-#### Programming
+#### &#x2297; Programming
 
-#### Chess
+#### &#x2297; Chess
 
-#### Painting
+#### &#x2297; Painting
 
-#### Music
+#### &#x2297; Music
 
-#### Writing
+#### &#x2297; Writing
 
-#### Freestyle Rapping
+#### &#x2297; Freestyle Rapping
 
-#### Breakdancing
+#### &#x2297; Breakdancing
 
-#### Tricking & Parkour
+#### &#x2297; Tricking & Parkour
 
-#### Yoga
+#### &#x2297; Yoga
 
-#### Acting
+#### &#x2297; Acting
 
-#### Improv
+#### &#x2297; Improv
 
-#### Directing
+#### &#x2297; Directing
 
-#### Skateboarding
+#### &#x2297; Skateboarding
 
-#### Martial Arts
+#### &#x2297; Martial Arts
 
-#### Martial Arts with Weapons
+#### &#x2297; Martial Arts with Weapons
 
-#### Languages
+#### &#x2297; Languages
 
 For the third time, all that we become is a result of what we have thought.  So by pursuing these activities, we're controlling the kinds of experiences that we have and choosing the benefits we'll derive from life, while equiping ourselves with more tools.  And therefore, we're determine our own course of mental development.  In order to pursue the ideal direction, we need to understand more about the mental faculties that various activities both require and develop.  These activities require a certain level of profiency in mental skills, but also improve profiency at different rates.  We also need to assess our own mind, to become aware of what would be valuable to develop further.
 

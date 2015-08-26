@@ -7,15 +7,47 @@ author:
 
 ### Strenthening Specific Mental Faculties through Learning
 
-Learning new activities, like chess, language or acting, can help us strengthen specific faculties of our mind, conscious and subconscious.  This is particularly effective during childhood, but neuroplasticity enables to continually update our hardware and software throughout life.  There's a huge focus on STEM and this is appropriate, but the arts offer immense benefits to further accelerate development and self-actualization.  We can't forget that what we seem to do just for fun has a great benefit in how we'll perform at work.  Additionally, the arts can help us understand what kinds of tasks our mind would be most profient at pursuing.
+Learning new activities, like chess, language or acting, can help us strengthen specific faculties of our mind, conscious and subconscious.  This is particularly effective during childhood, but neuroplasticity enables to continually update our hardware and software throughout life.  There's a huge focus on STEM and this is appropriate, but the arts offer immense benefits to further accelerate development and self-actualization.  We can't forget that what we seem to do just for fun has a great benefit in how we'll perform at work.  Additionally, the arts can help us understand what kinds of tasks our mind would be most profient at pursuing.  I'll discuss the following arts and activities:
 
-For the third time, all that we become is a result of what we have thought.  So by pursuing these activities, we're controlling the kinds of experiences that we have and choosing the benefits we'll derive from life, while equiping ourselves with more tools.  And therefore determine the course of our mental development.  In order to do that, we need to understand more about the mental faculties that various activities both require and develop.  These activities require a certain level of profiency in mental skills, but also improve profiency at different rates.  We also need to assess our own mind, to become aware of what would be valuable to develop further.
+#### Programming
+
+#### Chess
+
+#### Painting
+
+#### Music
+
+#### Writing
+
+#### Freestyle Rapping
+
+#### Breakdancing
+
+#### Tricking & Parkour
+
+#### Yoga
+
+#### Acting
+
+#### Improv
+
+#### Directing
+
+#### Skateboarding
+
+#### Martial Arts
+
+#### Martial Arts with Weapons
+
+#### Languages
+
+For the third time, all that we become is a result of what we have thought.  So by pursuing these activities, we're controlling the kinds of experiences that we have and choosing the benefits we'll derive from life, while equiping ourselves with more tools.  And therefore, we're determine our own course of mental development.  In order to pursue the ideal direction, we need to understand more about the mental faculties that various activities both require and develop.  These activities require a certain level of profiency in mental skills, but also improve profiency at different rates.  We also need to assess our own mind, to become aware of what would be valuable to develop further.
 
 As you focus on self-improvement in these activities, you'll be reinforcing the circuits in your mind that enable certain functional capabilities.  If you want better short-term memory, focus on practicing activities that require short-term memory.  If you want quicker reflexivity, focus on activities that require quick reflexes.  If you want to be more spontaneous, practice activities that require and develop spontanaeity.  If the process to discovering new cognitive techniques can be consciously observed and improved on, then we can expand the conscious mind to develop and coordinate the subconscious.  Approaching cognition and metacognition from this perspective allows us to greatly accelerate our rate of learning by orders of magnitude. 
 
 Many psychological and neurological disorders see promising treatment by focusing patients on certain activities and thought patterns, which are thought to gradually improve the state of their mind.  This is often applied in cognitive behavioral treatments.  However, the pursuit of these activites typically requires the patient to focus on activities they don't inherently excel at.  And so, we need approach this in such a way as to avoid needless frustration for someone.
 
-However, it is a virtue to enjoy the pursuit of that which is challenging.  People who don't embody this often find themselves at a disadvantage.  Gotta break free of your comfort zone.  Everyone should read [ethics](http://plato.stanford.edu/entries/aristotle-ethics/) to understand what these various virtues are and how to balance yourself in the mean.
+However, it is a virtue to enjoy the pursuit of that which is challenging.  People who don't embody this often find themselves at a disadvantage.  Gotta break free of your comfort zone.  Everyone should read Aristotle's [Ethics](http://plato.stanford.edu/entries/aristotle-ethics/) to understand what these various virtues are and how to balance yourself in the mean.  Yes, philosophy is useful, perhaps almost too useful.
 
 ## Modeling Cognitive Traits for Activities
 
@@ -131,7 +163,7 @@ Like skateboarding, fencing and kendo also require spatial awareness generalized
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/SncapPrTusA" frameborder="0" allowfullscreen></iframe>
 
-In the video above, Bruce Lee demonstrates a master of spatial awareness, as applied to a strategic situation.  However, be aware that the coordination of nunchuku technique requires time.  Bruce Lee's choice of nunchuku movements restricts the space of movements available next.  So success in this game not only requires mastery of technique, but also mastery of the coordination of technique to ensure versatility of next available techniques.  Additionally, you need acute understand of your opponent's options in order to coordinate these techniques to allow your self the time and available reactions. However, as you'll see with category theory, you find that your model is never really restricted.  Instead of only considering the next available moves, you simply start understanding the nature of how moves can be combined.  In this way, you'll find that your behavior can never truly be pigeon-holed, as long as you respect and avoid certain conditions throughout the game. Therefore, with experience, you retain the ability to react to nearly any situation.
+In the video above, Bruce Lee demonstrates a mastery of spatial awareness, as applied to a strategic situation.  However, be aware that the coordination of nunchuku technique requires time.  Bruce Lee's choice of nunchuku movements restricts the space of movements available next.  So success in this game not only requires mastery of technique, but also mastery of the coordination of technique to ensure versatility of next available techniques.  Additionally, you need acute understanding of your opponent's options in order to coordinate these techniques to allow your self the time and available reactions. However, as you'll see with category theory, you find that your model is never really restricted.  Instead of only considering the next available moves, you simply start understanding the nature of how moves can be combined.  In this way, you'll find that your behavior can never truly be pigeon-holed, as long as you respect and avoid certain conditions throughout the game. Therefore, with experience, you retain the ability to react to nearly any situation.
 
 ### Languages
 

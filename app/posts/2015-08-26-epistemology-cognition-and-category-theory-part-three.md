@@ -119,7 +119,7 @@ Some bboy's focus on the power moves, like mills, flares and airflares.  Others 
 
 ### &#x2297; [Tricking & Parkour](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#tricking-and-parkour)
 
-Tricking requires extremely quick reflexes and a different kind of spatial awareness of the self. Whereas breakdancing requires awareness of the body in relation to itself towards the expression of your own personal language, tricking and parkour require a kind of spatial awareness of your self in relation to your environment and environment.  You need to be able to subconsciously feel exactly where you are, with and without utilizing vision.  Similarly to bboying, you need to understand and feel which moves you can transition to next.  
+Tricking requires extremely quick reflexes and a different kind of spatial awareness of the self. Whereas breakdancing requires awareness of the body in relation to itself towards the expression of your own personal language, tricking and parkour require a kind of spatial awareness of your self in relation to your environment and motion.  You need to be able to subconsciously feel exactly where you are, with and without utilizing vision.  Similarly to bboying, you need to understand and feel which moves you can transition to next.  
 
 An experienced parkour runner sees the world differently.  Every physical scenario is an opportunity for challenge and self-expression.  I'll discuss tricking and parkour further in part five, in order to demonstrate how category theory can be used to help model something not usually considered mathematic.
 

@@ -219,6 +219,10 @@ In conversation, a language holistically coordinates the entire brain.  Therefor
 
 Learning new languages with alternative written expression teaches us more about phonetics and increases the efficiency and proficiency for visiual symbolic recognition and manipulation.  New languages are challenging, requiring short-term memory to support the learning processes, as well as very proficient long-term memory to support retention of vocabulary.  Learning new word order and expanding out of the traditional SVO of Romantic languages is interesting, indeed.  In computer science and in Chomsky's works, you'll find these tree-based parsing concepts everywhere and essential for the development of programming languages.
 
+### Negative Activities
+
+There's plenty of examples of negative activities, that enable you to lull your cognition and turn your brain off.  These include watching TV, aimlessly browsing social media and others.  While sometimes watching TV can allow you to reflect on the story and characters, it's too easy for your brain to do passively.  More active pursuits, even video games, are much better.  Video games can actually be quite beneficial to the mind, to some extent.  World of Warcraft can teach people the value of fulfilling a role in a group, just like the example of playing in a band listed above.  However, ideally, you'll have some variety to the activities you pursue, which will include some with physical activity.  Logging into WoW for 40+ hours a week isn't beneficial unless you're a pro gamer.
+
 ## The Similarity of All Things
 
 Many are trapped believing that they are incapable of learning quickly, that it's not worthwhile. Unfortunately, many people lack the mental modeling required to efficiently learn new things.  IMO, the lack of efficient and robust modeling for cognition and metacognition is one reason some people seem to learn much faster, while others barely keep up.  I believe that early childhood experiences and thought processes determine intelligence and cognitive functionality moreso than genetics.  This is why family and early childhood care are crucial for development.

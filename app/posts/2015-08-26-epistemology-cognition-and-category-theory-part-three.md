@@ -186,8 +186,11 @@ As sparring is not a strictly defined turn-based game, it's much more loosely de
 #### Or as the Tao Te Ching so eloquently states:
 
 > "The Tao that can be spoken is not the eternal Tao
+>
 > The name that can be named is not the eternal name
+>
 > The nameless is the origin of Heaven and Earth
+>
 > The named is the mother of myriad things"
 
 But martial arts is physcial and requires muscle memory.  I posit that by entangling empathy, spatial awareness, strategy and muscle memory, that martial arts develops certain orchestrations of cognitive functions that can be generalized in many other situations.  Martial arts requires spatial awareness of self, but also of your opponent.  You need to be able to read your opponent to understand his or her capabilities.  You need to learn to defend critical spaces, such as generally blocking the critical space around your face.  Balance is key.  Disrupting balance means that your opponent's space of applyable reactions becomes extremely limited -- a key concept in game theory -- so understanding how balance works in general is fundamental to martial arts.  But you must be capable of strategizing with these inferences.  And it's ironic how crucial empathy is to martial arts.  You must clearly see how your opponent sees.

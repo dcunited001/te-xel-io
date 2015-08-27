@@ -91,6 +91,8 @@ Music composition employs music theory and requires that you develop this aural 
 
 Performing music requires strengthening your self-perception.  If you're playing for an audience, you need to understand how you sound to the audience and how your expression of sound will affect their interpretation.  Playing in a group is even more important because your volume level needs to match that of the band.  Some members of a band, like drums and bass never seem to stand out, but provide a foundation for the rest of the music.  The other members would completely fall apart if the drummer lost rhythm.  So performing music with a group also allows us to introspect on the importance of developing fulfilling specialized roles as part of a group.  Additionally, improvisationally performing music as part of a group requires deep understanding of the group's intention of musical direction, as well each member's playing abilities.
 
+Drumset is unique amoung instruments for its ability to improve rhythmic coordination.  Learning drumset forces you to disassociate from conscious control over each limb as the rhythms you play become further disconnected.  You have to learn to focus on everything at once.  A good excercise is to learn to play triplet patterns while playing sixteenth note patterns with another limb, a la [Fantasie Impromptu](https://en.wikipedia.org/wiki/Fantaisie-Impromptu).
+
 <a name="writing"/>
 
 ### &#x2297; [Writing](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#writing)

@@ -219,7 +219,7 @@ Learning new languages with alternative written expression teaches us more about
 
 ## The Similarity of All Things
 
-Many are trapped believing that they are incapable of learning quickly, that it's not worthwhile. Unfortunately, many people lack the mental modeling required to efficiently learn new things.  IMO, the lack of efficient and robust modeling for cognition and metacognition is one reason some people seem to learn much faster, while others barely keep up.  I believe that early childhood experiences and thought processes determine intelligence and cognitive functionality moreso than genetics.  This is why family and early childhood care is crucial for development.
+Many are trapped believing that they are incapable of learning quickly, that it's not worthwhile. Unfortunately, many people lack the mental modeling required to efficiently learn new things.  IMO, the lack of efficient and robust modeling for cognition and metacognition is one reason some people seem to learn much faster, while others barely keep up.  I believe that early childhood experiences and thought processes determine intelligence and cognitive functionality moreso than genetics.  This is why family and early childhood care are crucial for development.
 
 Our beliefs determine what experiences we're willing to try, as well as how many times we'll be willing to keep trying when we fail.  Our behavioral metaprogramming and programming determine how we approach problems and whether we continue to practice on our own or wait for someone else to show us.  Our outlook on life determines the perspective with which we choose to view failure, as well as the light we cast it in.
 

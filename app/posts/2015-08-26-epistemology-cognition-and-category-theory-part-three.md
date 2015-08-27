@@ -95,7 +95,7 @@ Performing music requires strengthening your self-perception.  If you're playing
 
 ### &#x2297; [Writing](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#writing)
 
-Writers have to understand how to portray various situations in order to cultivate the reader's thoughts towards specific means. This means writers have to intensely understand psychology, not just of the situations they present in their works, but also of the various categories of readers, who will interpret the work differently. The best writers can do this in such a way that allows readers to explore hidden ideas that inspired a work. 
+Writers have to understand how to portray various situations in order to cultivate the reader's thoughts towards specific means. Writers need to intensely understand psychology, not just of the situations they present in their works, but also of the various categories of readers, who will interpret the work differently. The best writers can do this in such a way that allows readers to explore hidden ideas that inspired a work. 
 
 In addition to cultivating specific thought in a reader, writer's also need to captivate the reader's attention.  This requires structuring plot and events with a strategic pace and understanding what motivates people to continue reading. Writers need to understand what makes events and dialog seem "natural" or at least coherent with the story or characters. Being a good writer means you have the emotional intelligence and empathy to understand psychology and the human condition.  You'll find that a good writer is a people watcher, constantly observing their interactions and often perceiving them more clearly.  You must also develop expressive language and writing skills.
 

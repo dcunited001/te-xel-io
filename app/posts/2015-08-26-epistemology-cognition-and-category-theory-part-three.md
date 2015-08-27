@@ -1,5 +1,5 @@
 ---
-title: "Epistemology, Cognition and Category Theory: Part Three - Directive Cognitive Enhancement"
+title: "Epistemology, Cognition and Category Theory: Part Three - Directive Cognitive Expansion"
 author:
   name: "David Conner"
   tags: "philosophy math psychology category-theory intelligence"
@@ -9,37 +9,37 @@ author:
 
 Learning new activities, like chess, language or acting, can help us strengthen specific faculties of our mind, conscious and subconscious.  This is particularly effective during childhood, but neuroplasticity enables to continually update our hardware and software throughout life.  There's a huge focus on STEM and this is appropriate, but the arts offer immense benefits to further accelerate development and self-actualization.  We can't forget that what we seem to do just for fun has a great benefit in how we'll perform at work.  Additionally, the arts can help us understand what kinds of tasks our mind would be most profient at pursuing.  I'll discuss the following arts and activities:
 
-#### &#x2297; [Programming](#programming)
+#### &#x2297; [Programming](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#programming)
 
-#### &#x2297; [Chess](#chess)
+#### &#x2297; [Chess](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#chess)
 
-#### &#x2297; [Painting](#painting)
+#### &#x2297; [Painting](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#painting)
 
-#### &#x2297; [Music](#music)
+#### &#x2297; [Music](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#music)
 
-#### &#x2297; [Writing](#writing)
+#### &#x2297; [Writing](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#writing)
 
-#### &#x2297; [Freestyle Rapping](#freestyle-rapping)
+#### &#x2297; [Freestyle Rapping](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#freestyle-rapping)
 
-#### &#x2297; [Breakdancing](#breakdancing)
+#### &#x2297; [Breakdancing](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#breakdancing)
 
-#### &#x2297; [Tricking & Parkour](#tricking-and-parkour)
+#### &#x2297; [Tricking & Parkour](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#tricking-and-parkour)
 
-#### &#x2297; [Yoga](#yoga)
+#### &#x2297; [Yoga](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#yoga)
 
-#### &#x2297; [Acting](#acting)
+#### &#x2297; [Acting](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#acting)
 
-#### &#x2297; [Improv](#improv)
+#### &#x2297; [Improv](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#improv)
 
-#### &#x2297; [Directing](#directing)
+#### &#x2297; [Directing](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#directing)
 
-#### &#x2297; [Skateboarding](#skateboarding)
+#### &#x2297; [Skateboarding](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#skateboarding)
 
-#### &#x2297; [Martial Arts](#martial-arts)
+#### &#x2297; [Martial Arts](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#martial-arts)
 
-#### &#x2297; [Martial Arts with Weapons](#martial-arts-with-weapons)
+#### &#x2297; [Martial Arts with Weapons](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#martial-arts-with-weapons)
 
-#### &#x2297; [Languages](#languages)
+#### &#x2297; [Languages](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#languages)
 
 For the third time, all that we become is a result of what we have thought.  So by pursuing these activities, we're controlling the kinds of experiences that we have and choosing the benefits we'll derive from life, while equiping ourselves with more tools.  And therefore, we're determine our own course of mental development.  In order to pursue the ideal direction, we need to understand more about the mental faculties that various activities both require and develop.  These activities require a certain level of profiency in mental skills, but also improve profiency at different rates.  We also need to assess our own mind, to become aware of what would be valuable to develop further.
 
@@ -54,21 +54,24 @@ However, it is a virtue to enjoy the pursuit of that which is challenging.  Peop
 Some of these examples of arts and activities refer to specific base cognitive capabilities, like short-term memory or empathy.  Others refer to more aggregate activities, which strengthen the coordination of those base cognitive functions in a specialized way.
 
 <a name="programming"/>
-### &#x2297; [Programming](#programming)
+
+### &#x2297; [Programming](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#programming)
 
 I'm going to start out with programming because it is perhaps one of the most beneficial, in terms of expanding your cognition.  It's also one of the few that require development of metacognition.  First off, programming is rarely useful in and of itself.  That is, whether you are developing a web app, mining data to construct statistical models or coding audio visualization, you are almost always working with programming **and** another field.  In order to solve programming problems in that field, you have to exhibit proficiency in modeling problems for that domain.  
 
 Programming strenthens our ability to deconstruct and generalize large, complicated problems into smaller problems.  Therefore, it embodies our ability to abstract processes into logical step-by-step procedures.  Programming actually involves very high-level mathematic concepts, though seeing it from this perspective is hidden to most, which is actually fantastic -- you learn the basics of implementations of these high-level concepts without having to take master's level math classes.  The cognitive functions that programming improves are cognition itself and metacognition.  Anyone who learns to program fairly proficiently will become more intelligent, the earlier the better.
 
 <a name="chess"/>
-### &#x2297; [Chess](#chess)
+
+### &#x2297; [Chess](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#chess)
 
 To think more than three or four moves ahead, chess requires extensive short-term memory.  In order to excel at chess, you need to retain experience of previous games, in order to infer strategic similiarities between situations, which is the only way to really compress the space of all board positions.  You need to understand how to read your opponents moves to understand how they'll react to yours. 
 
 You also need to be able to identify the strategic board positions you want to reach in 5+ moves and deconstruct your move sequences into those that prevent interference or won't alarm your opponent.  In order to do so, you need to strenthen your cognitive ability to perform [backward induction](https://en.wikipedia.org/wiki/Backward_induction).  In chess, endgame is a backward induction problem, where you try to identify possible checkmate scenarios and the move sequences that allow you to reach them.  Backward induction is employed throughout a chess game.
 
 <a name="painting"/>
-### &#x2297; [Painting](#painting)
+
+### &#x2297; [Painting](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#painting)
 
 There's a good reason that many polymaths were painters. We live in a very visual world.  Painting and visual art in general require us to develop this kind of inner vision, which is crucial to design and expression.  Painters need to understand how to convey a universally understood message without using words.  
 
@@ -79,7 +82,8 @@ The most successful paintings are those which inspire us to meditate deeply on t
 In addition to the development of a vision, painting requires comprehending the composition of various techniques to acheive that vision.  Da Vinci and Rembrandt were masters of this process to determining process.  You have to not only understand what you want to paint, but exactly how you are going to paint it.  This requires much short-term memory.  The more experience you have, the more capable you are of extrapolating the process you will use to create it.  Additionally, these techniques can be very time-dependent for painting.
 
 <a name="music"/>
-### &#x2297; [Music](#music)
+
+### &#x2297; [Music](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#music)
 
 Music is another great cognition expanding activity, but it's important to start early, study theory and play many instruments, especially piano.  Music theory allows you to understand how many complicated patterns interrelate, in order to identify similarities in information.  
 
@@ -88,19 +92,22 @@ Music composition employs music theory and requires that you develop this aural 
 Performing music requires strengthening your self-perception.  If you're playing for an audience, you need to understand how you sound to the audience and how your expression of sound will affect their interpretation.  Playing in a group is even more important because your volume level needs to match that of the band.  Some members of a band, like drums and bass never seem to stand out, but provide a foundation for the rest of the music.  The other members would completely fall apart if the drummer lost rhythm.  So performing music with a group also allows us to introspect on the importants of developing fulfilling specialized roles as part of a group.  Additionally, improvisationally performing music as part of a group requires deep understanding of the group's intention of musical direction, as well each member's playing abilities.
 
 <a name="writing"/>
-### &#x2297; [Writing](#writing)
+
+### &#x2297; [Writing](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#writing)
 
 Writers have to understand how to portray various situations in order to cultivate the reader's thoughts towards specific means. This means writers have to intensely understand psychology, not just of the situations they present in their works, but also of the various categories of readers, who will interpret the work differently. The best writers can do this in such a way that allows readers to explore hidden ideas that inspired a work. 
 
 In addition to cultivating specific thought in a reader, writer's also need to captivate the reader's attention.  This requires structuring plot and events with a strategic pace and understanding what motivates people to continue reading. Writers need to understand what makes events and dialog seem "natural" or at least coherent with the story or characters. Being a good writer means you have the emotional intelligence and empathy to understand psychology and the human condition.  You'll find that a good writer is a people watcher, constantly observing their interactions and often perceiving them more clearly.  You must also develop expressive language and writing skills.
 
 <a name="freestyle-rapping"/>
-### &#x2297; [Freestyle Rapping](#freestyle-rapping)
+
+### &#x2297; [Freestyle Rapping](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#freestyle-rapping)
 
 MC'ing and especially freestyle rapping requires intimate knowledge of language, rhythm and expression.  The best MC's can can layer their phonetic skills with the spontaneous ideation of a coherent message.  Often you'll find MC's who freestyle and have somewhat proficient rhythm and rhyme, but aren't really conveying a message.  This doesn't take nearly as much skill as the whole package.
 
 <a name="breakdancing"/>
-### &#x2297; [Breakdancing](#breakdancing)
+
+### &#x2297; [Breakdancing](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#breakdancing)
 
 Breakdancing requires the development of the physical skills balance, flexibility and strength. Not only does more strength enable certain moves, but the more strenth you have, the less proportionate energy you invest in those moves.  Therefore, more strength, more endurage.  How does this relate to the mind?  In order to develop physical balance, flexibility and strength, you need to identify ways to develop all three, without excluding flexibility.
 
@@ -109,19 +116,22 @@ Also, breakdancing requires the development of particular spatial awareness of t
 Some bboy's focus on the power moves, like mills, flares and airflares.  Others focus on style, which is the use of movements to expression a message.  In other words, you cultivate your own personal language through dance, which transcends cultural boundaries.  In order to best express yourself through dance, you'll need to develop counting beats and phrases, until you do it subconsciously.  If you're not counting beats and phrases, you're not a dancer.
 
 <a name="tricking-and-parkour"/>
-### &#x2297; [Tricking & Parkour](#tricking-and-parkour)
+
+### &#x2297; [Tricking & Parkour](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#tricking-and-parkour)
 
 Tricking requires extremely quick reflexes and a different kind of spatial awareness of the self. Whereas breakdancing requires awareness of the body in relation to itself towards the expression of your own personal language, tricking and parkour require a kind of spatial awareness of your self in relation to your environment and environment.  You need to be able to subconsciously feel exactly where you are, with and without utilizing vision.  Similarly to bboying, you need to understand and feel which moves you can transition to next.  
 
 An experienced parkour runner sees the world differently.  Every physical scenario is an opportunity for challenge and self-expression.  I'll discuss tricking and parkour further in part five, in order to demonstrate how category theory can be used to help model something not usually considered mathematic.
 
 <a name="yoga"/>
-### &#x2297; [Yoga](#yoga)
+
+### &#x2297; [Yoga](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#yoga)
 
 Yoga develops mind-body awareness, which is very important for spatial awareness.  As you practice poses, you better understand how to balance in different planes at various joints.  In contrast to spatial awareness, you develop the subconscious understanding of which muscles contribute to balance under various circumstances, which is part of mind-body awareness.  Yoga can also facilitate the exploration of meditative states of consciousness and helps develop healthy full breathing patterns.  We all breath, but not everyone oxygenates as well as they could.
 
 <a name="acting"/>
-### &#x2297; [Acting](#acting)
+
+### &#x2297; [Acting](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#acting)
 
 This is the combination of a wide variety of skills that require high emotional intelligence and accurate self-perception.  Even for those of us who don't plan on being an actor, acting can facilitate the development of this emotional intelligence by requiring us to assume roles where we have to empathize with our character, as well as other actors.  Acting requires expressiveness, self-understanding and the ability to see things from more than one viewpoint, both visually and emotionally.  It requires the development of acute spatial awareness, accurate visual/aural self-perception and empathy with fellow actors and your audience.  To be a successful actor, you need to understand how to compartmentalize as your character, without having your own personality, mental processes and expressions bleed through.  
 
@@ -132,7 +142,8 @@ Similar to how painters develop inner vision to ideate paintings, actors develop
 **Proficiently trained neural networks can interpret & classify content, but they can also be inverted to produce content.**  This concept is clearly demonstrated in the arts ability to develop a particular kind of creative vision.
 
 <a name="improv"/>
-### &#x2297; [Improv](#improv)
+
+### &#x2297; [Improv](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#improv)
 
 Like acting, improv requires this awareness of how situations will be perceived as entertaining by the audience.  However, you have to be more familiar with the possibilities, so that you can work with the other actors to create the most entertaining experiences for your audience, while maintaining the novelty.  Improv requires empathizing with your performers in order to understand how they'll react to various situations.  
 
@@ -141,7 +152,8 @@ Interestingly, there are some overlaps with math and category theory: you want t
 Improv actors would need to be familiar with all the possible direcitons that a conversation or scenario could take.  You'll need the short-term memory and listening skills to empathize with your fellow performers.  You'll also need the spontaneity and creativity to create novel situations.  These need to be novel both to the audience and to the performers.  **In order to judge whether or not something is novel, you need to understand how various situations & possibilities are similar to each other, *which is kind of a mathematic basis for creativity.* **  Thus, improv can improve empathy, but also spontaneity by developing our subconscious ability to preprocess this scerarios in order to present our conscious mind with possibilities.
 
 <a name="directing"/>
-### &#x2297; [Directing](#directing)
+
+### &#x2297; [Directing](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#directing)
 
 Directing requires innate understanding of the perception of how a scene and a work will be perceived.  Like actors, directors need the same inner vision to develop possibilities of how a writer's vision will be portrayed.  Furthermore, they need to understand more generalized patterns of portraying this vision.  Directors need to understand how the senses can be used to direct the focus of the audience, similar to how a writer must understand how their work will direct the thoughts of the audience.  Directors must then use these techniques to create a controlled experience that facilitiates the audience's exploration of greater ideas behind the work.  
 
@@ -152,7 +164,8 @@ The director is going to be more focused on overall definite and indefinite mean
 Obviously, directing movies isn't possible for everyone.  But meditating on what it would be like to direct a work and on the processes used to create the work is a powerful exercise.
 
 <a name="skateboarding"/>
-### &#x2297; [Skateboarding](#skateboarding)
+
+### &#x2297; [Skateboarding](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#skateboarding)
 
 Like tricking, skateboarding develops spatial awareness, but it requires an acute understanding of how to manipulate an object as an extension of your body.  Skateboarding requires extremely quick reflexes, so you develop muscle memory and balance.  But in order to develop the techniques required for moves, you need to be creative in how you approach the problems.  In addition to learning specific moves, you also need to be capable of understanding certain generalized techniques, such as countering each foot's motion with the other foot so that the board remains centered below your body.  
 
@@ -161,7 +174,8 @@ So you need considerable muscle memory, but it's a dynamic kind of muscle memory
 Similar to how a parkour runner can't help but walk through life seeing all the possibilities around them, a skater will also observe these opportunities for challenge and self-expression.
 
 <a name="martial-arts"/>
-### &#x2297; [Martial Arts](#martial-arts)
+
+### &#x2297; [Martial Arts](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#martial-arts)
 
 Martial arts is probably one of the rewarding pursuits.  It interests me most because sparring requires the conditioned, subconscious application of physical strategy.  Similar to chess, it requires backwards induction and ideation of paths to reach a particular objective.  In contrast to chess, it's much more crucial to be capable of empathizing with your opponent in order to read their strategy.  Development of such a strategy requires short-term memory.
 
@@ -179,7 +193,8 @@ As sparring is not a strictly defined turn-based game, it's much more loosely de
 But martial arts is physcial and requires muscle memory.  I posit that by entangling empathy, spatial awareness, strategy and muscle memory, that martial arts develops certain orchestrations of cognitive functions that can be generalized in many other situations.  Martial arts requires spatial awareness of self, but also of your opponent.  You need to be able to read your opponent to understand his or her capabilities.  You need to learn to defend critical spaces, such as generally blocking the critical space around your face.  Balance is key.  Disrupting balance means that your opponent's space of applyable reactions becomes extremely limited -- a key concept in game theory -- so understanding how balance works in general is fundamental to martial arts.  But you must be capable of strategizing with these inferences.  And it's ironic how crucial empathy is to martial arts.  You must clearly see how your opponent sees.
 
 <a name="martial-arts-with-weapons"/>
-### &#x2297; [Martial Arts with Weapons](#martial-arts-with-weapons)
+
+### &#x2297; [Martial Arts with Weapons](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#martial-arts-with-weapons)
 
 Like skateboarding, fencing and kendo also require spatial awareness generalized to an object.  Whereas with skateboarding, your learned behaviors focus on a single object type, with weapon techniques, you tend to start generalizing the object itself.  As you examine different combinations of weapons, you'll learn about advantaged and disadvantaged scenarios and how the weapon choice affects the space you need to defend.  Techniques for various weapons also affect available stances while attacking or defending, which enable you to determine how best to throw your opponent off balance.  You would have no time to consciously think about this while sparring, but as you train, you condition your subconscious to deal with these various situations.  And through training, you relegate technique and other processes to your subconsious, which further frees your conscious mind to explore strategy when employing these techniques.
 
@@ -190,7 +205,8 @@ Like skateboarding, fencing and kendo also require spatial awareness generalized
 In the video above, Bruce Lee demonstrates a mastery of spatial awareness, as applied to a strategic situation.  However, be aware that the coordination of nunchuku technique requires time.  Bruce Lee's choice of nunchuku movements restricts the space of movements available next.  So success in this game not only requires mastery of technique, but also mastery of the coordination of technique to ensure versatility of next available techniques.  Additionally, you need acute understanding of your opponent's options in order to coordinate these techniques to allow your self the time and available reactions. However, as you'll see with category theory, you find that your model is never really restricted.  Instead of only considering the next available moves, you simply start understanding the nature of how moves can be combined.  In this way, you'll find that your behavior can never truly be pigeon-holed, as long as you respect and avoid certain conditions throughout the game. Therefore, with experience, you retain the ability to react to nearly any situation.
 
 <a name="languages"/>
-### &#x2297; [Languages](#languages)
+
+### &#x2297; [Languages](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#languages)
 
 More important for cognitive development than martial arts or even programming, learning multiple languages not only furthers your cultural understanding, but also enables you mind to generalize the metaphysical data that language encodes. This is especially true when learning more differentiated languages, but less useful when learning Romance languages, since they typically encapsulate the same relationships between concepts.  Romance languages have diverged fairly signifantly though.  Learning a new language is most effective during early childhood, which is where the benefits of conceptual abstraction will also be the greatest.  This is why it's unfortunately ironic for certain Americans to disdain bilingualism.  
 

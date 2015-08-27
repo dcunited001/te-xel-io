@@ -109,7 +109,7 @@ MC'ing and especially freestyle rapping requires intimate knowledge of language,
 
 ### &#x2297; [Breakdancing](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#breakdancing)
 
-Breakdancing requires the development of the physical skills balance, flexibility and strength. Not only does more strength enable certain moves, but the more strenth you have, the less proportionate energy you invest in those moves.  Therefore, more strength, more endurage.  How does this relate to the mind?  In order to develop physical balance, flexibility and strength, you need to identify ways to develop all three, without excluding flexibility.
+Breakdancing requires the development of the physical skills balance, flexibility and strength. Not only does more strength enable new moves, but the more strenth you have, the less proportionate energy you invest in those moves.  Therefore, more strength, more endurance.  How does this relate to the mind?  In order to develop physical balance, flexibility and strength, you need to identify ways to develop all three, without excluding flexibility.
 
 Also, breakdancing requires the development of particular spatial awareness of the self.  You need to be aware of all the possibilities for movement from any position to any possible position.  You develop this kind of graph, which represents your awareness of which moves allow transitions to all other moves.  You cultivate creativity to determine which transitions & moves are possible, as well as how they can be generalized and variated.  Additionally, certain song rhythms and tempo's facilitate patterns of movements.  
 

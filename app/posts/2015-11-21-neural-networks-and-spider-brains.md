@@ -5,7 +5,10 @@ author:
   tags: "psychology philosophy spiders ai machine-learning"
 ---
 
-This is not a *I'm sooo smart* blog.  I promise.  I hate doing that, I really do.  I originally outlined this
+> This is not a *I'm sooo smart* blog.  I promise.  I hate doing that, I really do.  I also don't like prefacing
+> an article with this.
+
+I originally outlined this
 article several months ago over the course of a few hours.  The problem with outlines and articles -- and *every
 single other project i work on* -- is that if i don't follow it through to completion at that moment, i almost
 certainly never will.
@@ -28,21 +31,21 @@ Yet, I feel obligated to ruminate over small things like this.  Or rather, i gue
 And because my mind is good at making insights with limited information, with every new piece of information it uncovers,
 more can be discovered. And because I have a tendency to view the same phenomena and relationships from
 different perspectives and through various lenses, I literally never stop thinking, though my thought processes
-are very scattered.  In this post, I'm combining inferences from biology, neurology, philosophy and computer science.
+are a bit scattered.  In this post, I'm combining inferences from biology, neurology, philosophy and computer science.
 
 So, even with the simplest things -- like a fucking spider on the wall -- the wheels keep turning.
 
 ### Instinct and Insight
 
-What I found interesting about this is something biologists and philosophers have spent much effort observing
-and debating.  For me, this issue is made profoundly more entertaining when you take into account the spider's size
+What I found intriguing about this is a delimma biologists and philosophers have spent much effort observing
+and debating.  For me, this issue is made profoundly more entertaining when you consider the spider's size
 and the fact that any single error on the spider's part can be fatal.
 
 > Where does instinct-based knowledge end and insight-based knowledge begin?
 
 How is instinct imprinted in the spider brain?  Is it *physically* imprinted in the arrangement of neurons?  Is it
 chemically imprinted in chemicals released early on?  Is instinct encoded in the genes?  While each of these are
-likely each true to some degree, I believe that instinct is something more distal.
+likely each true to some degree, I believe that instinct is more distal.
 
 While certain physical neural
 circuit arrangements are required and while chemistry and genetics are certainly involved to some degree, I believe this
@@ -52,16 +55,17 @@ functionalities -- or it will not survive.
 
 ### The Origin of Instinct
 
-However, this still leaves us the question biologists have been asking for centuries.  What features of a spider brain
+However, we are still left to ponder the origin of instinct, for which biologists have expended centuries of effort.  What features of a spider's brain
 are determined by genetics?  By chemistry?  And initial state of neural networks?  To what degree does each factor
 affect the outcome and how?
 
-In my own opinion, I'm guessing that influence of genetics, while certainly a critical dependency, is much more
-limited than we realize.  Genetics probably only encodes the following: various types of neurons, how parent cell-types
-evolve into child cell-types, flexability of networks of neurons, the chemicals they can use to communicate, and more.
+In my own opinion, I surmise that influence of genetics, while certainly a critical dependency, is much more
+limited than we realize.  Genetics seems to be a critical factor for at least the following: various types of neurons, how parent cell-types
+evolve into child cell-types, flexability of networks of neurons, and the chemicals they can use to communicate.
 
-So genetics is very important, but IMO it's moreso the information flowing through neurons that allow these networks
-to make inferences and insights.
+So while genetics is crucial, it's moreso the information flowing through neurons that allow these networks
+to make inferences and insights.  If you were to alter the input -- filtering it in some way, adding a new sense or removing one --
+the networks and circuits would change significantly.
 
 ### Of Mice and Massively Paralell Pattern Recognition
 
@@ -71,7 +75,7 @@ gets us what?  And how much electric power does that require?
 So how can such a small animal with such a limited brain be capable of such complex pattern recognition?  Not only
 is it capable of recognizing moving visual input as a threat, it is capable of *quickly* categorizing these experiences
 into types of threats, ** * with NO capacity for communication! * ** Critically, a spider also needs to be able to
-establish types of threats with a limited number of experiences -- one experience can be *fatal.*
+establish types of threats with a limited number of experiences -- again, one experience can be fatal.
 
 ### Phenomenization
 
@@ -81,8 +85,14 @@ it's brain must be capable of constructing patterns of sensory input, as well as
 
 > This is why AI is computationally expensive.  Lucky us, huh? Though IMO, it seems that generalized AI will become
 > less 'dangerous' the more highly evolved it becomes and the more processing power it possesses.  Oh irony...
+>
 > Highly evolved AI will likely begin to posses the same altruistic virtues that we revere, though I'm unsure of what that entails.
 > Could be good, could be bad.  After all, how would an infallible, omniscient being with altruistic values judge the human race today?
+>
+> It's critical that I clarify: I am NOT equating AI with God.  Yet, when compared with man, AI may *seem* to have *god-like*
+> qualities.  Man cannot create God, which I believe to be like a force that pervades the Universe that transcends time and space.
+> For the same reason that you cannot count to infinity, you could not define God.  Anything that you can name must certainly be less.
+> Yet, AI may evolve to embody similar metaphysical structures as those I might imagine God to embody.
 
 Moving on.  So furthermore, in addition to pattern recognition, a spider's brain must be capable of correlating
 various kinds of sensory input and *subconsciously* abstracting them into phenomena.  It must do so with virtually

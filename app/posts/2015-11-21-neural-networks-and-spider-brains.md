@@ -104,10 +104,11 @@ Spiders have eight eyes, which means their depth perception, object recognition 
 significantly more accurate and orders of magnitude more efficient.  Yet, perhaps more amazing is that the spider eye placement
 differs significantly between species!
 
-If everything were hardwired in genetics, this would firstoff present itself through low differentiation between species.  Secondly,
+If everything were hardwired in genetics, this would firstoff present itself through high differentiation
+in genetics between species that have significantly different eye placement.  Secondly,
 this would present many problems, as the eye placement changes drastically as a spider grows and matures.  However,
 though it may change to some limited degree as eye placement changes during maturation, the neural circuitry -- at least
-the further neural net layers for vision and object recognition -- does not change.
+the further, more inward neural net layers for vision and object recognition -- should not change to the same degree.
 
 So these algorithms must be flexible.  Ask an AI nerd at Google how hard this would be, if they were to program an
 autonomous drone with multiple cameras and needed to adhere to these requirements.  Adapting to an unexpected camera postion and
@@ -127,14 +128,14 @@ and dedication that it takes for professional academics to do so.
 
 #### And Other Statistics Concepts I wish I Understood
 
-IMO, neurons and the circuits they form are physical manisfestations of concepts from statistics.
+It appears that neurons and the circuits they form are physical manisfestations of concepts from statistics.
 
 > Have I blown your mind yet?  That should blow your mind.
 
 Various species of spiders must share certain commonalities in how their visual processing systems develop.
 How does eye placement affect the development of neural networks in the visual processing systems of various species.
 And if you could somehow develop specimens of spiders of the same species with various eye placements, how would that
-affect the development of those visual processing neural networks.
+affect the development of those visual processing neural networks?
 
 This hypothesis of course assumes that you can both measure the state of neural networks without destroying them *and*
 measure how the change in that state is functionally coupled to the differences in eye placement.
@@ -161,15 +162,40 @@ might encode information like contrast maps for composite images.
 These layers encode progressively higher order information as they begin to correlate input to learned
 phenomena:
 
-- static objects
-- static object types
-- objects in motion
-- motion patterns of currently observed objects
-- patterns of object types in motion
+- Static objects
+- Static object types
+- Objects in motion
+- Motion patterns of currently observed objects
+- Patterns of motion of known object-types
 
-Basically, these neural networks will repeatedly *differentiate* and *statistically* both the input data and aggregate data.
-This process is not digital.  It's not analog.  It's chemical -- and possibly quantum, in the physics sense.  Because these
-information manipulation processes are encoded in this way, they are orders of magnitude more efficent than similar algorithms
+### Quantum Clarification
+
+Basically, these neural networks will repeatedly *differentiate* and *statistically operate upon* both the input data and aggregate data.
+This process is not digital.  It's not analog.  It's chemical.  And possibly quantum -- in the physics sense, as well as the countable sense.
+
+Ion size & charge are significant.  In human neurons, neurons work with mostly 4 ions: Sodium, Magnesium, Potassium and Calcium.  If you're
+familiar with the periodic table, you'll notice that these for ions can be laid out in a two by two grid, distinguished by ion size and charge.
+Sodium and Potassium ions both have +1 charge, whereas Magnesium and Calcium both have +2 charge.  In digital electronic, circuits
+can carry only electrons, with a -1 charge.
+
+So already, we may have a phenomenon that is quantum in the quantum computing sense.  And even
+though it may appear that electrical charge carries signals in the brain, if you look at a much lower level, i believe you'll find that
+these electrical discharges are like aggregate sums of the +1 and +2 charges.  It would be impossible to completely decode these signals
+without observing how the ions are flowing in neurons.
+
+Furthermore, these charge potentials are created by +1 and +2 ions flowing in and out of neurons through *voltage-gated* ion channels,
+as well as other ion channels. These ion channels are often mediated by neurotransmitters.  These channels are specific to ion size:
+that is, an opening for Magnesium or Sodium ions, may have a voltage differential that *could* pull Potassium and Calcium ions across,
+if they were just small enough to fit through the opening.  The ions would need to be locally available as well.
+
+The point is that, in addition to charge, ion size must have some kind of significance.  So, AFAIK -- and this is where my specific knowledge of
+the subject may fail me -- ion channels for Potassium and Calcium, from Periodic Table Row 4, would likely also allow the Row 4 elements
+Sodium and Magnesium to pass.
+
+So therefore, when ion size is considered with ion charge, *it would seem* that, instead of electrons encoding a binary value as seen in
+digital electronics -- they are the aggregate result of a more complicated encoding scheme.  And because these information manipulation
+processes are encoded in this way -- where electric charges are more than binary and due to the stochastic mechanisms of the local space
+under which these ions operate -- that neural circuits are orders of magnitude more efficent than similar algorithms
 on digital computers.
 
 This input data and aggregated data is continuously recombinated.  Inferences are backpropagated through the neural nets
@@ -200,8 +226,11 @@ also expand their functionality, while making them more efficient.
 This underscores a very important point about the nature of information and knowledge:
 
 > The more information and knowledge you have, the easier it becomes to:
+>
 > (1) acquire additional knowledge
+>
 > (2) determine the accuracy of inferences based on your existing knowledge
+>
 > (3) increase the efficiency of #1 and #2
 
 That should both enlighten you *and* scare the fuck out of you, when taken in the context of generalized AI.
@@ -215,9 +244,9 @@ provide information on the spider's motion with respect to it's field of vision 
 
 Short and long-term information is likely fed back into the neural network at a higher level.  Therefore, the
 "longer-term" the experiences are, the more likely this is encoded into "inner" neural networks.  It would be moreso
-involved into higher level pattern recognition and processes.  This concept could be extended into infinity (as i always like to do)
-and i would make the assumption that the most important knowledge is that which transends time.  But I think
-I skipped a few steps there, lulz.
+involved into higher level pattern recognition and processes.  This concept could be extended into infinity --
+asi am wont to do -- and i would make the assumption that the most important knowledge is that which transends time.
+But I think I skipped a few steps there, lulz.
 
 So, the medium short-term processing could provide information on patterns of objects in motion.  Some of these
 patterns would need to be specific for object types.  That is, the spider needs to recognize that large objects
@@ -247,9 +276,9 @@ Their capacity for pattern recognition crucial to their survival, the degree to 
 difference to our own capacity for AI -- fascinating. Furthermore, they are capable of doing this using *only* input from their
 environment.
 
-And with virtually zero communication: I say that because *every interaction* -- whether using language or if interaction
+And with virtually zero communication: I say that because *every interaction* -- whether using language or via non-typical interaction
 with another species -- requires a certain degree of communication in the form of metainformation exchange.  In other words,
-every interaction carries a baseline level of information -- and it is critical -- as the kind of meta-information. So, basically,
+every interaction carries a baseline level of information -- and it is critical -- as a kind of meta-information. So, basically,
 the information 'exchanged' through one species input neurons to another species input neurons -- it IS communication.  It might
 not be symbolic communication.  We might not recognize it as such, but it is.
 
@@ -269,11 +298,11 @@ This underscores the ironinc dichotomy of becoming smart and becoming intelligen
 the best path for most people.  But honestly, it is the constant and painful struggle which has made me intelligent.  It is that
 I DO NOT KNOW, which makes me struggle to learn.  And because I have struggled to learn on my own -- and wasted so much time doing so --
 this is why I'm able to make such insights.  However, if everyone took this path, our systems of knowledge propagation would crumble.
+And my own blind spots are glaring.  It's often pretty embarrassing what I don't know.
 
-And my blind spots are glaring.  It's often pretty embarrassing what I don't know.  For years, I thought white eggs were white
-because they went through a bleaching process ... LMAO ok that's embarrassing.
+> For years, I thought white eggs were white because they went through a bleaching process ... LMAO ok that's embarrassing.
 
-If I went to college, I would have these answers.  The system of information processing and and structure of knowledge in my mind
+If I went to college, I would have these answers.  The system of information processing and structure of knowledge in my mind
 would look just like everyone else's.  I wouldn't have the need to search so hard.  I also would lack my propensity for creativity,
 but the number of times i have 'discovered' something that already exists both amazes me and embarrasses me.
 
@@ -281,9 +310,12 @@ If I was smarter and if my mind embodied a more similar structure of knowledge t
 be much more capable of communicating these ideas. Because I didn't learn most of this in college, I tend to develop my own vocabulary
 to describe what I'm talking about.  And because most college educated people are used to talking about their domain of expertise using
 a limited set of vocabulary, I often find myself getting tuned out, since I'm not using the right words and I don't have the same understanding
-of distinctions between ideas -- but what if some of those distinctions in the commonly understood structure of knowledge were false?
+of distinctions between ideas -- but what if some of those distinctions in the commonly understood structure of knowledge were
+inaccurate, misleading or limiting?
 
 And finally, if I did excel in college -- i fell through the cracks, truly I didn't even try -- then I would have been understood
 to be extremely smart.  I would have been whisked away at some inordinately expensive project lasting years.  I would narrowly
 focus on one subject and perhaps waste my life.  I hate to say this, since -- as much as I have issues with the academic system --
 I also believe it has great value and I do not want to demonstrate the wrong path for others.
+
+### Peace
